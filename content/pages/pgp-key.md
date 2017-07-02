@@ -1,0 +1,76 @@
+Title: PGP Key
+Date: 2008-04-03 15:45
+Author: admin
+Slug: pgp-key
+Status: published
+
+**7238 74F6 886D 5994 323F 1781 8CFB 47AD C384 F0CC**
+
+    :::shell
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v1
+
+    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
+    =IPlI
+    -----END PGP PUBLIC KEY BLOCK-----
+
+You can download it from here:
+<https://www.andreagrandi.it/andreagrandi.asc>

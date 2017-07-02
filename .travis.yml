@@ -1,0 +1,17 @@
+branches:
+  only:
+  - master
+language: python
+python:
+- 2.7
+install:
+- pip install -r requirements.txt
+script:
+- pelican content -o output -s publishconf.py
+notifications:
+  email:
+    on_failure: always
+env:
+  global:
+  - secure: "VejGfJvsqhpIZcjpuSvpTI/gCI5qAARreGAXvme16UCBqoRDwd49kQSLSirIHxo5iHwTN8DrPAHti+HO8Aw3h4+XWhTM5u7O4qz3NXFOALudcQHdo3ir6vbNbYhT16JeeZHhdbQbe0jWtzdiXjtP0LL2a+gdQmXm34ePlemCx0SxjX9zzqkflGyuDw4xI/yC9Lbs62niFqKQhP/6lWgwoJFdGBCnTrS+QQ9fAMx5sJsm132iuGfMEGk8SzqyJ27/JCui5P6GorQBmRj7dHvBMopELQjew66LWSqNJRlC6o/UlYaV16hUgzc+660LzAHs5rsQPukkkjDL0LNEWSStkuxAj0VVI3a1GaegnuZ1VT8HRnNNbfjzcjsOyHJQpeyOgQk2GOZ0CUfM/wBDbgYfVUnjB7PvwfExySY/BW59O1k6gYSmmfiD+zTKLh/kco9NBV0/BtjxG3yH5tYXY8Yv2QApQS8E4WTGRFUSn90+hZfd3pwAEw4AzZ+1AumTsrDWi69LAFp/I3LAJGzbbsOZJLeIkryaMZ1yVt2Wypu+EaRAjalu7M3U1xqyRa4+2W/+QXLZnQv8w+GSssx6jM1/TQjOVrFQDvTX6QyTmek2B/MmIT9FYon7CDvWSUU5EjvNq25gtPI5YPWgiQvvoznCKohWiZ+8+g7kyLf4SFJ2mZU="
+after_success: bash deploy.sh

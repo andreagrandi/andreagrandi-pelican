@@ -1,2 +1,2 @@
-# andreagrandi.it
-Source code for the static website on www.andreagrandi.it
+# andreagrandi.co.uk
+Source code for static generated website andreagrandi.co.uk
