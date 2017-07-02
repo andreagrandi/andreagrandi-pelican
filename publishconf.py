@@ -13,11 +13,9 @@ from pelicanconf import *
 SITEURL = 'https://www.andreagrandi.it'
 RELATIVE_URLS = False
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-
 DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = 'andrea-grandi-it'
+TAG_FEED_RSS = 'feeds/%s.rss.xml'
