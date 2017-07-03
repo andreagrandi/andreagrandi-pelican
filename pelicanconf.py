@@ -40,10 +40,12 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 DISPLAY_CATEGORIES_ON_MENU = False
-STATIC_PATHS = ['images', 'extra/CNAME', 'extra/favicon.ico']
+STATIC_PATHS = [
+    'images', 'extra/CNAME', 'extra/favicon.ico', 'extra/keybase.txt']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/keybase.txt': {'path': 'keybase.txt'},
 }
 THEME = 'themes/pelican-blueidea'
 PLUGIN_PATHS = ['plugins']

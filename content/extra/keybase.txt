@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/andreagrandi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.andreagrandi.it
+  * I am andreagrandi (https://keybase.io/andreagrandi) on keybase.
+  * I have a public key with fingerprint 7238 74F6 886D 5994 323F  1781 8CFB 47AD C384 F0CC
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "723874f6886d5994323f17818cfb47adc384f0cc",
+            "host": "keybase.io",
+            "key_id": "8CFB47ADC384F0CC",
+            "uid": "d00b83db5cc8947351b49c157b269400",
+            "username": "andreagrandi"
+        },
+        "merkle_root": {
+            "ctime": 1423220689,
+            "hash": "8de93985fa2b47d74f33eebb777f9ac52df29a9dbaa4dabec2ec823beedd6456073bec80f3013061e32d6147dc86d5e4bdc57a63725df7486d331b0bbe93c796",
+            "seqno": 149250
+        },
+        "service": {
+            "hostname": "www.andreagrandi.it",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1423220831,
+    "expire_in": 157680000,
+    "prev": "c6e4568ff809815c74729b7a3d95ab942faa996c126c4b21bc3303af76a2f539",
+    "seqno": 25,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVUmtMFEccP6gHIhgNGqGI1a6SGrycuzu7O7toEcVgiZC2KYSGRs6d2VlYOG+v
+eycHRVp5tFrUCIQW0LSCKRhIaYKoNWjrB21rhTZK2kAJUhMekdqA1vqkYncJTXW+
+zOv3/z3+M9ULX7AFBx2c3tZxsfJ2b1DPBLJl/NLkKqGQrhRTCSUUdmvE47dWHnkX
+oRKoAlKMZB9xavoqj64QZ75v1RzGQRUSw6fpHhNFO6ETUKUOC24Vq5onlxheQ7O4
+KMgCEXKqIIqCwksSB1igMlBkRKwiDsoKBiKn0hiblHm6z/+cKjXL6dIU81RMTtnC
+wc1bk018Cp2cbN7tnr1QaBqJQEE8xqLEQcAziJMww0PEChJH0xbQR4y5SLJHMYic
+a5izZnneRYwCN3EZuj4bHPs1C8ZwLGBZWhAl05Xsy7P0FSIBSeRVmTV9K2YkAAhB
+CEKoSjLmWUVlJVlSkCxziowIZgkWWYAIURSB4wUammss0iqgGUALDAGsIjAmE7Ya
+QzikYB7KAoAsr6iQMw8BYBCNkCmLoSSYMXzkXY9umZNYni619kahhonl22rdXMJA
+IOB8NqVTs57La+h+HetuE5Dn93t9CWb4bspf7J0tIcg1R+ZCmlnjyX32hRlT6/nG
+iIBxUKTIqxnEpVkIHgoibQ5LiBSalFggZmhRVUVaEhkeQw6yEoIyUCReRhLHqrIs
+SQJmWAFziGUQBoAGsgoFmVV5IP0fl+UdlF/ONTl9Wq5H9u82CFX6cXDsPFtQsC3E
+Hmz9YduCsMX/fezm+4uexDxYfepU8CEusDe29Wj8hoJjsD7sjZrBpNpvBkPvpkVn
+315zdqSk5t7wPy372qpGe4zQVH5kOejMGyo7kbk53d1wtWe08ve68SX2o6UD8wcD
+8ZU5p8PXvhh/uCq2Fv1hAxW642Go9gTMfFJ2f92qizFtr/3VEPJDOc7rHFJG+7Ly
+6pr22VOnFr+lL/0i4jx/tgX2h5ypHtfyu+vt/MsxV6t23jz8wJHV/cr5yvoVvcv0
+yOGBuKaQ7S0XTmd3uU/e/HHD4wfHx6JvO4LvLHKkXxie747M2juVkL0dJmZFtlwJ
+mWxd0LxppgIcyZ68EX89Mvq90SeZCV8V1v6Zuf9IddStSwciVq97Pe5SH0hD56LL
+3Ilrax9NoJwVNbUFdbH9SSvvPjyzE83vGRlIe/VpSWeF41P75Ps5Gxt77xxYNu3z
+pC7o7gvakVJyObLx1EBSb91vEZmqvWj6hGyP23kx6fv+n6aKOvZnU4+PF9sDVcxS
+8c7Y5+GtZeEf9fZ1ekMKMtIetW8Yn2xcmTJW5LQn5bj2tP+6NSsmpesgu2d5XEPY
+eWXfra7TcrrtRnPapvqXct/++djIlWvnLl9j9m888+2Sk/GNife+zFhZzkUa4VFR
+20qnhSl7xUzQVGDHvA8Diflr3FMRH6zf2hb/znrv0NOWmMzvhv7uT92y8PrXn7km
+Cre0dbj09s7yOvLmvw==
+=915Z
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andreagrandi
+
+==================================================================
