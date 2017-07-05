@@ -425,8 +425,7 @@ and leave reviews (we will introduce a new model for this). Also, we
 will see how to set proper permissions to these new API methods so that
 only admin users will be able to add products while normal users will be
 able to add reviews. So, if you feel ready, you can begin to follow the
-second part of this
-tutorial: [{filename}creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md]({filename}creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
+[second part of this tutorial]({filename}creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
 
 ### References
 
