@@ -38,7 +38,7 @@ install the needed libraries:
     pip install pytest pytest-django
 
 As long as we respect a minimum of conventions (test files must start
-with **test\_** prefix), tests can be place anywhere in the code. My
+with **test\_** prefix), tests can be placed anywhere in the code. My
 advice is to put them all together in a separate folder and divide them
 according to app names. In our case we are going to create a folder
 named "**tests**" at the same level of **manage.py** file. Inside this
