@@ -1,7 +1,7 @@
 Title: Using Twitter Bootstrap with Node.js, Express and Jade
 Date: 2013-02-24 21:05
-Author: admin
-Category: HowTo, Linux, Node.js, Programmazione, Ubuntu (EN)
+Author: Andrea Grandi
+Category: HowTo
 Tags: Bootstrap, css, Express, Jade, Javascript, NodeJs, npm, twitter, Ubuntu
 Slug: using-twitter-bootstrap-with-node-js-express-and-jade
 Status: published
@@ -21,8 +21,7 @@ found, but it was not very updated and it had a more complicated way to
 install Bootstrap, so I decided to write a new one basing it on the
 original <http://www.rs.au.com/31/how-to-install-bootstrap-v2-0-2-in-expressjs-v3-0-0>
 
-Preparing the environment
--------------------------
+### Preparing the environment
 
 I will assume that you're running any Linux distribution (in my case I'm
 using Ubuntu 12.10, but feel free to use your own distribution). Be sure
@@ -31,14 +30,15 @@ to have installed a recent version of **nodejs** and **npm** packages
 
 ### Create a project folder and install the required dependencies
 
+    :::shell
     mkdir node-bootstrap
     cd node-bootstrap
     npm install express
     npm install jade
 
-Create the basic project structure with Express
------------------------------------------------
+### Create the basic project structure with Express
 
+    :::shell
     andrea@andrea-Inspiron-660:~/Documents/sviluppo/nodejs/node-bootstrap$ node_modules/express/bin/express nodebootstrap
 
     create : nodebootstrap
@@ -65,20 +65,18 @@ Create the basic project structure with Express
 You should already have installed all the needed dependencies, even
 without executing **npm install**, anyway executing it won't hurt.
 
-Download and install Bootstrap
-------------------------------
+### Download and install Bootstrap
 
 Download Twitter Boostrap from the official
 website <http://twitter.github.com/bootstrap/assets/bootstrap.zip> and
 unzip it under the **nodebootstrap/public** folder.
 
-Bootstrap integration with Jade template system
------------------------------------------------
+### Bootstrap integration with Jade template system
 
 At this point you need to edit the **views/layout.jade** file and
 include the references to Bootsrap
 
-    !!!
+    :::jade
     html
       head
         title= title
@@ -90,40 +88,42 @@ include the references to Bootsrap
       body
         block content
 
-Test the Bootstrap integration
+### Test the Bootstrap integration
 
 At this point we will modify **views/index.jade** that is the default
 template used to render the index
 
-extends layout
+    :::jade
+    extends layout
 
-    block content
-      div.top
-        form.form-horizontal(method="post", id="loginForm")
-          label Username
-          input.span3(id="username", type="text", name="User", placeholder="Enter your username")
-          label Password
-          input.span3(id="password", type="password", name="Password")
-          input.btn(type="submit", value="Log In")
-      div.container
-        div.content
-          table.table.table-striped
-            thead
-              tr
-                th Table
-                th Heading
-            tbody
-              tr
-                td Blah
-                td Test
-              tr
-                td Hello
-                td World
+        block content
+          div.top
+            form.form-horizontal(method="post", id="loginForm")
+              label Username
+              input.span3(id="username", type="text", name="User", placeholder="Enter your username")
+              label Password
+              input.span3(id="password", type="password", name="Password")
+              input.btn(type="submit", value="Log In")
+          div.container
+            div.content
+              table.table.table-striped
+                thead
+                  tr
+                    th Table
+                    th Heading
+                tbody
+                  tr
+                    td Blah
+                    td Test
+                  tr
+                    td Hello
+                    td World
 
-      div.footer
+          div.footer
 
 Now go back to the terminal and execute the app:
 
+    :::shell
     andrea@andrea-Inspiron-660:~/Documents/sviluppo/nodejs/node-bootstrap/nodebootstrap$ node app.js
     Express server listening on port 3000
 
