@@ -1,7 +1,8 @@
 Title: Configuring ddclient to update your dynamic DNS at noip.com
 Date: 2014-09-02 16:26
-Author: admin
-Category: HowTo, Linux
+Author: Andrea Grandi
+Category: HowTo
+Tags: howto, linux, dns
 Slug: configuring-ddclient-to-update-your-dynamic-dns-at-noip-com
 Status: published
 
@@ -15,10 +16,12 @@ To update the noip.com one you just need **ddclient,** a tool that is
 available in Raspbian/Debian repository. You can install it with this
 command:
 
+    :::shell
     sudo apt-get install ddclient
 
 then you just need to edit **/etc/ddclient.conf**
 
+    :::shell
     protocol=dyndns2
     use=web, web=checkip.dyndns.com/, web-skip='IP Address'
     server=dynupdate.no-ip.com
@@ -28,6 +31,7 @@ then you just need to edit **/etc/ddclient.conf**
 
 and restart the client:
 
+    :::shell
     sudo /etc/init.d/ddclient restart
 
 That's all! Please remember that noip.com **free accounts** have a
