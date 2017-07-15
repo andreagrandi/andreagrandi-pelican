@@ -1,12 +1,12 @@
 Title: Automatically pull updated Docker images and restart containers with docker-puller
 Date: 2014-10-25 10:56
-Author: admin
-Category: HowTo, Linux
-Tags: containers, docker, docker.io, Flask, Python
+Author: Andrea Grandi
+Category: HowTo
+Tags: containers, docker, docker.io, Flask, Python, howto, Linux
 Slug: automatically-pull-updated-docker-images-and-restart-containers-with-docker-puller
 Status: published
 
-If you use [docker.io](http://docker.io) (or any similar service) to
+If you use [docker.io](https://docker.io) (or any similar service) to
 build your **Docker** containers, it may be possible that, once the new
 image is generated, you want your Docker host to automatically pull it
 and restart the container.
@@ -33,14 +33,14 @@ why I rewrote the service in Python (that is my daily language). I want
 to thank [Brian Goff](https://github.com/cpuguy83) for the idea and all
 the people in **\#docker @ FreeNode** for the support.
 
-How to use docker-puller {#how-to-use-docker-puller style="color: #333333;"}
-------------------------
+### How to use docker-puller
 
 Setting up the service should be quite easy. After you clone the
 repository from https://github.com/glowdigitalmedia/docker-puller there
 is a **config.json** file where you define the **host**, **port**, a
 **token** and a list of **hooks** you want to react to. For example:
 
+    :::json
     {
         "host": "localhost",
         "port": 8000,
@@ -54,6 +54,7 @@ Create a **bash script** (in this case it was called hello.sh) and put
 it under script folder and write the instructions to be executed to pull
 the new image and restart the container (example):
 
+    :::shell
     docker pull andreagrandi/test:latest
     docker stop test
     docker rm test
