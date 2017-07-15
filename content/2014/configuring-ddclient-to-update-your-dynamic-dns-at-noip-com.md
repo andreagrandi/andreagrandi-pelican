@@ -12,7 +12,7 @@ RaspberryPi connected to your home DSL and you want it to be always
 reachable without knowing the current IP address (the IP could change if
 you have a normal DSL service at home), you need a dynamic DNS service.
 
-To update the noip.com one you just need **ddclient,** a tool that is
+To update the noip.com one you just need **ddclient** a tool that is
 available in Raspbian/Debian repository. You can install it with this
 command:
 
