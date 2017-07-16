@@ -1,15 +1,14 @@
 Title: HowTo extend HTC Desire internal memory to 2Gb using CyanogenMod 7 and Data2SD
 Date: 2011-08-13 22:08
-Author: admin
-Category: Android, Google, Linux
+Author: Andrea Grandi
+Category: HowTo
+Tags: Android, Google, Linux, howto, cyanogenmod
 Slug: howto-extend-htc-desire-internal-memory-to-2gb-using-cyanogenmod-7-and-data2sd
 Status: published
 
-![](http://www.andreagrandi.it/wp-content/uploads/2011/08/htc-desire-300x260.jpg "htc-desire"){.alignright
-.size-medium .wp-image-547 width="192" height="166"}
+[![htc-desire]({filename}/images/2011/08/htc-desire-300x260.jpg){ width=60% }]({filename}/images/2011/08/htc-desire-300x260.jpg)
 
-Introduction
-------------
+### Introduction
 
 Even if it's not a new model, the **HTC Desire** is still a very good
 Android device, thanks to its **1Ghz** CPU and **512 Mb RAM**, but one
@@ -23,8 +22,7 @@ card, there is a very nice utility called **Data2SD**. Please note that
 this procedure requires you to reflash your device and partition your SD
 card, so **please do a complete backup** before proceding.
 
-What you need
--------------
+### What you need
 
 -   a **rooted** HTC Desire (you need to have a rooted phone with a
     **recovery** already installed)
@@ -42,21 +40,12 @@ What you need
     you can download a live Linux image with GParted
     installed: <http://gparted.sourceforge.net/livecd.php>
 
-Procedure
----------
-
 ### Backup your data
-
-<div>
 
 Before following these instructions, please **do a complete backup** of
 your microSD, of your original ROM (using Nandroid or similar) ecc...
 
-</div>
-
 ### Prepare the microSD card
-
-<div>
 
 -   Open GParted on your Ubuntu Linux or use the GParted Live CD/USB.
 -   Delete all partitions on this microSD
@@ -67,11 +56,7 @@ your microSD, of your original ROM (using Nandroid or similar) ecc...
 -   Copy CyanogenMod7 rom, Data2SD installers and Google Apps on FAT32
     partition
 
-</div>
-
 ### CyanogenMod 7 installation
-
-<div>
 
 -   Reboot your phone into **Recovery** (turn it off then press volume
     down + power)
@@ -85,10 +70,6 @@ your microSD, of your original ROM (using Nandroid or similar) ecc...
 
 ### Data2SD installation
 
-</div>
-
-<div>
-
 -   Boot into **Recovery** again
 -   Choose "Install from SD card" and select **Data2SDInstallerX1.zip**
     (please note, you may have to **turn off the signature
@@ -99,28 +80,13 @@ your microSD, of your original ROM (using Nandroid or similar) ecc...
 
 ### Google Apps installation
 
-</div>
-
-<div>
-
 -   Reboot your phone into Recovery
 -   Choose "Install from SD card" and select the Google Apps zip file
 -   reboot your phone
 
-Conclusion
-----------
-
-</div>
-
-<div>
+### Conclusion
 
 You now have **1,97Gb total space available** instead of 148Mb. Enjoy
 your HTC Desire!
-
-</div>
-
-<div>
-
-</div>
 
 ### **Update Aug 1, 2012: since December 2011 I don't have an HTC Desire anymore. These informations could be still valid but in any other case I don't have the possibility to help you more.**
