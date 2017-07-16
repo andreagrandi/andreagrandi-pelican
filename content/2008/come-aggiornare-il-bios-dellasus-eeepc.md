@@ -1,14 +1,14 @@
 Title: Come aggiornare il BIOS dell'Asus EeePC
 Date: 2008-10-04 01:54
-Author: admin
-Category: EeePC, HowTo, Linux
+Author: Andrea Grandi
+Category: HowTo
 Tags: asus, bios, EeePC
 Slug: come-aggiornare-il-bios-dellasus-eeepc
 Status: published
 
-![](http://www.andreagrandi.it/wp-content/uploads/2008/10/eee-pc-901.jpg "eee-pc-901"){.alignright
-.size-full .wp-image-126 width="220" height="167"}L'aggiornamento del
-**BIOS** su un **Asus EeePC** puo' essere fatto in una maniera che è
+[![eeepc]({filename}/images/2008/10/eee-pc-901.jpg){ width=100% }]({filename}/images/2008/10/eee-pc-901.jpg)
+
+L'aggiornamento del **BIOS** su un **Asus EeePC** puo' essere fatto in una maniera che è
 completamente indipendente dal tipo di sistema operativo utilizzato.
 
 Per prima cosa occorre scaricare dal sito della Asus, nell'apposita
