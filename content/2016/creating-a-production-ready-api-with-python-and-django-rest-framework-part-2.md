@@ -300,7 +300,7 @@ it out with this tag:
 
 We have now implemented the POST method to add new products to our
 catalog. In the [next
-episode]({filename}/2017/creating-a-production-ready-api-with-python-and-django-rest-framework-part-3.md)
+episode]({filename}/2017/1-creating-a-production-ready-api-with-python-and-django-rest-framework-part-3.md)
 we will see how to implement endpoints to get a single product, to
 update or delete products and finally we will allow registered users to
 send a review for a specific product.

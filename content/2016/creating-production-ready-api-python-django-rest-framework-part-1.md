@@ -20,7 +20,7 @@ at: <https://github.com/andreagrandi/drf-tutorial>
 2.  [Add Authentication and POST
     methods]({filename}creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
 3.  [Handling details and changes to existing
-    data]({filename}/2017/creating-a-production-ready-api-with-python-and-django-rest-framework-part-3.md)
+    data]({filename}/2017/1-creating-a-production-ready-api-with-python-and-django-rest-framework-part-3.md)
 4.  Testing the API
 5.  Switching from Sqlite to PostgreSQL
 6.  Hosting the API on Heroku
