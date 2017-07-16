@@ -1,7 +1,8 @@
 Title: How to configure Edimax EW-7811UN Wifi dongle on Raspbian
 Date: 2014-09-02 18:21
-Author: admin
-Category: HowTo, Linux, RaspberryPi
+Author: Andrea Grandi
+Category: HowTo
+Tags: howto, Linux, RaspberryPI, WIFI, networking, Debian
 Slug: how-to-configure-edimax-ew-7811un-wifi-dongle-on-raspbian
 Status: published
 
@@ -12,17 +13,13 @@ This device is quite cheap (around £8 on
 and it's very easy to configure on Raspbian (I assume you are using a
 recent version of Raspbian. I'm using the one released on 20/06/2014).
 
-[![edimax-pi3](http://www.andreagrandi.it/wp-content/uploads/2014/09/edimax-pi3.png){.aligncenter
-.wp-image-895 width="708"
-height="398"}](http://www.andreagrandi.it/wp-content/uploads/2014/09/edimax-pi3.png)
+[![edimax-pi3]({filename}/images/2014/09/edimax-pi3.png){ width=100% }]({filename}/images/2014/09/edimax-pi3.png)
 
- 
-
-Configure the wifi adapter
---------------------------
+### Configure the wifi adapter
 
 Edit **/etc/network/interfaces** and insert these configuration values:
 
+    :::shell
     auto lo
     iface lo inet loopback
     iface eth0 inet dhcp
@@ -34,8 +31,7 @@ Edit **/etc/network/interfaces** and insert these configuration values:
     wpa-ssid YOURESSID
     wpa-psk YOURWPAPASSWORD
 
-Power management issue
-----------------------
+### Power management issue
 
 There is a known "issue" with this adapter default configuration that
 makes it to turn off if the wlan interface is not in use for some
@@ -43,12 +39,14 @@ minutes. To avoid this you have to customize the parameters used to load
 the kernel module. First check that your adapter is using **8192cu**
 module:
 
+    :::shell
     sudo lsmod | grep 8192
     8192cu 551136 0
 
 Create the file **/etc/modprobe.d/8192cu.conf** and insert the following
 lines inside:
 
+    :::shell
     # prevent power down of wireless when idle
     options 8192cu rtw_power_mgnt=0 rtw_enusbss=0
 
@@ -57,10 +55,12 @@ RaspberryPi ping your router every minute. This will ensure that your
 wifi connection will stay alive. To edit crontab just type (from pi
 user, you don't need to be root):
 
+    :::shell
     crontab -e
 
 and insert this line at the end:
 
+    :::shell
     */1 * * * * ping -c 1 192.168.0.1
 
 where 192.168.0.1 is the IP of your router (of course substitute this
@@ -79,15 +79,16 @@ module for the wifi and bring them up again.
 Just put this script in **/root/wifi\_recover.sh** and then execute from
 **root** user:
 
+    :::shell
     chmod +x wifi_recover.sh
     crontab -e
 
 Insert this line inside the crontab editor:
 
+    :::shell
     */5 * * * * /root/wifi_recover.sh
 
-Conclusion
-----------
+### Conclusion
 
 The configuration is done. Just reboot your RaspberryPi and enjoy your
 wifi connection.
