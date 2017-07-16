@@ -1,13 +1,12 @@
 Title: ebook: valgono la pena rispetto ai libri cartacei? L'esempio Amazon Kindle
 Date: 2011-12-30 21:23
-Author: admin
-Category: Recensione
-Tags: Amazon, ebook, ereader, Kindle, leggere, lettura, libri
+Author: Andrea Grandi
+Category: Review
+Tags: Amazon, ebook, ereader, Kindle, leggere, lettura, libri, review, recensione
 Slug: ebook-valgono-la-pena-rispetto-ai-libri-cartacei-lesempio-amazon-kindle
 Status: published
 
-![](http://www.andreagrandi.it/wp-content/uploads/2011/12/kindle-300x211.jpg "kindle"){.wp-image-582
-.alignleft width="192" height="135"}
+[![kindle]({filename}/images/2011/12/kindle-300x211.jpg){ width=60% }]({filename}/images/2011/12/kindle-300x211.jpg)
 
 In questo periodo diversi conoscenti mi stanno facendo domande su come
 siano gli ebook e se valga la pena farne uso rispetto ai normali libri
