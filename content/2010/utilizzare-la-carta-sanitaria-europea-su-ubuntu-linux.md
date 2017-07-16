@@ -1,14 +1,14 @@
 Title: Utilizzare la Carta Sanitaria Europea su Ubuntu Linux
 Date: 2010-11-11 14:32
-Author: admin
-Category: HowTo, Linux, Ubuntu (IT)
+Author: Andrea Grandi
+Category: HowTo
 Tags: CSE, Firefox, Regione Toscana, SmartCard
 Slug: utilizzare-la-carta-sanitaria-europea-su-ubuntu-linux
 Status: published
 
-![](http://www.andreagrandi.it/wp-content/uploads/2010/11/jpg_2056020.jpg "CSE_Toscana"){.alignright
-.size-full .wp-image-426 width="149" height="118"}In questo periodo le
-regioni stanno inviando a casa di ogni cittadino la nuova versione della
+[![CSE_Toscana]({filename}/images/2010/11/jpg_2056020.jpg){ width=60% }]({filename}/images/2010/11/jpg_2056020.jpg)
+
+In questo periodo le regioni stanno inviando a casa di ogni cittadino la nuova versione della
 **Carta Sanitaria Europea**, simile a quella che potete vedere nella
 foto. Questa nuova carta, oltre a conservare gli stessi utilizzi di
 quella vecchia, comprende anche un micro chip che permette di
@@ -23,11 +23,9 @@ pronto soccorso, risultati delle analisi ecc...
 Per accedere all'area riservata non viene utilizzato il classico metodo
 di username/password, ma bensì l'autenticazione tramite smartcard.
 
-Installazione del lettore di smartcard
---------------------------------------
+### Installazione del lettore di smartcard
 
-![](http://www.andreagrandi.it/wp-content/uploads/2010/11/miniLectorBox.jpg "miniLectorBox"){.alignright
-.size-full .wp-image-435 width="132" height="133"}
+[![miniLectorBox]({filename}/images/2010/11/miniLectorBox.jpg){ width=60% }]({filename}/images/2010/11/miniLectorBox.jpg)
 
 Prima di utilizzare la carta su **Ubuntu Linux** è necessario intanto
 procurarsi un lettore di smartcard (**vi consiglio di acquistare il
@@ -40,17 +38,16 @@ funzionamento.
 Il lettore, una volta inserito nel proprio PC dovrebbe essere
 identificabile tramite la seguente stringa:
 
-\[sourcecode lang="text"\]  
-andrea@centurion:\~\$ lsusb  
-Bus 002 Device 004: ID 072f:90cc Advanced Card Systems, Ltd ACR38
-SmartCard Reader  
-\[/sourcecode\]
+    :::shell
+    andrea@centurion:\~\$ lsusb
+    Bus 002 Device 004: ID 072f:90cc Advanced Card Systems, Ltd ACR38
+    SmartCard Reader
 
 Per installare il software necessario, occorre eseguire il seguente
 comando da terminale:
 
-\[sourcecode lang="text"\]sudo apt-get install pcsc-tools pcscd
-libccid\[/sourcecode\]
+    :::shell
+    sudo apt-get install pcsc-tools pcscd libccid
 
 dopo di che dovrete procurarvi il driver del lettore, che potete trovare
 a [questo
@@ -58,31 +55,28 @@ indirizzo](http://www.regione.toscana.it/Carta_sanitaria/software/linux/Installa
 ed installarlo con il seguente comando (dopo aver scompattato l'archivio
 in una cartella a piacimento):
 
-\[sourcecode lang="text"\]sudo dpkg -i
-libminilector38u-bit4id.deb\[/sourcecode\]
+    :::shell
+    sudo dpkg -i libminilector38u-bit4id.deb
 
 Se tutto è stato eseguito correttamente, utilizzando il programma
 **pcsc\_scan** da terminale, dovreste ottenere un output simile a
 questo:
 
-\[sourcecode lang="text"\]  
-andrea@centurion:\~\$ pcsc\_scan  
-PC/SC device scanner  
-V 1.4.16 (c) 2001-2009, Ludovic Rousseau
-&lt;ludovic.rousseau@free.fr&gt;  
-Compiled with PC/SC lite version: 1.5.3  
-Scanning present readers...  
-0: ACS ACR 38U-CCID 00 00
+    :::shell
+    andrea@centurion:\~\$ pcsc_scan  
+    PC/SC device scanner  
+    V 1.4.16 (c) 2001-2009, Ludovic Rousseau
+    &lt;ludovic.rousseau@free.fr&gt;  
+    Compiled with PC/SC lite version: 1.5.3  
+    Scanning present readers...  
+    0: ACS ACR 38U-CCID 00 00
 
-Thu Nov 11 14:08:37 2010  
-Reader 0: ACS ACR 38U-CCID 00 00  
-Card state: Card inserted,  
-ATR: 3B DF 18 00 81 31 FE 7D 00 6B 15 0C 01 81 01 11 01 43 4E 53 10 31
-80 E8  
-\[/sourcecode\]
+    Thu Nov 11 14:08:37 2010  
+    Reader 0: ACS ACR 38U-CCID 00 00  
+    Card state: Card inserted,  
+    ATR: 3B DF 18 00 81 31 FE 7D 00 6B 15 0C 01 81 01 11 01 43 4E 53 10 31 80 E8
 
-Configurazione di Firefox
--------------------------
+### Configurazione di Firefox
 
 Prima di poter configurare Firefox è necessario installare un'ultima
 libreria che permetterà al browser di poter interagire con il lettore di
