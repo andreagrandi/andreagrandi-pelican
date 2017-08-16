@@ -160,7 +160,8 @@ run every time we run tests so when we call our API, the data will be already th
 
 ### Wrapping up
 
-I've written a few tests for all the views we have implemented until now and they are available
+I've written a [few tests](https://github.com/andreagrandi/drf-tutorial/blob/master/drftutorial/tests/catalog/test_views.py) 
+for all the views we have implemented until now and they are available
 if you checkout this version of the code:
 
     :::shell
