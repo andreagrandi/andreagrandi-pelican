@@ -279,8 +279,9 @@ In alternative, you can fetch the whole source code at this point:
 
 In this third part of the tutorial you learned how to handle model
 details in the API and how relations between different model work. In
-the next part of the tutorial we will do something we should have done
-since the beginning: adding tests to our code and learn how to properly
+the [next part of the tutorial]({filename}/2017/2-creating-a-production-ready-api-with-python-and-django-rest-framework-part-4.md)
+we will do something we should have done since the beginning: adding **tests** to 
+our code and learn how to properly
 test the API.
 
 ### Feedback Please
