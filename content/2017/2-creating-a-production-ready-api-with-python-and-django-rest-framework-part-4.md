@@ -1,5 +1,5 @@
 Title: Creating a production ready API with Python and Django Rest Framework – part 4
-Date: 2017-03-26 17:08
+Date: 2017-08-17 7:00
 Author: Andrea Grandi
 Category: Development
 Tags: API, Django, framework, Python, rest, tutorial
