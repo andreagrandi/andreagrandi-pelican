@@ -286,8 +286,5 @@ test the API.
 
 ### Feedback Please
 
-I know, this blog doesn’t have any “comment” feature (I was tired of
-dealing with spam), but if you want to provide some feedback you can
-still do it by email. Just visit my
-[**About**]({filename}/pages/about.md) page, you will find my
-email there.
+If you enjoyed this tutorial, please leave me some feedback!
+I really want to improve my work, based on the users feedback so any little advice will be appreciated, thanks!
