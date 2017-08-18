@@ -21,13 +21,12 @@ at: <https://github.com/andreagrandi/drf-tutorial>
     methods]({filename}creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
 3.  [Handling details and changes to existing
     data]({filename}/2017/1-creating-a-production-ready-api-with-python-and-django-rest-framework-part-3.md)
-4.  Testing the API
+4.  [Testing the API]({filename}/2017/2-creating-a-production-ready-api-with-python-and-django-rest-framework-part-4.md)
 5.  Switching from Sqlite to PostgreSQL
 6.  Hosting the API on Heroku
 7.  Add an Image field and save images to S3
 
-Create the basic structure for the API
---------------------------------------
+### Create the basic structure for the API
 
 For this tutorial I will assume you have correctly installed at least
 **Python** (I will use Python 2.7.x),
