@@ -599,3 +599,10 @@ To write this tutorial I originally followed other articles online. The main one
 - <https://www.paulfurley.com/gpg-for-humans-preparing-an-offline-machine/>
 - <https://spin.atomicobject.com/2013/11/24/secure-gpg-keys-guide/>
 - <https://rnorth.org/gpg-and-ssh-with-yubikey-for-mac>
+
+#### Amazon Association disclaimer
+
+I'm trying a little experiment with the Amazon Association program. Basically, if you click
+on any of the YubiKey links and decide to buy it, I will get a little commission from it.
+I've never tried this before and I've no idea if it works or not. I'm writing this here just for the
+sake of transparency.
