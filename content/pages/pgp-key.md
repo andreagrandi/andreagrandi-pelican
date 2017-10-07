@@ -6,7 +6,7 @@ Status: published
 
 **7D4C 4090 DB50 1693 4614  F6FC 6206 9DE9 2240 402E**
 
-    :::shell
+    :::text
     -----BEGIN PGP PUBLIC KEY BLOCK-----
 
     mQINBFnJP4gBEAC/AktYcEGSdJfdgx+gmKLBaExJuGW74NK/BUv8NNqFOuPzCbRH
