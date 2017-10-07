@@ -4,7 +4,7 @@ Author: Andrea Grandi
 Category: HowTo
 Tags: GnuPG, PGP, Security, YubiKey, Encryption
 Slug: configuring-offline-gnupg-masterkey-subkeys-on-yubikey
-Status: draft
+Status: published
 
 I've recently bought a [YubiKey 4](https://www.amazon.co.uk/Yubico-Y-158-YubiKey-4-Black/dp/B018Y1Q71M/ref=as_li_ss_tl?ie=UTF8&qid=1507054059&sr=8-1&keywords=yubico+4&linkCode=ll1&tag=andreagrandi-21&linkId=6da97357c6fe86ca94df918c172f6605) and 
 decided to use it for GnuPG too, other than using it as hardware 2FA.
