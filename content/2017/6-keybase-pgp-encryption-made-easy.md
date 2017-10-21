@@ -46,7 +46,7 @@ where you will find at least three other folders: **public**, **private**, **tea
 
 #### Public folders
 
-Anything you place inside the /public folde can be accessed by any Keybase user and it's
+Anything you place inside the /public folder can be accessed by any Keybase user and it's
 automatically signed. Every user public folder/file can be accessed using their Keybase username,
 like for example **/keybase/public/andreagrandi/hello.txt** but you can also use any other identity like
 **/keybase/public/andreagrandi@github/hello.txt** or **/keybase/public/andreagrandi@twitter/hello.txt**
@@ -176,7 +176,7 @@ repositories, but their content is stored in a safer way.
 
 What is the **difference** with GitHub private repositories? In GitHub a private repository is used to store information that
 only our account can access, but the files are accessible in plain text by GitHub employees. With encrypted Git repositories
-instead, the **information are encrypted before they leave our device** and they are stored ecnrypted. Nobody, without having our
+instead, the **information are encrypted before they leave our device** and they are stored encrypted. Nobody, without having our
 private key can read them, not even Keybase employees.
 
 #### Teams and Quota
