@@ -1,5 +1,5 @@
 Title: Keybase: PGP encryption made easy
-Date: 2017-10-11 22:00
+Date: 2017-10-21 12:00
 Author: Andrea Grandi
 Category: HowTo
 Tags: GnuPG, PGP, Security, Encryption, Keybase
