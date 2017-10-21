@@ -161,3 +161,46 @@ weeks these features will be available from the UI too. In the mean time you can
     keybase team add-member keybaselovers --user=alice --role=writer
 
 For more information you can have a look at the official announcement page: <https://keybase.io/blog/introducing-keybase-teams>
+
+### Git
+
+Sometimes we have the need to store private information in a safe way and we want to be sure that nobody else is
+able to access these information.
+
+Latest feature that has been added to Keybase is **encrypted Git repositories**. They are like normal GitHub
+repositories, but their content is stored in a safer way.
+
+[![]({filename}/images/2017/10/keybase_git.png){ width=100% }]({filename}/images/2017/10/keybase_git.png)
+
+#### Privacy and Security
+
+What is the **difference** with GitHub private repositories? In GitHub a private repository is used to store information that
+only our account can access, but the files are accessible in plain text by GitHub employees. With encrypted Git repositories
+instead, the **information are encrypted before they leave our device** and they are stored ecnrypted. Nobody, without having our
+private key can read them, not even Keybase employees.
+
+#### Teams and Quota
+
+Encrypted Git repositories are of course available for teams too. Creating a team repository, it will be available to
+all the members of the team.
+
+Both teams and single users have **100GB of space** available (which is separate from Folders quota).
+
+#### Usage
+
+If I create my personal repository called **documents** all I have to do to clone it and use it is:
+
+    :::shell
+    git clone keybase://private/andreagrandi/documents
+
+and I can use it as a normal git repository. Every time I commit and push something, the content will be **signed and encrypted**
+and only available to the repository owner (which is me) or to the whole team if it's a team repository.
+
+For more information, please have a look at the official announcement here: <https://keybase.io/blog/encrypted-git-for-everyone>
+
+### Conclusion
+
+Keybase is still in continuous development but it already offers a few interesting features which can help people
+in their every day life. I strongly advise anyone to [**get an account**](https://keybase.io), play with the available features and **report any bug**
+so the developers will be able to fix them and build an even better product. I can't wait to see the features they will
+announce in the next months!
