@@ -144,7 +144,7 @@ team called **keybaselovers** you can create a sub team for admins only called *
 Teams have a dedicated encrypter folder that you will find under **/keybase/team/keybaselovers**
 
 At the moment the features available from the UI are quite limited and are only available from the command line. In the next
-weeks these features will be available from the UI too. In the mean time you can have a look ad the commandline help:
+weeks these features will be available from the UI too. In the mean time you can have a look at the commandline help:
 
     :::shell
     keybase team --help # for admin'ing teams
