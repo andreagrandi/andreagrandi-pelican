@@ -51,7 +51,9 @@ EXTRA_PATH_METADATA = {
 }
 THEME = 'themes/pelican-blueidea'
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['tipue_search']
+PLUGINS = ['tipue_search', 'ipynb.markup']
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives', 'search'))
 DISPLAY_SEARCH_FORM = True
 DISPLAY_CATEGORIES_ON_POSTINFO = True
+MARKUP = ('md', 'ipynb')
+IPYNB_USE_META_SUMMARY=True
