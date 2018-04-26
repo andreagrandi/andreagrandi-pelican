@@ -1,5 +1,5 @@
 Title: Why I'm not keen to work with recruiters
-Date: 2017-08-17 7:00
+Date: 2018-04-26 21:00
 Author: Andrea Grandi
 Category: Career
 Tags: career, recruitment, work, jobs
@@ -21,6 +21,14 @@ You have no idea (or maybe you have... but if so, why are you doing it?) how unc
 ### Agencies that keep calling a candidate against their will
 
 Seriously... if I told you once to please remove my telephone number, email and name from your contacts, you just have to do it. It's my right. It's the law. Just do it. You can't pass the contact to another colleague and hope they will have more luck. I'm very annoyed by agencies behaving like this and my advice is (if you live in UK, but hopefully there is something similar in your country) to report these companies to ICO because they are violating your rights and breaking the law.
+
+### Changing a CV without a candidate knows
+
+I found out a recruiter had changed my CV adding more "keywords" to appear more interesting for the companies. This is absolutely disgusting and I think it's illegal too.
+
+### Telling someone they are not worth £ xxx
+
+Once a recruiter asked me which salary I was looking for. I told them (they had received my CV already) and I was told: based on my experience I don't think you are worth this salary. How you dare being so rude to someone? I immediately closed the conversation and sent them an email asking to remove me from their contacts. This looked to my a quite dodgy tactic: trying to lower my expectation I could convince myself I'm not worth much and just accept the first thing they propose.
 
 ### Spamming a candidate with unrelevant jobs
 
