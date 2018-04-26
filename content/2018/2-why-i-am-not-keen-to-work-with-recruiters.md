@@ -29,3 +29,21 @@ What's the point of sending me a job decription where you look for a React front
 ### Hiding the name of the company
 
 I know, this is a very controversial aspect. Agencies think that if the candidate knows the company name, they will apply directly, skipping the agency and making you loose your "cut", so they hide the company name and first want a written assurance you will only work with them to apply to that company once the name is disclosed. I have never tried to bypass an agency in the past and I don't think to be the only honest person in this world. **If you don't tust me, why should I trust you?**
+
+### Sending a job spec to work email
+
+How can you think this is acceptable? Do you even expect me to reply? Depending on the job, using employer resources for not work related stuff is not appropriate and can even lead to disciplinary actions. I can't trust an agency that works like this.
+
+### Still waiting for a previous apply feedback and sending more jobs
+
+It doesn't work for me, sorry. If I'm still waiting the feedback from an interview I've done, I want to concentrate on that one, I don't want to try another one at the same time.
+
+### Conclusion
+
+All the above things happened to me at least once, I then decided to stop using recruitment agencies when I want to look for a new job.
+
+My advice to companies: always have a [Careers / Jobs / Work with us] updated section on your website. That's the first place where people look. Also: try to engage with existing communities. If your company uses Python, for example, attend Python conferences, meetups etc... you will meet a lot of developers. Bonus points if you host a related meetup.
+
+I met my current employer at PyCon UK conference: they had a recruitment desk and a few of them gave a talk at the conference. Surely a nice way to convince a Python developer to work for you!
+
+What have been your experiences with recruitment agencies? I'm curious to hear from developers, companies and even from agencies who behave differently from those I mentioned above.
