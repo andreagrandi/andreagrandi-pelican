@@ -37,10 +37,13 @@ code, pairing and mentoring junior developers.
 ### Professional Experience
 
 **November 2016 / present - Software Developer at Government Digital Service (London):** 
-Working in the Data division of GDS as Software
-Developer in a team of data scientists. My role is to help the team to
-deliver well structured Python applications, mentor other developers and
-bootstrap new projects.
+I worked in the Data division of GDS as Software Developer in a team of data scientists.
+My role was to help the team to deliver well structured Python applications, mentor other 
+developers and bootstrap new projects. During the last year I’ve improved my data science 
+skills and helped my team to deliver a couple of Machine Learning based projects. 
+I then moved to Data Ops team for other Python related work and finally moved to Cyber Security 
+team to help the development of a Python/AWS based application to detect and report misconfigurations 
+with potential security implications.
 
 **February 2016 / November 2016 - Software Engineer at Marks & Spencer (London):** 
 Working in the “Quick Order” team to deliver a Python/Django
