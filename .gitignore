@@ -102,3 +102,6 @@ ENV/
 
 # Pelican
 output/
+
+# OSX garbage
+.DS_Store
