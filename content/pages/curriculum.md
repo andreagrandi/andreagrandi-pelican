@@ -133,6 +133,10 @@ magazine.
 
 ### Conferences and Talks
 
+-   **April 2018** - Practical Machine Learning with Python and scikit-learn
+    (PyCon Italy)
+-   **April 2017** - Getting Started with requests HTTP library
+    (PyCon Italy)
 -   **September 2016** - Getting Started with requests HTTP library
     (PyCon UK)
 -   **April 2016** - Getting Started with BBC micro:bit (PyCon Italy)
