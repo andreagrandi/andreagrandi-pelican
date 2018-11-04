@@ -6,7 +6,7 @@ Tags: python, mentoring, programming, software, development, exercism, student
 Slug: why-i-mentor-on-exercism
 Status: published
 
-Exercism ([https://exercism.io](https://exercism.io)) is a platform that has been created to help people improving their coding skills, thanks to the volunteers mentoring the students. There are tracks for almost all the popular languages and each track has coding test that the students can download, solve offline using their preferred editor, and test the solution against the provided unit tests. Once the solution is ready to be reviewed (or even if it's not complete but the student needs help), it can be submitted to the website and it will go in a queue where the first available mentor will pick it and start mentoring.
+Exercism ([https://exercism.io](https://exercism.io)) is a platform that has been created to help people improving their coding skills, thanks to the volunteers mentoring the students. There are tracks for almost all the popular languages and each track has coding tests that the students can download, solve offline using their preferred editor, and test the solution against the provided unit tests. Once the solution is ready to be reviewed (or even if it's not complete but the student needs help), it can be submitted to the website and it will go in a queue where the first available mentor will pick it and start mentoring.
 
 The **service is free** to use for all the students and **the mentors are all volunteers** (this doesn't mean that the platform doesn't have any costs. If you are curious about the resources needed to keep the platform alive, you can give a look at [this answer on Reddit](https://www.reddit.com/r/Python/comments/9tugvn/exercismio_needs_python_mentors/e8zy5mq/).
 
