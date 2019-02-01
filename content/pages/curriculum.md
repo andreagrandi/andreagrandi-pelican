@@ -36,7 +36,12 @@ code, pairing and mentoring junior developers.
 
 ### Professional Experience
 
-**November 2016 / present - Software Developer at Government Digital Service (London):** 
+**December 2018 / present - Backend Software Engineer at LaterPay (remote):**
+I’m working as Python/Django backend developer for LaterPay, a company with a fully distributed and remote team.
+In my current role I have the opportunity to work on a backend service which uses Django, Django Rest Framework
+and it’s based on a PostgreSQL database.
+
+**November 2016 / December 2018 - Software Developer at Government Digital Service (London):** 
 I worked in the Data division of GDS as Software Developer in a team of data scientists.
 My role was to help the team to deliver well structured Python applications, mentor other 
 developers and bootstrap new projects. During the last year I’ve improved my data science 
