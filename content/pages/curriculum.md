@@ -7,7 +7,7 @@ Status: published
 ### Profile
 
 -   Name: **Andrea Grandi**
--   Where I live: London, UK
+-   Where I live: Pavia, Italy
 -   e-mail: **a.grandi** \[AT\] **gmail** \[dot\] **com**
 -   GitHub: <https://github.com/andreagrandi>
 -   LinkedIn: <https://uk.linkedin.com/in/andreagrandi>
