@@ -6,8 +6,8 @@ Status: published
 
 [![Andy\_avatar]({filename}/images/2008/01/andy_sportstracker.thumbnail.jpg)]({filename}/images/2008/01/andy_sportstracker.jpg "Andy_avatar")
 
-My name is **Andrea Grandi** and I live in **London (UK)**. I
-work as **Python/Django** developer for **Government Digital Service (GDS)** which is part of the **Cabinet Office**.
+My name is **Andrea Grandi** and I live in **Pavia (Italy)**. I
+work as **Python/Django** developer for **LaterPay** a German company with a fully distributed and remote team.
 
 In my spare time I like to work on opensource projects (I'm learning
 **Go** language at the moment and developing **Django/Python**
