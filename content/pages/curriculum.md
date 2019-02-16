@@ -22,7 +22,7 @@ Agile environment where Test Driven Development and Continuous
 Integration are the norm and where I can balance my work between writing
 code, pairing and mentoring junior developers.
 
-### **Current position:** Software Developer at Government Digital Service (London)
+### **Current position:** Backend Software Engineer at LaterPay (remote)
 
 ### Skills
 

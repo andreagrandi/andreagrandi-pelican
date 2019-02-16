@@ -14,6 +14,5 @@ In my spare time I like to work on opensource projects (I'm learning
 applications), attend local meetups and building stuff with **Arduino**
 and **RaspberryPi**.
 
-You can contact me at this address: **me** *\[at\]* **andreagrandi.it**
-
- 
+You can contact me at this address: **me** *\[at\]* **andreagrandi.it** - Note: I do **not** authorise anyone to use
+this email address for advertisement nor to contact me with unsolicited services (recruiters: I'm talking to you!).
