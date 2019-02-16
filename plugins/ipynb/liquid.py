@@ -5,7 +5,7 @@ import re
 
 from liquid_tags.mdx_liquid_tags import LiquidTags
 
-from .core import get_html_from_filepath, fix_css
+from .core import get_html_from_filepath, parse_css
 
 
 SYNTAX = "{% notebook ~/absolute/path/to/notebook.ipynb [cells[start:end]] %}"
@@ -32,12 +32,19 @@ def notebook(preprocessor, tag, markup):
     start = int(start) if start else 0
     end = int(end) if end else None
 
-    # nb_dir =  preprocessor.configs.getConfig('NOTEBOOK_DIR')
     nb_path = os.path.join('content', src)
-    content, info = get_html_from_filepath(nb_path, start=start, end=end)
-    ignore_css = preprocessor.configs.getConfig('IPYNB_IGNORE_CSS', False)
-    content = fix_css(content, info, ignore_css=ignore_css)
-    content = preprocessor.configs.htmlStash.store(content, safe=True)
+    preprocessors = preprocessor.configs.getConfig('IPYNB_PREPROCESSORS', [])
+    template = preprocessor.configs.getConfig('IPYNB_EXPORT_TEMPLATE', None)
+    content, info = get_html_from_filepath(nb_path, start=start, end=end, preprocessors=preprocessors, template=template)
+    
+    # Fix CSS
+    fix_css = preprocessor.configs.getConfig('IPYNB_FIX_CSS', True)
+    ignore_css = preprocessor.configs.getConfig('IPYNB_SKIP_CSS', False)
+    content = parse_css(content, info, fix_css=fix_css, ignore_css=ignore_css)
+    
+    # TODO: add bleach parsing for safe html
+    # https://github.com/Python-Markdown/markdown/commit/7f63b20b819b83afef0ddadc2e210ddce32a2be3
+    content = preprocessor.configs.htmlStash.store(content)
     return content
 
 
