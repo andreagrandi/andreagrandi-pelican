@@ -13,7 +13,7 @@ This device is quite cheap (around £8 on
 and it's very easy to configure on Raspbian (I assume you are using a
 recent version of Raspbian. I'm using the one released on 20/06/2014).
 
-[![edimax-pi3]({filename}/images/2014/09/edimax-pi3.png){ width=100% }]({filename}/images/2014/09/edimax-pi3.png)
+[![edimax-pi3]({static}/images/2014/09/edimax-pi3.png){ width=100% }]({static}/images/2014/09/edimax-pi3.png)
 
 ### Configure the wifi adapter
 

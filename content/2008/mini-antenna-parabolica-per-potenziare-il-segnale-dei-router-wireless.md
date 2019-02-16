@@ -6,7 +6,7 @@ Tags: antenna, wifi
 Slug: mini-antenna-parabolica-per-potenziare-il-segnale-dei-router-wireless
 Status: published
 
-[![]({filename}/images/2008/10/29102008769.jpg){width=100%}]({filename}/images/2017/10/teams-splash-announcement.png)
+[![]({static}/images/2008/10/29102008769.jpg){width=100%}]({static}/images/2017/10/teams-splash-announcement.png)
 
 Dopo averne sentito tanto parlare, senza mai aver avuto occasione di provarla
 direttamente, mi sono deciso a costruire una **mini antenna parabolica**

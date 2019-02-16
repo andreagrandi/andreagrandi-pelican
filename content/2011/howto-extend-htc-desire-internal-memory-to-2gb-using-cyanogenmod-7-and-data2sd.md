@@ -6,7 +6,7 @@ Tags: Android, Google, Linux, howto, cyanogenmod
 Slug: howto-extend-htc-desire-internal-memory-to-2gb-using-cyanogenmod-7-and-data2sd
 Status: published
 
-[![htc-desire]({filename}/images/2011/08/htc-desire-300x260.jpg){ width=60% }]({filename}/images/2011/08/htc-desire-300x260.jpg)
+[![htc-desire]({static}/images/2011/08/htc-desire-300x260.jpg){ width=60% }]({static}/images/2011/08/htc-desire-300x260.jpg)
 
 ### Introduction
 

@@ -32,7 +32,7 @@ at the end of the domain name). Here is the configuration of my own
 droplet (you will notice also a CNAME record. You need it if you want
 www.yourdomain.com to correctly point to your ip.
 
-[![dns\_config\_digitalocean]({filename}/images/2014/08/dns_config_digitalocean.jpg){ width=100% }]({filename}/images/2014/08/dns_config_digitalocean.jpg)
+[![dns\_config\_digitalocean]({static}/images/2014/08/dns_config_digitalocean.jpg){ width=100% }]({static}/images/2014/08/dns_config_digitalocean.jpg)
 
 ### Configuring Postfix
 

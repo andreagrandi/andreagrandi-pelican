@@ -21,7 +21,7 @@ account on the remote PC.
 
 ### Add the remote device to QtCreator
 
-[![QtCreatorDevice]({filename}/images/2013/01/QtCreatorDevice.png){ width=100% }]({filename}/images/2013/01/QtCreatorDevice.png)
+[![QtCreatorDevice]({static}/images/2013/01/QtCreatorDevice.png){ width=100% }]({static}/images/2013/01/QtCreatorDevice.png)
 
 To add the remote Linux device on QtCreator, use the
 **Tools-&gt;Options** menu and click on "**Devices**" item. At this
@@ -36,7 +36,7 @@ working fine, just click on **Test** button.
 
 ### Add a specific Qt version
 
-[![QtCreatorQtVersion]({filename}/images/2013/01/QtCreatorQtVersion.png){ width=100% }]({filename}/images/2013/01/QtCreatorQtVersion.png)
+[![QtCreatorQtVersion]({static}/images/2013/01/QtCreatorQtVersion.png){ width=100% }]({static}/images/2013/01/QtCreatorQtVersion.png)
 
 To write your application you may need a specific Qt version that is
 different from the one distributed by your Linux distribution. There's
@@ -50,7 +50,7 @@ specific to the version you want to add (in my case it was in
 
 ### Add a Qt Kit
 
-[![QtCreatorQtKits]({filename}/images/2013/01/QtCreatorQtKits.png){ width=100% }]({filename}/images/2013/01/QtCreatorQtKits.png)
+[![QtCreatorQtKits]({static}/images/2013/01/QtCreatorQtKits.png){ width=100% }]({static}/images/2013/01/QtCreatorQtKits.png)
 
 QtCreator permits to add new **Kit** (development configurations) and
 these kits are used during project creation to specify what you want to

@@ -6,7 +6,7 @@ Tags: Amazon, ebook, ereader, Kindle, leggere, lettura, libri, review, recension
 Slug: ebook-valgono-la-pena-rispetto-ai-libri-cartacei-lesempio-amazon-kindle
 Status: published
 
-[![kindle]({filename}/images/2011/12/kindle-300x211.jpg){ width=60% }]({filename}/images/2011/12/kindle-300x211.jpg)
+[![kindle]({static}/images/2011/12/kindle-300x211.jpg){ width=60% }]({static}/images/2011/12/kindle-300x211.jpg)
 
 In questo periodo diversi conoscenti mi stanno facendo domande su come
 siano gli ebook e se valga la pena farne uso rispetto ai normali libri

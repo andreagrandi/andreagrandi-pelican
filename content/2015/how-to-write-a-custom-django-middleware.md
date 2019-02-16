@@ -13,7 +13,7 @@ composed by a **request** and a **response**. A middleware is something
 that stays in the middle. Let's give a look to the next diagram, taken
 from official Django documentation:
 
-[![middleware]({filename}/images/2015/08/middleware.png){ width=100% }]({filename}/images/2015/08/middleware.png)
+[![middleware]({static}/images/2015/08/middleware.png){ width=100% }]({static}/images/2015/08/middleware.png)
 
 ### Important things to know
 

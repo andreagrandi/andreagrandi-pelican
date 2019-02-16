@@ -6,7 +6,7 @@ Tags: CSE, Firefox, Regione Toscana, SmartCard
 Slug: utilizzare-la-carta-sanitaria-europea-su-ubuntu-linux
 Status: published
 
-[![CSE_Toscana]({filename}/images/2010/11/jpg_2056020.jpg){ width=60% }]({filename}/images/2010/11/jpg_2056020.jpg)
+[![CSE_Toscana]({static}/images/2010/11/jpg_2056020.jpg){ width=60% }]({static}/images/2010/11/jpg_2056020.jpg)
 
 In questo periodo le regioni stanno inviando a casa di ogni cittadino la nuova versione della
 **Carta Sanitaria Europea**, simile a quella che potete vedere nella
@@ -25,7 +25,7 @@ di username/password, ma bensì l'autenticazione tramite smartcard.
 
 ### Installazione del lettore di smartcard
 
-[![miniLectorBox]({filename}/images/2010/11/miniLectorBox.jpg){ width=60% }]({filename}/images/2010/11/miniLectorBox.jpg)
+[![miniLectorBox]({static}/images/2010/11/miniLectorBox.jpg){ width=60% }]({static}/images/2010/11/miniLectorBox.jpg)
 
 Prima di utilizzare la carta su **Ubuntu Linux** è necessario intanto
 procurarsi un lettore di smartcard (**vi consiglio di acquistare il

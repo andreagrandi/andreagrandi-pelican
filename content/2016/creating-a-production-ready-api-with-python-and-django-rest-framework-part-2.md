@@ -7,7 +7,7 @@ Slug: creating-a-production-ready-api-with-python-and-django-rest-framework-part
 Status: published
 
 In the [first
-part]({filename}creating-production-ready-api-python-django-rest-framework-part-1.md)
+part]({static}creating-production-ready-api-python-django-rest-framework-part-1.md)
 of this tutorial we have seen how to create a basic API using **Django
 Rest Framework**. This second part will explain how to implement
 **POST** methods and add different levels of **permissions** and
@@ -300,7 +300,7 @@ it out with this tag:
 
 We have now implemented the POST method to add new products to our
 catalog. In the [next
-episode]({filename}/2017/1-creating-a-production-ready-api-with-python-and-django-rest-framework-part-3.md)
+episode]({static}/2017/1-creating-a-production-ready-api-with-python-and-django-rest-framework-part-3.md)
 we will see how to implement endpoints to get a single product, to
 update or delete products and finally we will allow registered users to
 send a review for a specific product.
@@ -310,5 +310,5 @@ send a review for a specific product.
 I know, this blog doesn't have any "comment" feature (I was tired of
 dealing with spam), but if you want to provide some feedback you can
 still do it by email. Just visit my
-[**About**]({filename}/pages/about.md) page, you will find my
+[**About**]({static}/pages/about.md) page, you will find my
 email there.
