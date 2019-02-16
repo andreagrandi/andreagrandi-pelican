@@ -6,7 +6,7 @@ Tags: asus, bios, EeePC
 Slug: come-aggiornare-il-bios-dellasus-eeepc
 Status: published
 
-[![eeepc]({filename}/images/2008/10/eee-pc-901.jpg){ width=100% }]({filename}/images/2008/10/eee-pc-901.jpg)
+[![eeepc]({static}/images/2008/10/eee-pc-901.jpg){ width=100% }]({static}/images/2008/10/eee-pc-901.jpg)
 
 L'aggiornamento del **BIOS** su un **Asus EeePC** puo' essere fatto in una maniera che è
 completamente indipendente dal tipo di sistema operativo utilizzato.

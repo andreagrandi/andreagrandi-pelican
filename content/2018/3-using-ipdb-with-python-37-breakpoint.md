@@ -21,4 +21,4 @@ How to use it then? It's very simple. The new debugging command will read an env
 At this point, any time you use `breakpoint()` in your code, **ipdb** will be used instead of **pdb**.
 
 #### References
-* https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c
+* [https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c](https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c)

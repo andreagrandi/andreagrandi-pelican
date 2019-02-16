@@ -23,13 +23,13 @@ the light is less intense.
 
 Here is the complete **circuit scheme**:
 
-[![microbit\_breadboard\_schema\_light]({filename}/images/2016/02/microbit_breadboard_schema_light.png){ width=40% }]({filename}/images/2016/02/microbit_breadboard_schema_light.png)
+[![microbit\_breadboard\_schema\_light]({static}/images/2016/02/microbit_breadboard_schema_light.png){ width=40% }]({static}/images/2016/02/microbit_breadboard_schema_light.png)
 
 ###### "Image Copyright © Kitronik"
 
 and here is a picture of the **finished project** I created:
 
-[![microbit\_breadboard\_example\_2]({filename}/images/2016/02/microbit_breadboard_example_2.jpg){ width=40% }]({filename}/images/2016/02/microbit_breadboard_example_2.jpg)
+[![microbit\_breadboard\_example\_2]({static}/images/2016/02/microbit_breadboard_example_2.jpg){ width=40% }]({static}/images/2016/02/microbit_breadboard_example_2.jpg)
 
 The **source code** I needed is available here:
 

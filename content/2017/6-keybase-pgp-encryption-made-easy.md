@@ -32,7 +32,7 @@ proofs of your identity.
 Unless an attacker controls all your social accounts, they cannot impersonate and verify
 themselves as if they were you.
 
-[![]({filename}/images/2017/10/keybase_identity.png){ width=100% }]({filename}/images/2017/10/keybase_identity.png)
+[![]({static}/images/2017/10/keybase_identity.png){ width=100% }]({static}/images/2017/10/keybase_identity.png)
 
 Once you are on Keybase, other users can look for you even using your GitHub or Twitter username
 without having to know your email address or Keybase username. This concept can be
@@ -57,7 +57,7 @@ and you can't reach them privately.
 
 This is a public folder example of one of the Keybase developers:
 
-[![]({filename}/images/2017/10/keybase_chris_folder.png){ width=60% }]({filename}/images/2017/10/keybase_chris_folder.png)
+[![]({static}/images/2017/10/keybase_chris_folder.png){ width=60% }]({static}/images/2017/10/keybase_chris_folder.png)
 
 You can put whatever you want in these folders: your public PGP key, your official avatar,
 your Signal fingerprint etc... the other users will access these files with the assurance they
@@ -83,7 +83,7 @@ Keybase employes only have access to: 1) your top level folder names (like: "and
 
 They won't be able to access the content of your files and not even the files or folders names.
 
-Every user initially had 10GB quota available, but a few hints (including one of their [recent screenshots]({filename}/images/2017/10/teams-splash-announcement.png))
+Every user initially had 10GB quota available, but a few hints (including one of their [recent screenshots]({static}/images/2017/10/teams-splash-announcement.png))
 say that now **users have 250GB available** to store their files.
 
 You can find more technical information about Keybase encrypted folders in this article: <https://keybase.io/docs/kbfs>
@@ -94,7 +94,7 @@ A few months ago Keybase introduced the encrypted chat. Messages between users
 are **end to end encrypted** and cannot be read by anyone else, not even having access to Keybase
 servers.
 
-[![]({filename}/images/2017/10/keybase_chat.png){ width=100% }]({filename}/images/2017/10/keybase_chat.png)
+[![]({static}/images/2017/10/keybase_chat.png){ width=100% }]({static}/images/2017/10/keybase_chat.png)
 
 #### A better address book
 
@@ -135,7 +135,7 @@ Keybase has recently introduced Teams feature. The Chat becomes more similar to 
 only team members can read the content of messages and files: the server only knows about team names and users, nobody else can
 access the content.
 
-[![]({filename}/images/2017/10/teams-splash-announcement.png){ width=100% }]({filename}/images/2017/10/teams-splash-announcement.png)
+[![]({static}/images/2017/10/teams-splash-announcement.png){ width=100% }]({static}/images/2017/10/teams-splash-announcement.png)
 
 It's important to mention that in Keybase there aren't private channels like there are in Slack: if a team wants to have
 channels accessible only from a restricted group of users, the admin needs to create a sub team. For example if you have a
@@ -170,7 +170,7 @@ able to access these information.
 Latest feature that has been added to Keybase is **encrypted Git repositories**. They are like normal GitHub
 repositories, but their content is stored in a safer way.
 
-[![]({filename}/images/2017/10/keybase_git.png){ width=100% }]({filename}/images/2017/10/keybase_git.png)
+[![]({static}/images/2017/10/keybase_git.png){ width=100% }]({static}/images/2017/10/keybase_git.png)
 
 #### Privacy and Security
 

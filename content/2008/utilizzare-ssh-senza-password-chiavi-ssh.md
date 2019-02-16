@@ -6,7 +6,7 @@ Tags: chiavi, connessione, Linux, openssh, password, Sicurezza, ssh, ssh2
 Slug: utilizzare-ssh-senza-password-chiavi-ssh
 Status: published
 
-[![openssh\_logo]({filename}/images/2008/02/openssh_logo.thumbnail.png){ width=40% }]({filename}/images/2008/02/openssh_logo.thumbnail.png)
+[![openssh\_logo]({static}/images/2008/02/openssh_logo.thumbnail.png){ width=40% }]({static}/images/2008/02/openssh_logo.thumbnail.png)
 
 Quando vogliamo connetterci ad un server **SSH**, solitamente utilizziamo un
 comando simile al seguente:

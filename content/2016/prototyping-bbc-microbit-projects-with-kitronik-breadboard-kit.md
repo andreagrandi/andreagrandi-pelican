@@ -23,7 +23,7 @@ normal [male/female jumper wires](https://www.adafruit.com/products/826).
 I've built a very simple circuit following an example you can find on
 this manual <https://www.kitronik.co.uk/pdf/5603_inventors_kit_for_the_bbc_microbit_tutorial_book.pdf>
 
-[![microbit\_breadboard\_example\_1]({filename}/images/2016/02/microbit_breadboard_example_1.jpg){ width=40% }]({filename}/images/2016/02/microbit_breadboard_example_1.jpg)
+[![microbit\_breadboard\_example\_1]({static}/images/2016/02/microbit_breadboard_example_1.jpg){ width=40% }]({static}/images/2016/02/microbit_breadboard_example_1.jpg)
 
 To build the circuit you also need **4 male/female jumper wires** and
 **two buttons**. All this circuit does is to connect the buttons to the
@@ -31,7 +31,7 @@ To build the circuit you also need **4 male/female jumper wires** and
 those buttons is the same as pressing **button A** or **button B** on
 the **micro:bit** board. Here you can see the schema in detail:
 
-[![Screenshot 2016-02-0714.30.36]({filename}/images/2016/02/Screenshot-2016-02-07-14.30.36.png){ width=40% }]({filename}/images/2016/02/Screenshot-2016-02-07-14.30.36.png)
+[![Screenshot 2016-02-0714.30.36]({static}/images/2016/02/Screenshot-2016-02-07-14.30.36.png){ width=40% }]({static}/images/2016/02/Screenshot-2016-02-07-14.30.36.png)
 
 ###### "Image Copyright © Kitronik" {#image-copyright-kitronik style="text-align: center;"}
 

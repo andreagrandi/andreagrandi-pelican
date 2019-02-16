@@ -4,7 +4,7 @@ Author: Andrea Grandi
 Slug: about
 Status: published
 
-[![Andy\_avatar]({filename}/images/2008/01/andy_sportstracker.thumbnail.jpg)]({filename}/images/2008/01/andy_sportstracker.jpg "Andy_avatar")
+[![Andy\_avatar]({static}/images/2008/01/andy_sportstracker.thumbnail.jpg)]({static}/images/2008/01/andy_sportstracker.jpg "Andy_avatar")
 
 My name is **Andrea Grandi** and I live in **Pavia (Italy)**. I
 work as **Python/Django** developer for **LaterPay** a German company with a fully distributed and remote team.

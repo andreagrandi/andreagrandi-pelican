@@ -65,7 +65,7 @@ but it's very **inefficient**. The next picture will explain what
 happens when we will try, for example, to calculate the 5th number of
 the sequence:
 
-[![fibo]({filename}/images/2015/08/fibo.png){ width=60%}]({filename}/images/2015/08/fibo.png)
+[![fibo]({static}/images/2015/08/fibo.png){ width=60%}]({static}/images/2015/08/fibo.png)
 
 Fib(5) is Fib(4) + Fib(3), but Fib(4) itself is Fib(3) + Fib(2), and...
 the picture just tell us that we have calculated Fib(3) 2 times, Fib(2)
