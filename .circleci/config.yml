@@ -4,6 +4,10 @@ jobs:
     docker:
       - image: circleci/python:3.7.1
     working_directory: ~/repo
+    environment:
+      BRANCH: master
+      TARGET_REPO: andreagrandi/andreagrandi.github.io.git
+      PELICAN_OUTPUT_FOLDER: output
     steps:
       - checkout
 
