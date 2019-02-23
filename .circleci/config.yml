@@ -33,3 +33,22 @@ jobs:
           paths:
             - ./venv
           key: v1-dependencies-{{ checksum "requirements.txt" }}
+
+  deploy:
+      steps:
+        - run:
+            name: Deploy static pages to GitHub Pages
+            command: |
+              echo -e "Starting to deploy to Github Pages\n"
+
+workflows:
+  version: 2
+  build-and-deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
