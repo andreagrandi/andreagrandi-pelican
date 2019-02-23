@@ -26,6 +26,7 @@ jobs:
       - run:
           name: build static pages with Pelican
           command: |
+            . venv/bin/activate
             pelican content -o output -s publishconf.py
 
       - save_cache:
