@@ -45,6 +45,9 @@ jobs:
               git config --global user.name "CircleCI"
               #using token clone gh-pages branch
               git clone --quiet --branch=$CIRCLE_BRANCH https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
+              # Installing rsync
+              echo "Installing rsync"
+              sudo apt-get -y install rsync
               #go into directory and copy data we're interested in to that directory
               cd built_website
               rsync -r --exclude=.git --delete ../$PELICAN_OUTPUT_FOLDER/ ./
