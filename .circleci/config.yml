@@ -1,0 +1,72 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/python:3.7.1
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+            - v1-dependencies-{{ checksum "requirements.txt" }}
+            # fallback to using the latest cache if no exact match is found
+            - v1-dependencies-
+
+      - run:
+          name: install dependencies
+          command: |
+            python3 -m venv venv
+            . venv/bin/activate
+            pip install -r requirements.txt
+
+      - run:
+          name: build static pages with Pelican
+          command: |
+            . venv/bin/activate
+            pelican content -o output -s publishconf.py
+
+      - save_cache:
+          paths:
+            - ./venv
+          key: v1-dependencies-{{ checksum "requirements.txt" }}
+
+  deploy:
+      docker:
+        - image: circleci/python:3.7.1
+      environment:
+        BRANCH=master
+        TARGET_REPO=andreagrandi/andreagrandi.github.io.git
+        PELICAN_OUTPUT_FOLDER=output
+      steps:
+        - run:
+            name: Deploy static pages to GitHub Pages
+            command: |
+              echo -e "Starting to deploy to Github Pages\n"
+              git config --global user.email "builds@circleci.com"
+              git config --global user.name "CircleCI"
+              #using token clone gh-pages branch
+              git clone --quiet --branch=$BRANCH https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
+              #go into directory and copy data we're interested in to that directory
+              cd built_website
+              rsync -r --exclude=.git --delete ../$PELICAN_OUTPUT_FOLDER/ ./
+              #add, commit and push files
+              git add -f .
+              git commit -m "CircleCI build $CIRCLE_BUILD_NUM pushed to Github Pages"
+              git push -fq origin $BRANCH > /dev/null
+              echo -e "Deploy completed\n"
+
+workflows:
+  version: 2
+  build-and-deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
