@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/python:3.7.1
+      - image: python/3.7.2-stretch
     working_directory: ~/repo
     environment:
       BRANCH: master
@@ -47,8 +47,8 @@ jobs:
               #using token clone gh-pages branch
               git clone --quiet --branch=$CIRCLE_BRANCH https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
               # Installing rsync
-              echo "Installing rsync"
-              sudo apt-get -y install rsync
+              # echo "Installing rsync"
+              # sudo apt-get -y install rsync
               #go into directory and copy data we're interested in to that directory
               cd built_website
               rsync -r --exclude=.git --delete ../$PELICAN_OUTPUT_FOLDER/ ./
