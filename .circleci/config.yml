@@ -37,10 +37,11 @@ jobs:
           key: v1-dependencies-{{ checksum "requirements.txt" }}
 
       - deploy:
-          name: Deploy static pages to GitHub Pages
+          name: Deploy static pages to Github Pages
           command: |
             if [ "${CIRCLE_BRANCH}" = "master" ]; then
               echo -e "Starting to deploy to Github Pages\n"
+              cd ~/repo
               git config --global user.email "builds@circleci.com"
               git config --global user.name "CircleCI"
               #using token clone gh-pages branch
@@ -52,9 +53,9 @@ jobs:
               cd built_website
               rsync -r --exclude=.git --delete ../$PELICAN_OUTPUT_FOLDER/ ./
               #add, commit and push files
-              # git add -f .
-              # git commit -m "CircleCI build $CIRCLE_BUILD_NUM pushed to Github Pages"
-              # git push -fq origin $BRANCH > /dev/null
+              git add -f .
+              git commit -m "CircleCI build $CIRCLE_BUILD_NUM pushed to Github Pages"
+              git push -fq origin $BRANCH > /dev/null
               echo -e "Deploy completed\n"
             else
               echo "Not master branch, dry run only"
