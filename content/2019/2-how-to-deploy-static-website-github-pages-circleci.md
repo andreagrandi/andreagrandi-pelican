@@ -4,7 +4,7 @@ Author: Andrea Grandi
 Category: Web
 Tags: ci, circleci, github, static, website, deploy
 Slug: how-to-deploy-static-website-github-pages-circleci
-Status: draft
+Status: published
 
 Since I created my blog with a static pages generator, I've been using TravisCI to automate the pages build and deployment.
 My desire to learn something new (we are using CircleCI at work, but I never configured it from scratch) and the recent news about
