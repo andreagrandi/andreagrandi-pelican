@@ -62,7 +62,7 @@ jobs:
                 git push -fq origin $BRANCH > /dev/null
                 echo -e "Deploy completed\n"
               else
-                echo "Content not changed, nothig to deploy"
+                echo "Content not changed, nothing to deploy"
               fi
             else
               echo "Not master branch, dry run only"
