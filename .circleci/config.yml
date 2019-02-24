@@ -57,10 +57,13 @@ jobs:
               echo "add files to git..."
               git add -f .
               echo "commit files to git repository..."
-              git commit -m "CircleCI build $CIRCLE_BUILD_NUM pushed to Github Pages" > /dev/null
-              echo "git push files with force..."
-              git push -fq origin $BRANCH > /dev/null
-              echo -e "Deploy completed\n"
+              if [ git commit -m "CircleCI build $CIRCLE_BUILD_NUM pushed to Github Pages" ]; then
+                echo "git push files with force..."
+                git push -fq origin $BRANCH > /dev/null
+                echo -e "Deploy completed\n"
+              else
+                echo "Content not changed, nothig to deploy"
+              fi
             else
               echo "Not master branch, dry run only"
             fi
