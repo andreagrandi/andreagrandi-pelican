@@ -36,7 +36,7 @@ code, pairing and mentoring junior developers.
 
 ### Professional Experience
 
-**December 2018 / present - Backend Software Engineer at LaterPay (remote):**
+**January 2019 / present - Backend Software Engineer at LaterPay (remote):**
 I’m working as Python/Django backend developer for LaterPay, a company with a fully distributed and remote team.
 In my current role I have the opportunity to work on a backend service which uses Django, Django Rest Framework
 and it’s based on a PostgreSQL database.
