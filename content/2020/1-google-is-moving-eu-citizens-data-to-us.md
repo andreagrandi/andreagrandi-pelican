@@ -1,4 +1,4 @@
-Title: Google is illegally moving EU citizens data to US
+Title: Google is moving EU citizens data to US
 Date: 2020-02-25 18:30
 Author: Andrea Grandi
 Category: Provacy
@@ -13,22 +13,25 @@ Leaving the EU, UK citizens are not protected anymore by GDPR, and while this ma
 
 ## The problem
 
-What Google cannot do instead is **moving EU citizens data to US** and change their data controller to Google LLC. A few days ago I received this email from them:
+Even if I'm an Italian citizen and I live in Italy, a few days ago I received this email from them:
 
 [![]({static}/images/2020/02/google-data-controller-email.png){ width=90% }]({static}/images/2020/02/google-data-controller-email.png)
 
-## What's wrong with it? 
+## What's wrong with it?
 
-The "small" detail is that I'm an **Italian citizen**, living in **Italy**. 
-I **have nothing to do with UK** (even if lived there for a few years in the past, my account was created from Italy) and I'm fully entitled to **GDPR** protection and to have my data owned by a European data controller.
+The point is that I'm an **Italian citizen**, living in **Italy**. 
+I **have nothing to do with UK** (even if I lived there for a few years in the past, my account was created from Italy).
+
+Why do they mention "UK leaving EU" to me, if I don't live in UK?
 
 I tried to contact them multiple times on their [@Google](https://twitter.com/Google) account on Twitter, but I got no reply at all. I tried to search online and it looks like I'm not alone, they are doing this to many other people: [https://support.google.com/accounts/thread/29317992?hl=en&authuser=1](https://support.google.com/accounts/thread/29317992?hl=en&authuser=1)
 
 ## Looking for help
 
-What should I do? I'm no legal expert, but if they are doing this on the assumption we are UK citizens, then they are wrong.
+What should I do? Is this legally allowed?
 
-I've tried to search on their website (even googling it... no pun intended) but **I couldn't find a single contact form** to report this issue and of course **they are ignoring** both Twitter and that forum I linked previously.
+If there was an easy way to complain with them, I would have done it already, but I've tried to search on their website 
+(even googling it... no pun intended) but **I couldn't find a single contact form** to report this issue and of course **they are ignoring** both Twitter and that forum I linked previously.
 
 Should I **report them** to the **Privacy Authority**? If yes, how?
 
