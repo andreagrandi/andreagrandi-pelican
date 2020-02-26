@@ -1,7 +1,7 @@
-Title: Google is moving EU citizens data to US
+Title: Google is moving some EU citizens data to US
 Date: 2020-02-25 18:30
 Author: Andrea Grandi
-Category: Provacy
+Category: Privacy
 Tags: privacy, google, gdpr, eu, brexit, citizens, data, controller
 Slug: google-is-moving-eu-citizens-data-to-us
 Status: published
