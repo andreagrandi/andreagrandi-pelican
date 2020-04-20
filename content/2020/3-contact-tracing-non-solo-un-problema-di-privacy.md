@@ -4,7 +4,7 @@ Author: Andrea Grandi
 Category: Privacy
 Tags: privacy, trasparenza, immuni, app, contact, tracing, covid, covid19
 Slug: contact-tracing-non-solo-un-problema-di-privacy
-Status: draft
+Status: published
 
 ## Contact Tracing in Italia
 
