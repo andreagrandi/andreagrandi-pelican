@@ -48,7 +48,7 @@ Supponiamo di ricevere una notifica che ci avvisa che il giorno X siamo stati pe
 
 Se le conseguenze di questa importante notifica non vengono stabilite a priori, molti non vorranno rischiare di essere costretti in casa, magari per un falso negativo. 
 
-**Nota**: le possibilita' di falso negativo sono davvero molte. Basandosi sul raggio di azione del Bluetooth, in teoria potremmo essere a 1 metro di distanza da una persona infetta, ma essere nella stanza accanto (e quindi in totale sicurezza). Oppure potremmo passare accanto ad una persona infetta mentre siamo in macchina con il finestrino chiuso. Per non parlare poi degli operatori sanitari: in alcuni casi, loro hanno la certezza di trovarsi nei paraggi di persone infette. Verrebbero considerati infetti anche loro? E quando la sera tornano a casa dai loro coniugi e familiari, sarebbero anche essi considerati positivi dalla app?
+**Nota**: le possibilita' di un falso positivo sono davvero molte. Basandosi sul raggio di azione del Bluetooth, in teoria potremmo essere a 1 metro di distanza da una persona infetta, ma essere nella stanza accanto (e quindi in totale sicurezza). Oppure potremmo passare accanto ad una persona infetta mentre siamo in macchina con il finestrino chiuso. Per non parlare poi degli operatori sanitari: in alcuni casi, loro hanno la certezza di trovarsi nei paraggi di persone infette. Verrebbero considerati infetti anche loro? E quando la sera tornano a casa dai loro coniugi e familiari, sarebbero anche essi considerati positivi dalla app?
 
 ### Closed Source
 
