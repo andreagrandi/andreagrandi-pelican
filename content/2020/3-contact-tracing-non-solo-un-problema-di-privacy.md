@@ -54,6 +54,8 @@ Se le conseguenze di questa importante notifica non vengono stabilite a priori, 
 
 Nonostante le raccomandazioni della commissione Europea, pare che il codice sorgente della app non sara' pubblico (ma verra' rilasciato solo al Governo Italiano). Questo significa che non sara' possibile un controllo da parte di terze parti, e non ci sara' alcuna garanzia su quello che la app possa fare con i nostri dati (ne' sara' facile scovare e segnalare bug di sicurezza).
 
+Aggiornamento (21/04/2020): il governo ha annunciato in [un aggiornamento](https://innovazione.gov.it/un-aggiornamento-sull-applicazione-di-contact-tracing-digitale-per-l-emergenza-coronavirus/), che la app verra' rilasciata sotto licenza **Open Source (MPL 2.0)**.
+
 ## Conclusioni
 
 Qualsiasi strada si decida di prendere, e' fondamentale che il processo decisionale che ha portato a tale scelta sia quanto piu' **trasparente** possibile. Solo in questo modo si potra' ottenere la fiducia del maggior numero di persone e cercare di raggiungere l'effetto desiderato. Per il momento, tutta questa trasparenza non c'e' stata.
