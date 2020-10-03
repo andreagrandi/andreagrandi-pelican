@@ -1,5 +1,5 @@
 Markdown==2.6.8
-pelican==4.2.0
+pelican==4.5.0
 beautifulsoup4==4.6.0
 ipython==7.2.0
 jupyter==1.0.0
