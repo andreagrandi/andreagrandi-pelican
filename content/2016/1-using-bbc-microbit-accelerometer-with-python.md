@@ -13,8 +13,8 @@ the accelerometer. The board can "sense" if you are moving it in any of
 the 3 dimensional axes: X, Y, Z. According to the
 [documentation](https://microbit-micropython.readthedocs.org/en/latest/accelerometer.html)
 there are four methods available that can be used to get these
-values: **microbit.accelerometer.get\_values()** will return you a tuple with all the 3 values, while 
-**microbit.accelerometer.get\_x()**, **microbit.accelerometer.get\_y()**, **microbit.accelerometer.get\_z()**
+values: `microbit.accelerometer.get_values()` will return you a tuple with all the 3 values, 
+while  `microbit.accelerometer.get_x()`, `microbit.accelerometer.get_y()`, `microbit.accelerometer.get_z()`
 will give you the single values.
 
 The documentation on the official website doesn't explain much and for

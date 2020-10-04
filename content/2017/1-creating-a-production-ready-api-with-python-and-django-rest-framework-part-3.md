@@ -7,7 +7,7 @@ Slug: creating-a-production-ready-api-with-python-and-django-rest-framework-part
 Status: published
 
 In the [previous
-part]({filename}/2016/creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
+part]({filename}/2016/7-creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
 we implemented authentication, permissions and the possibility to POST
 new products for admins. In this new episode we will see how to
 implement **details** management, **relations** between models, **nested
