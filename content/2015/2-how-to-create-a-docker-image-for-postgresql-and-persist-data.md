@@ -18,7 +18,7 @@ have tested these instructions both on **Ubuntu Linux** and **OSX** (OSX
 users will need to install [boot2docker](http://boot2docker.io/),
 instructions are not available in this guide).
 
-### Dockerfile
+## Dockerfile
 
 To create a Docker image we need to create a text file named
 **Dockerfile** and use the available commands and syntax to declare how
@@ -169,7 +169,7 @@ If you try to write some data on the database and then you stop (CTRL+C)
 the running containers and spin up them again, you will see that your
 data is still there.
 
-### Conclusion
+## Conclusion
 
 This is just an example of how to prepare a Docker container for a
 specific service. The difficoult part is when you have to spin up
