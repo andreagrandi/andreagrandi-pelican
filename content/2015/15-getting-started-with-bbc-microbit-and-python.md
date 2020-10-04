@@ -24,7 +24,7 @@ what we could or couldn't do.
 
 [![]({static}/images/2015/12/computing_at_school_microbit_reduced.jpg){width=100%}]({static}/images/2015/12/computing_at_school_microbit_reduced.jpg)
 
-### The Board
+## The Board
 
 [![]({static}/images/2015/12/bbcfullbleed.jpg){width=100%}]({static}/images/2015/12/bbcfullbleed.jpg)
 
@@ -34,7 +34,7 @@ connectivity**, a **display** consisting of 25 LEDs, **two programmable
 buttons**, and can be powered by either USB or an external battery pack
 (source: <https://en.wikipedia.org/wiki/Micro_Bit> ).
 
-### Flashing the firmware
+## Flashing the firmware
 
 Once you get a new board, it probably doesn't have a proper firmware and
 application flashed. I suggest you to download the **Python MicroBit
@@ -46,7 +46,7 @@ point, drag & drop the file called
 into the mounted volume. The firmware will be flashed and during the
 operation you will see a yellow led flashing.
 
-### Using MicroPython micro:bit REPL
+## Using MicroPython micro:bit REPL
 
 To start writing some Python code on micro:bit you first need to clone
 this [repository](https://github.com/ntoll/microrepl)
@@ -88,7 +88,7 @@ this one
     Happy hacking! :-)
     >>>
 
-### BBC micro:bit MicroPython Editor
+## BBC micro:bit MicroPython Editor
 
 Typing all the Python commands directly into the shell can be a bit
 difficult. You can use a very nice and dedicated editor to write code
@@ -107,9 +107,9 @@ the methods and libraries available, you can consult the official
 documentation
 here <http://microbit-micropython.readthedocs.org/en/latest/index.html>
 
-### References
+## References
 
--  <https://github.com/ntoll/microrepl>
--  <https://github.com/ntoll/upyed>
--  <https://www.microbit.co.uk/>
--  <http://microbit-micropython.readthedocs.org/en/latest/index.html>
+- <https://github.com/ntoll/microrepl>
+- <https://github.com/ntoll/upyed>
+- <https://www.microbit.co.uk/>
+- <http://microbit-micropython.readthedocs.org/en/latest/index.html>
