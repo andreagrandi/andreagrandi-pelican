@@ -25,8 +25,7 @@ service. The main problem with these changes are:
 So, what are the alternatives to Google Talk? Luckly you have at least
 three options.
 
-Using an existing Jabber/XMPP service
--------------------------------------
+## Using an existing Jabber/XMPP service
 
 This is surely the easiest way to get a Jabber/XMPP account. There is a
 list of free services available
@@ -38,14 +37,9 @@ an account with
 [DukGo](https://duck.co/blog/using-pidgin-with-xmpp-jabber) service, you
 can configure it in this way:
 
-[![2\_addaccount](http://www.andreagrandi.it/wp-content/uploads/2015/02/2_addaccount.png){.aligncenter
-.size-full .wp-image-928 width="348"
-height="531"}](http://www.andreagrandi.it/wp-content/uploads/2015/02/2_addaccount.png)
+[![]({static}/images/2015/02/2_addaccount.png){ width=60% }]({static}/images/2015/02/2_addaccount.png)
 
- 
-
-Using an hosted Jabber/XMPP service with your domain
-----------------------------------------------------
+## Using an hosted Jabber/XMPP service with your domain
 
 A service called [**HostedIM**](http://hosted.im) offer a very nice
 service. Basically if you already have a domain, you can register an
@@ -55,6 +49,7 @@ You can create up to **5 accounts for free**. If you need more, they
 offer a paid service for that. In my case all I had to do was updating
 my DNS with the following configuration:
 
+    :::shell
     _xmpp-client._tcp.andreagrandi.it. IN SRV 10 0 5222 xmpp1.hosted.im.
     _xmpp-client._tcp.andreagrandi.it. IN SRV 20 0 5222 xmpp2.hosted.im.
     _xmpp-server._tcp.andreagrandi.it. IN SRV 20 0 5269 xmpp2.hosted.im.
@@ -62,8 +57,7 @@ my DNS with the following configuration:
     _jabber._tcp.andreagrandi.it. IN SRV 20 0 5269 xmpp2.hosted.im.
     _jabber._tcp.andreagrandi.it. IN SRV 10 0 5269 xmpp1.hosted.im.
 
-Hosting your own Jabber/XMPP service
-------------------------------------
+## Hosting your own Jabber/XMPP service
 
 If you have a VPS and some syasdmin skills, why not hosting your own
 XMPP server? There are different options available, but I can suggest
@@ -78,8 +72,7 @@ using the service offered by hosted.im. I'm curious anyway to configure
 at least one of them and when I will do it I will publish a dedicated
 tutorial about it.
 
-Conclusion
-----------
+## Conclusion
 
 Given the recent changes that Google is doing to all their services, I'm
 more than happy when I can abandon one of them, because I personally
