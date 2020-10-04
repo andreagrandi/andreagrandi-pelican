@@ -18,7 +18,7 @@ at: <https://github.com/andreagrandi/drf-tutorial>
 
 1.  Create the basic structure for the API
 2.  [Add Authentication and POST
-    methods]({filename}creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
+    methods]({filename}7-creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
 3.  [Handling details and changes to existing
     data]({filename}/2017/1-creating-a-production-ready-api-with-python-and-django-rest-framework-part-3.md)
 4.  [Testing the API]({filename}/2017/2-creating-a-production-ready-api-with-python-and-django-rest-framework-part-4.md)
@@ -418,13 +418,13 @@ That's very nice, isn't it? You can have browsable APIs at no cost.
 
 I've mentioned at the beginning that this is just the first part of my
 API tutorial. In the [next
-part]({filename}creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
+part]({filename}7-creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
 I will show you how to let the consumer of your API add some products
 and leave reviews (we will introduce a new model for this). Also, we
 will see how to set proper permissions to these new API methods so that
 only admin users will be able to add products while normal users will be
 able to add reviews. So, if you feel ready, you can begin to follow the
-[second part of this tutorial]({filename}creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
+[second part of this tutorial]({filename}7-creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
 
 ### References
 

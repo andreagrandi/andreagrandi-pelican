@@ -7,7 +7,7 @@ Slug: creating-a-production-ready-api-with-python-and-django-rest-framework-part
 Status: published
 
 In the [first
-part]({filename}creating-production-ready-api-python-django-rest-framework-part-1.md)
+part]({filename}6-creating-production-ready-api-python-django-rest-framework-part-1.md)
 of this tutorial we have seen how to create a basic API using **Django
 Rest Framework**. This second part will explain how to implement
 **POST** methods and add different levels of **permissions** and
