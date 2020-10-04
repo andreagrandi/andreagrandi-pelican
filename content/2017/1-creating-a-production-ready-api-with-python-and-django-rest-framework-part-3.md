@@ -7,7 +7,7 @@ Slug: creating-a-production-ready-api-with-python-and-django-rest-framework-part
 Status: published
 
 In the [previous
-part]({static}/2016/creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
+part]({filename}/2016/creating-a-production-ready-api-with-python-and-django-rest-framework-part-2.md)
 we implemented authentication, permissions and the possibility to POST
 new products for admins. In this new episode we will see how to
 implement **details** management, **relations** between models, **nested
@@ -279,7 +279,7 @@ In alternative, you can fetch the whole source code at this point:
 
 In this third part of the tutorial you learned how to handle model
 details in the API and how relations between different model work. In
-the [next part of the tutorial]({static}/2017/2-creating-a-production-ready-api-with-python-and-django-rest-framework-part-4.md)
+the [next part of the tutorial]({filename}/2017/2-creating-a-production-ready-api-with-python-and-django-rest-framework-part-4.md)
 we will do something we should have done since the beginning: adding **tests** to 
 our code and learn how to properly
 test the API.

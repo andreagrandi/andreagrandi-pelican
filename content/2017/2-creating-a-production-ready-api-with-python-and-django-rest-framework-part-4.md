@@ -7,7 +7,7 @@ Slug: creating-a-production-ready-api-with-python-and-django-rest-framework-part
 Status: published
 
 In the [previous
-part]({static}/2017/1-creating-a-production-ready-api-with-python-and-django-rest-framework-part-3.md)
+part]({filename}/2017/1-creating-a-production-ready-api-with-python-and-django-rest-framework-part-3.md)
 of the tutorial we implemented **details** management, **relations**
 between models, **nested APIs** and a different level of permissions.
 Our API is basically complete but it is working properly? Is the source
