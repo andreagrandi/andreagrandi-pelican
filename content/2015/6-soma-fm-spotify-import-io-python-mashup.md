@@ -22,9 +22,7 @@ Underground it's nearly impossible to have signal.
 So I was thinking: it would be nice to have **a Spotify playlist with
 Soma.fm tracks**. Wait a moment.... **I can do it!**
 
-[![Frankenstein\_Jr\_Mel\_Brooks\_1974](https://www.andreagrandi.it/wp-content/uploads/2015/07/Frankenstein_Jr_Mel_Brooks_1974.jpg){.aligncenter
-.size-full .wp-image-981 width="542"
-height="422"}](https://www.andreagrandi.it/wp-content/uploads/2015/07/Frankenstein_Jr_Mel_Brooks_1974.jpg)
+[![Frankenstein\_Jr\_Mel\_Brooks\_1974]({static}/images/2015/07/Frankenstein_Jr_Mel_Brooks_1974.jpg){ width=60% }]({static}/images/2015/07/Frankenstein_Jr_Mel_Brooks_1974.jpg)
 
 Soma.fm publishes the tracks history with all the tracks streamed during
 the last hour <http://somafm.com/indiepop/songhistory.html> so I just

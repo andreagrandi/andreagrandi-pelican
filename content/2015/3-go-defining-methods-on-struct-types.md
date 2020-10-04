@@ -15,35 +15,34 @@ In my case for example I needed something that could contain a Timer
 object, a string and a method that could start the timer and call a
 method at the end of the Timer execution. I implemented it in this way:
 
-``` {.toolbar:2 .lang:go .decode:true}
-type DeviceTimer struct {
-    DeviceID    string
-    DeviceTimer *time.Timer
-}
+    :::go
+    type DeviceTimer struct {
+        DeviceID    string
+        DeviceTimer *time.Timer
+    }
 
-func (timer DeviceTimer) startTimer() {
-    <-timer.DeviceTimer.C
-    notifyDeviceTimerExpired(timer.DeviceID)
-}
-```
+    func (timer DeviceTimer) startTimer() {
+        <-timer.DeviceTimer.C
+        notifyDeviceTimerExpired(timer.DeviceID)
+    }
 
-The key point is **row 6** "*func (timer DeviceTimer) startTimer() { ...
-}*" where I defined a method called **startTimer** and I specify timer
-**DeviceTimer** inside the func definition. This basically "extends" the
+
+The key point is **row 6** `func (timer DeviceTimer) startTimer() { ... }` 
+where I defined a method called `startTimer` and I specify timer
+`DeviceTimer` inside the func definition. This basically "extends" the
 struct DeviceTimer adding that method to it. This means that I can call
 that method in this way:
 
-``` {.toolbar:2 .lang:go .decode:true}
-timer := time.NewTimer(time.Millisecond * 300)
-device_timer := DeviceTimer{"abc123", timer}
-go device_timer.startTimer()
-```
+    :::go
+    timer := time.NewTimer(time.Millisecond * 300)
+    device_timer := DeviceTimer{"abc123", timer}
+    go device_timer.startTimer()
 
 This is all you need to do. If you want to read more about this subject,
 I can suggest to read these two articles:
 
--   **Go by Example: Methods** <https://gobyexample.com/methods>
--   **Inheritance and subclassing in Go - or its near likeness**
+- **Go by Example: Methods** <https://gobyexample.com/methods>
+- **Inheritance and subclassing in Go - or its near likeness**
     <http://golangtutorials.blogspot.co.uk/2011/06/inheritance-and-subclassing-in-go-or.html>
 
 **Note:** I'm not a Go expert and these are just my personal notes I'm
