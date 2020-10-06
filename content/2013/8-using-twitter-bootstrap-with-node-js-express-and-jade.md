@@ -21,14 +21,14 @@ found, but it was not very updated and it had a more complicated way to
 install Bootstrap, so I decided to write a new one basing it on the
 original <http://www.rs.au.com/31/how-to-install-bootstrap-v2-0-2-in-expressjs-v3-0-0>
 
-### Preparing the environment
+## Preparing the environment
 
 I will assume that you're running any Linux distribution (in my case I'm
 using Ubuntu 12.10, but feel free to use your own distribution). Be sure
 to have installed a recent version of **nodejs** and **npm** packages
 (I'm using Node.js 0.8.20 and npm 1.2.11).
 
-### Create a project folder and install the required dependencies
+## Create a project folder and install the required dependencies
 
     :::shell
     mkdir node-bootstrap
@@ -36,7 +36,7 @@ to have installed a recent version of **nodejs** and **npm** packages
     npm install express
     npm install jade
 
-### Create the basic project structure with Express
+## Create the basic project structure with Express
 
     :::shell
     andrea@andrea-Inspiron-660:~/Documents/sviluppo/nodejs/node-bootstrap$ node_modules/express/bin/express nodebootstrap
@@ -65,13 +65,13 @@ to have installed a recent version of **nodejs** and **npm** packages
 You should already have installed all the needed dependencies, even
 without executing **npm install**, anyway executing it won't hurt.
 
-### Download and install Bootstrap
+## Download and install Bootstrap
 
 Download Twitter Boostrap from the official
 website <http://twitter.github.com/bootstrap/assets/bootstrap.zip> and
 unzip it under the **nodebootstrap/public** folder.
 
-### Bootstrap integration with Jade template system
+## Bootstrap integration with Jade template system
 
 At this point you need to edit the **views/layout.jade** file and
 include the references to Bootsrap
@@ -88,7 +88,7 @@ include the references to Bootsrap
       body
         block content
 
-### Test the Bootstrap integration
+## Test the Bootstrap integration
 
 At this point we will modify **views/index.jade** that is the default
 template used to render the index

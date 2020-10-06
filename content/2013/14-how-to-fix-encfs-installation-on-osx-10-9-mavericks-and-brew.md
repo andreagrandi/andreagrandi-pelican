@@ -9,15 +9,18 @@ Status: published
 After upgrading from OSX 10.8.x to 10.9 (Mavericks), **encfs** recipe is
 broken. First of all you have to fix a problem with a library header:
 
+    :::shell
     sudo ln -s /usr/include/sys/_endian.h /usr/include/sys/endian.h
 
 then you can install encfs using this remote brew recipe:
 
+    :::shell
     brew reinstall https://gist.github.com/ghibble/7297078/raw/cae1ff000a5e1cfc670f5b7a611279ed494b63af/encfs.rb
 
 It's also possible that you have to fix fuse4x installation before being
 able to use encfs (I had to do it):
 
+    :::shell
     sudo /bin/cp -rfX /usr/local/Cellar/fuse4x-kext/0.9.2/Library/Extensions/fuse4x.kext /Library/Extensions
     sudo chmod +s /Library/Extensions/fuse4x.kext/Support/load_fuse4x
 

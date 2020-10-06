@@ -9,6 +9,7 @@ The **pip** utility distributed with Debian 6.0 has a bug once you
 upgrade it with **pip install -U pip**. You will easily get this error
 when you try to install a new package with it:
 
+    :::shell
     root@worker2:~# pip install setproctitle
     Traceback (most recent call last):
     File "/usr/bin/pip", line 8, in 
@@ -17,6 +18,7 @@ when you try to install a new package with it:
 
 Luckly there is a very easy workaround:
 
+    :::shell
     easy_install pip
     rm /usr/bin/pip
     ln -sv /usr/local/bin/pip-2.6 /usr/bin/pip

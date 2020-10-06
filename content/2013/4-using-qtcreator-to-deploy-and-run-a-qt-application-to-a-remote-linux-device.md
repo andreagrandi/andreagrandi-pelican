@@ -19,7 +19,7 @@ QtCreator you also need two Linux based PC (I used Ubuntu 12.10 for my
 development machine and Xubuntu 12.10 for the remote netbook) and an SSH
 account on the remote PC.
 
-### Add the remote device to QtCreator
+## Add the remote device to QtCreator
 
 [![QtCreatorDevice]({static}/images/2013/01/QtCreatorDevice.png){ width=100% }]({static}/images/2013/01/QtCreatorDevice.png)
 
@@ -34,7 +34,7 @@ to 20 seconds, because I had some connection problems and the connection
 kept dropping after 10 seconds trying. To verify if everything is
 working fine, just click on **Test** button.
 
-### Add a specific Qt version
+## Add a specific Qt version
 
 [![QtCreatorQtVersion]({static}/images/2013/01/QtCreatorQtVersion.png){ width=100% }]({static}/images/2013/01/QtCreatorQtVersion.png)
 
@@ -48,7 +48,7 @@ Once it's installed, just click on "**Add**" button and select the qmake
 specific to the version you want to add (in my case it was in
 **/opt/qt5/bin/qmake** ).
 
-### Add a Qt Kit
+## Add a Qt Kit
 
 [![QtCreatorQtKits]({static}/images/2013/01/QtCreatorQtKits.png){ width=100% }]({static}/images/2013/01/QtCreatorQtKits.png)
 
@@ -60,7 +60,7 @@ configured and finally the **Qt version** that we added before. With a
 kit I have a complete "toolchain" that allow me to write applications
 for a particular device, with a specific Qt version.
 
-### Putting the pieces together
+## Putting the pieces together
 
 At this point you just have to create a new "**Qt Quick 2**"
 application, and select the new kit you just created instead of the
@@ -75,7 +75,7 @@ on /opt/ or you could modify the deployment configuration to have the
 app deployed to the user /home (I will investigate on this possibility
 and I will write something in one of the next posts).
 
-### Final thoughts
+## Final thoughts
 
 What all of this could be useful for? Well, do 2+2 and you'll easily
 guess ;) In the next weeks I will post more specific informations and I

@@ -6,8 +6,7 @@ Tags: Canonical, community, Linux, meeting, Ubuntu, UDS
 Slug: uds-happening-online-only-pros-and-cons
 Status: published
 
-When last week [Canonical
-announced](http://fridge.ubuntu.com/2013/02/26/ubuntu-developer-summits-now-online-and-every-three-months/)
+When last week [Canonical announced](http://fridge.ubuntu.com/2013/02/26/ubuntu-developer-summits-now-online-and-every-three-months/)
 the usual UDS was not going to happen I was a bit shocked and
 disappointed: starting from the next UDS (that is going to happen
 tomorrow!) the event will be **online only** and **every 3 months**.
@@ -15,8 +14,7 @@ During these days I've been thinking a lot about this move and I will
 tell you what are the pros and cons, in my opinion, followed by some
 final thoughts.
 
-Pros
-----
+## Pros
 
 Having 4 UDS every year, instead of 2, is surely a better thing. I'm a
 big fan of Scrum methodology, so I think that **iterating more often is
@@ -34,8 +32,7 @@ travel and expenses to near one houndred of community people. People who
 didn't get any sponsorization had to pay all the travel expenses to
 attend the event.
 
-Cons
-----
+## Cons
 
 Potentially **less people can partecipate** to the event. Yes, like I
 said before even this sentence is true and I will explain why. First of
@@ -64,8 +61,7 @@ off from work just with 1 week notice period. It's also almost
 impossible that community members have the time to schedule a blueprint
 and be able to discuss about a subject.
 
-Final thoughts
---------------
+## Final thoughts
 
 From a **cutting costs** point of view I really can't say anything.
 Organizing UDS was surely very expensive for Canonical and nobody can
