@@ -24,6 +24,4 @@ now and all the people that are sending me their feedback, ideas and
 patches (yes **Cornelius Hald**, I'm talking about you :D ) you're
 giving me a big opportunity to learn **C++/Qt/QML**.
 
-[![](http://www.andreagrandi.it/wp-content/uploads/2012/02/CuteSoma_downloads1.png "CuteSoma_downloads"){.aligncenter
-.size-full .wp-image-609 width="600"
-height="371"}](http://www.andreagrandi.it/wp-content/uploads/2012/02/CuteSoma_downloads1.png)
+[![]({static}/images/2012/02/CuteSoma_downloads1.png "CuteSoma_downloads"){ width=100% }]({static}/images/2012/02/CuteSoma_downloads1.png)

@@ -5,8 +5,7 @@ Category: Maemo (EN), Ubuntu (EN)
 Slug: leaving-finland-and-nokia-coming-back-to-italy
 Status: published
 
-![](http://www.andreagrandi.it/wp-content/uploads/2012/09/Tampere2.jpg "Tampere2"){.alignleft
-.wp-image-707 width="269" height="202"}
+![Tampere]({static}/images/2012/09/Tampere2.jpg "Tampere2")
 
 After a very pleasant experience in **Finland (Tampere)**, I've finally
 come back to Italy. I had the opportunity to work for three months in

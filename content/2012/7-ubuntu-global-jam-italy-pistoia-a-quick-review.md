@@ -20,9 +20,7 @@ like to ask people to register to Launchpad and sign the Code of Conduct
 **before** attending the global jam. We wasted a lot of time with this
 task.
 
-[![](http://www.andreagrandi.it/wp-content/uploads/2012/03/UGJ-Pistoia-2012.jpg "UGJ-Pistoia-2012"){.aligncenter
-.wp-image-639 width="403"
-height="302"}](http://www.andreagrandi.it/wp-content/uploads/2012/03/UGJ-Pistoia-2012.jpg)
+[![]({static}/images/2012/03/UGJ-Pistoia-2012.jpg "UGJ-Pistoia-2012")]({static}/images/2012/03/UGJ-Pistoia-2012.jpg)
 
 At the end of the day me and the other people from Pistoia, took the
 other people for a quick tour around the city where we had the

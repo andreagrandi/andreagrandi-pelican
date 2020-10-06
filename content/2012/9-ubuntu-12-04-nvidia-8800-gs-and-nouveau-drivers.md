@@ -6,9 +6,7 @@ Tags: drivers, graphic, Nouveau, nvidia, Pangolin, Ubuntu
 Slug: ubuntu-12-04-nvidia-8800-gs-and-nouveau-drivers
 Status: published
 
-[![](http://www.andreagrandi.it/wp-content/uploads/2012/04/logo_nvidia_linux.jpg "logo_nvidia_linux"){.alignleft
-.wp-image-678 width="216"
-height="174"}](http://www.andreagrandi.it/wp-content/uploads/2012/04/logo_nvidia_linux.jpg)
+[![]({static}/images/2012/04/logo_nvidia_linux.jpg "logo_nvidia_linux")]({static}/images/2012/04/logo_nvidia_linux.jpg)
 
 After upgrading my desktop PC to **Ubuntu 12.04** (actually my main
 machine) I started experimenting many **Xorg crashes** and instability
@@ -25,38 +23,36 @@ desktop is very stable and Nouveau drivers are pretty fast: I can watch
 a 1080p video on Youtube in full screen without having any problem. The
 only problem with my machine is that I'm using a VGA Switcher to share
 my monitor wit Xbox (see [this old
-post](http://www.andreagrandi.it/2012/02/26/sharing-your-pc-monitor-with-your-xbox-using-a-vga-switcher/)),
+post]({filename}/2012/6-sharing-your-pc-monitor-with-your-xbox-using-a-vga-switcher.md)),
 so my monitor capabilities cannot be detected automatically and I had to
 do some manually tuning of the Xorg configuration.
 
 First of all I had to resolve a very annoying problem: the screen was
 blinking every 10 seconds and this really hurted my eyes. To fix this I
 had to add a kernel parameter: **drm\_kms\_helper.poll=0  
-**you need to add this string in **/etc/default/grub** to
-the **GRUB\_CMDLINE\_LINUX\_DEFAULT** parameter. After this your line
-should look like this one: **GRUB\_CMDLINE\_LINUX\_DEFAULT="quiet splash
-drm\_kms\_helper.poll=0"**
+**you need to add this string in **`/etc/default/grub`** to
+the **`GRUB_CMDLINE_LINUX_DEFAULT`** parameter. After this your line
+should look like this one: **`GRUB_CMDLINE_LINUX_DEFAULT="quiet splash drm_kms_helper.poll=0"`**
 
-Don't forget to execute: **sudo update-grub** from the command line.
+Don't forget to execute: **`sudo update-grub`** from the command line.
 
 Then I had to create a proper **xorg.conf** setting my resolution
 (1680x1050) manually:
 
-\[sourcecode lang="text"\]  
-Section "Monitor"  
-Identifier "DVI-I-1"  
-VendorName "Asus"  
-ModelName "Ancor Communications Inc VW222"  
-Modeline "1680x1050R" 119.00 1680 1728 1760 1840 1050 1053 1059 1080
-+hsync -vsync  
-Option "PreferredMode" "1680x1050R"  
-EndSection
+    :::bash
+    Section "Monitor"  
+    Identifier "DVI-I-1"  
+    VendorName "Asus"  
+    ModelName "Ancor Communications Inc VW222"  
+    Modeline "1680x1050R" 119.00 1680 1728 1760 1840 1050 1053 1059 1080
+    +hsync -vsync  
+    Option "PreferredMode" "1680x1050R"  
+    EndSection
 
-Section "Screen"  
-Identifier "Screen0"  
-Monitor "DVI-I-1"  
-EndSection  
-\[/sourcecode\]
+    Section "Screen"  
+    Identifier "Screen0"  
+    Monitor "DVI-I-1"  
+    EndSection
 
 How do you generate the **Modeline** line? It's very simple. Just
 execute: "**cvt -r 1680 1050**" in the command line and you'll get a

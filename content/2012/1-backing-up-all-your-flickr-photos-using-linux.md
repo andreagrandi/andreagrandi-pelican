@@ -6,7 +6,7 @@ Slug: backing-up-all-your-flickr-photos-using-linux
 Status: published
 
 I've been a Flickr pro user for 4 years, but the pro account costs
-**24,95\$/year** and I was looking for something cheaper. Anyway I was
+**24,95$/year** and I was looking for something cheaper. Anyway I was
 thinking that after all, even if I don't renew my account, I can always
 access to all my pictures.... wrong! **If you don't renew your pro
 Flickr account you can only access to the low resolution version of your
@@ -28,10 +28,9 @@ script from here <https://github.com/dan/hivelogic-flickrtouchr>
 
 The usage is very simple
 
-\[sourcecode lang="text"\]  
-mkdir FlickrBackupFolder  
-python flickrtouchr.py FlickrBackupFolder  
-\[/sourcecode\]
+    :::shell
+    mkdir FlickrBackupFolder  
+    python flickrtouchr.py FlickrBackupFolder  
 
 A browser's window will be opened and you'll be prompted for
 authorization. After that, all you pictures will be downloaded.
