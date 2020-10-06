@@ -15,7 +15,7 @@ recent version of Raspbian. I'm using the one released on 20/06/2014).
 
 [![edimax-pi3]({static}/images/2014/09/edimax-pi3.png){ width=100% }]({static}/images/2014/09/edimax-pi3.png)
 
-### Configure the wifi adapter
+## Configure the wifi adapter
 
 Edit **/etc/network/interfaces** and insert these configuration values:
 
@@ -31,7 +31,7 @@ Edit **/etc/network/interfaces** and insert these configuration values:
     wpa-ssid YOURESSID
     wpa-psk YOURWPAPASSWORD
 
-### Power management issue
+## Power management issue
 
 There is a known "issue" with this adapter default configuration that
 makes it to turn off if the wlan interface is not in use for some
@@ -66,7 +66,7 @@ and insert this line at the end:
 where 192.168.0.1 is the IP of your router (of course substitute this
 value with the ip of your router).
 
-### Keep Alive Script
+## Keep Alive Script
 
 I created a further script to keep my WIFI alive. This script will ping
 the router (change the IP using the one of your router) every 5 minutes
@@ -88,7 +88,7 @@ Insert this line inside the crontab editor:
     :::shell
     */5 * * * * /root/wifi_recover.sh
 
-### Conclusion
+## Conclusion
 
 The configuration is done. Just reboot your RaspberryPi and enjoy your
 wifi connection.

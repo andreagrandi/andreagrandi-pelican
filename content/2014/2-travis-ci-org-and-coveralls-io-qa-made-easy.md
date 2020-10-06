@@ -30,8 +30,7 @@ supports **Python 2.6, 2.7, 3.3** and **Django 1.4.x, 1.5.x, 1.6.x**.
 The whole matrix consists of **9 possible combinations**. Do we have to
 manually run tests on 9 configurations? No, we don't.
 
-Travis-ci.org
--------------
+## Travis-ci.org
 
 **Travis** is a continuous integration tool that, once configured, takes
 care of these tasks and let us save lot of time (that we can use to
@@ -60,9 +59,7 @@ Once everything is configured, we will have something like this on our
 console
 <https://travis-ci.org/andreagrandi/workshopvenues/jobs/19882128>
 
-[![travis-ci-console](http://www.andreagrandi.it/wp-content/uploads/2014/03/travis-ci-console-1024x544.png){.aligncenter
-.wp-image-832 width="614"
-height="326"}](http://www.andreagrandi.it/wp-content/uploads/2014/03/travis-ci-console.png)
+[![travis-ci-console]({static}/images/2014/03/travis-ci-console-1024x544.png){ width=90% }]({static}/images/2014/03/travis-ci-console.png)
 
 If something goes wrong (if tests don't pass for example) we receive a
 notification with all the informations about the failing build, and if
@@ -72,8 +69,7 @@ be deployed in case of a failing build.
 Travis-ci.org is **completly free** for opensource projects and has also
 a paid version for private repositories.
 
-Coveralls.io {#coveralls.io style="text-align: left;"}
-------------
+## Coveralls.io
 
 There is a nice tool available for Python called
 [**coverage**](http://nedbatchelder.com/code/coverage). Basically it
@@ -90,17 +86,15 @@ profile with GitHub, like we did for Travis-ci.org and then enable the
 repository. To trigger Coveralls after a successful Travis build, we
 need to have these lines at the end of our **.travis.yml** file
 
+    :::yaml
     after_success:
       - coveralls
 
-[![coveralls-console](http://www.andreagrandi.it/wp-content/uploads/2014/03/coveralls-console-1024x767.png){.aligncenter
-.wp-image-836 width="614"
-height="460"}](http://www.andreagrandi.it/wp-content/uploads/2014/03/coveralls-console.png)  
+[![coveralls-console]({static}/images/2014/03/coveralls-console-1024x767.png){ width=90% }]({static}/images/2014/03/coveralls-console.png)  
 Even Coveralls.io is **completly free** for opensource projects and
 offers a paid version for private repositories.
 
-Heroku
-------
+## Heroku
 
 I use [**Heroku**](https://www.heroku.com) to host and run my web
 application. Normally to deploy on Heroku you so something like this:
@@ -109,6 +103,7 @@ application. Normally to deploy on Heroku you so something like this:
 Adding these settings to the **.travis.yaml** file, I can automatically
 deploy the application on Heroku, if the build was successful:
 
+    :::yaml
     deploy:
       provider: heroku
       api_key:
@@ -120,11 +115,9 @@ deploy the application on Heroku, if the build was successful:
         - "python workshopvenues/manage.py syncdb"
         - "python workshopvenues/manage.py migrate"
 
-Not only the code is deployed, after deployment the **South migrations**
-are executed.
+Not only the code is deployed, after deployment the **South migrations** are executed.
 
-Conclusion
-----------
+## Conclusion
 
 These two tools are saving me lot of time and are ensuring that the code
 I release for a project I'm working on

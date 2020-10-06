@@ -15,7 +15,7 @@ In my case I only needed: SSH access, LEMP configuration (Nginx + MySQL
 + PHP) to serve my WordPress blog and Postfix to use email forwarding
 from my aliases to my personal email.
 
-### Configuring DNS on Digital Ocean
+## Configuring DNS on Digital Ocean
 
 Understanding how to properly configure the DNS entries in the panel
 could be a bit tricky if it's not your daily bread. In particular there
@@ -34,7 +34,7 @@ www.yourdomain.com to correctly point to your ip.
 
 [![dns\_config\_digitalocean]({static}/images/2014/08/dns_config_digitalocean.jpg){ width=100% }]({static}/images/2014/08/dns_config_digitalocean.jpg)
 
-### Configuring Postfix
+## Configuring Postfix
 
 In my case I only needed some aliases that I use to forward emails to my
 GMail account, so the configuration is quite easy. First you need to
@@ -54,7 +54,7 @@ configuration here:
 <script src="https://gist.github.com/andreagrandi/fe6246dac228250ee2c0.js"></script>
 </p>
 
-### Add your email aliases
+## Add your email aliases
 
 Edit **/etc/postfix/virtual** file and add your aliases, one per line,
 like in this example:
@@ -69,7 +69,7 @@ At this point update the alias map and reload Postfix configuration:
     sudo postmap /etc/postfix/virtual
     sudo /etc/init.d/postfix reload
 
-### Conclusion
+## Conclusion
 
 As you can see, configuring Postfix is quite easy, you just need to be
 careful when you configure the DNS records in the control panel. Are you
