@@ -1,6 +1,6 @@
 Title: Il costo di un computer senza Windows Vista
 Date: 2008-03-26 09:39
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Windows
 Tags: computer, costo, kubuntu, Linux, operativo, senza, sistema, Ubuntu (EN), vista, Windows
 Slug: il-costo-di-un-computer-senza-windows-vista

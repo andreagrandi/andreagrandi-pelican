@@ -1,6 +1,6 @@
 Title: Ridimensionare immagini automaticamente con un batch e ImageMagick
 Date: 2009-07-05 17:56
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux
 Tags: batch, foto, fotoritocco, image, imagemagick, immagini, magick, ridimensionare, script
 Slug: ridimensionare-immagini-automaticamente-con-un-batch-e-imagemagick

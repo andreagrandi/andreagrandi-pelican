@@ -1,6 +1,6 @@
 Title: I problemi della nuova Ubuntu Hardy 8.04
 Date: 2008-04-29 19:05
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (IT)
 Tags: 8.04, bluetooth, bugs, calendar, evolution, firefox 3, hardy, instabile, Linux, nvidia, problemi, tracker, Ubuntu (EN)
 Slug: i-problemi-della-nuova-ubuntu-hardy-804

@@ -1,6 +1,6 @@
 Title: Google Latitude: scopri dove sono i tuoi amici in tempo reale!
 Date: 2009-02-04 11:17
-Author: admin
+Author: Andrea Grandi
 Category: Google, Recensione
 Tags: Google, gps, latitude, maps, position, sharing
 Slug: google-latitude-scopri-dove-sono-i-tuoi-amici-in-tempo-reale

@@ -1,6 +1,6 @@
 Title: Django Notes: read values from settings in a safe way
 Date: 2015-08-29 15:50
-Author: admin
+Author: Andrea Grandi
 Category: Django, HowTo, Programmazione, Python
 Tags: Django, getattr, Python, settings
 Slug: django-notes-read-values-from-settings-in-a-safe-way

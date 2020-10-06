@@ -1,6 +1,6 @@
 Title: Os 2008 4.2008.30 available OTA
 Date: 2008-08-13 14:32
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN)
 Tags: firmware, Linux, maemo, nokia, tablet
 Slug: os-2008-4200830-available-ota

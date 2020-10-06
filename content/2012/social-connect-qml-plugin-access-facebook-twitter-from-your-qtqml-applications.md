@@ -1,6 +1,6 @@
 Title: Social Connect QML plugin: access Facebook, Twitter from your Qt/QML applications
 Date: 2012-08-13 09:04
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN), MeeGo, Programmazione, Qt, Ubuntu (EN)
 Tags: library, Mobile, nokia, QML, Qt, Social
 Slug: social-connect-qml-plugin-access-facebook-twitter-from-your-qtqml-applications

@@ -1,6 +1,6 @@
 Title: Ubuntu Oneiric 11.10 problems and regressions
 Date: 2011-10-12 23:27
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (EN)
 Tags: ubuntu oneiric ocelot
 Slug: ubuntu-oneiric-11-10-problems-and-regressions

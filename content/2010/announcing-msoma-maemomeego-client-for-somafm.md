@@ -1,6 +1,6 @@
 Title: Announcing mSoma: Maemo/MeeGo client for SomaFM
 Date: 2010-07-03 16:31
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN), MeeGo, Qt, Recensione
 Tags: maemo, MeeGo, N900, nokia, Qt, SomaFM
 Slug: announcing-msoma-maemomeego-client-for-somafm

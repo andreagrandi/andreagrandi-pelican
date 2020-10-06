@@ -1,6 +1,6 @@
 Title: Nokia N810 available in Italy!
 Date: 2007-12-14 14:52
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN)
 Tags: n810, nokia, tablet
 Slug: nokia-n810-available-in-italy

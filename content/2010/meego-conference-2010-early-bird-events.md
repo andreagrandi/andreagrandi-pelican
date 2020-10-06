@@ -1,6 +1,6 @@
 Title: MeeGo Conference 2010 / Early Bird Events
 Date: 2010-09-05 19:25
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN), MeeGo, Programmazione
 Slug: meego-conference-2010-early-bird-events
 Status: published

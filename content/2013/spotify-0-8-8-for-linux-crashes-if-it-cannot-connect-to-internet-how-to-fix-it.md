@@ -1,6 +1,6 @@
 Title: Spotify 0.8.8 for Linux crashes if it cannot connect to Internet: how to fix it
 Date: 2013-01-06 20:57
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Ubuntu (EN)
 Slug: spotify-0-8-8-for-linux-crashes-if-it-cannot-connect-to-internet-how-to-fix-it
 Status: published

@@ -1,6 +1,6 @@
 Title: Goenv - Go Environment Manager
 Date: 2015-04-19 12:26
-Author: admin
+Author: Andrea Grandi
 Category: Go, HowTo, Programmazione
 Tags: go, golang
 Slug: goenv-go-environment-manager

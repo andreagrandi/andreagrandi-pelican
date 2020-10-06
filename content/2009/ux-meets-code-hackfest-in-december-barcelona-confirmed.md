@@ -1,6 +1,6 @@
 Title: UX meets Code hackfest in December @ Barcelona: confirmed!
 Date: 2009-11-03 09:25
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN), Programmazione
 Tags: Barcelona, hackfest, maemo, meeting, nokia, UX
 Slug: ux-meets-code-hackfest-in-december-barcelona-confirmed

@@ -1,6 +1,6 @@
 Title: CuteSoma (Soma.fm client) ported to BlackBerry10
 Date: 2013-01-03 02:13
-Author: admin
+Author: Andrea Grandi
 Category: BlackBerry, Programmazione, Qt
 Slug: cutesoma-soma-fm-client-ported-to-blackberry10
 Status: published

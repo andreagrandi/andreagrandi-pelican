@@ -1,6 +1,6 @@
 Title: Come ascoltare Radio Deejay su Ubuntu Linux con Rhythmbox
 Date: 2008-05-07 11:35
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (IT)
 Tags: ascoltare, deejay, Linux, radio, rhythmbox, Ubuntu (EN)
 Slug: come-ascoltare-radio-deejay-su-ubuntu-linux-con-rhythmbox

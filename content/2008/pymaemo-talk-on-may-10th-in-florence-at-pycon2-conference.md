@@ -1,6 +1,6 @@
 Title: PyMaemo Talk on May 10th in Florence at PyCon2 Conference
 Date: 2008-04-09 14:42
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN), Python
 Tags: conference, maemo, nokia, pycon, Python
 Slug: pymaemo-talk-on-may-10th-in-florence-at-pycon2-conference

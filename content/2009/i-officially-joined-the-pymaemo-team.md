@@ -1,6 +1,6 @@
 Title: I officially joined the PyMaemo team
 Date: 2009-07-25 13:54
-Author: admin
+Author: Andrea Grandi
 Category: Igalia, Linux, Maemo (EN), Programmazione, Python
 Tags: bindings, freemantle, Igalia, maemo, Python
 Slug: i-officially-joined-the-pymaemo-team

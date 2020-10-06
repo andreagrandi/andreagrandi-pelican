@@ -1,6 +1,6 @@
 Title: Aggiornamento del sito a WordPress 2.5.1
 Date: 2008-06-23 01:56
-Author: admin
+Author: Andrea Grandi
 Category: WordPress
 Tags: aggiornamento, blog, WordPress
 Slug: aggiornamento-del-sito-a-wordpress-251

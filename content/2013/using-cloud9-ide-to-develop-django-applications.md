@@ -1,6 +1,6 @@
 Title: Using Cloud9 IDE to develop Django applications
 Date: 2013-01-05 15:20
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Programmazione, Python, Ubuntu (EN)
 Slug: using-cloud9-ide-to-develop-django-applications
 Status: published

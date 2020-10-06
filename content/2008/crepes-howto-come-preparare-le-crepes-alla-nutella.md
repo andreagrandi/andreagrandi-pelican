@@ -1,6 +1,6 @@
 Title: Crepes HowTo: come preparare le crepes alla Nutella!
 Date: 2008-08-09 13:48
-Author: admin
+Author: Andrea Grandi
 Category: HowTo
 Tags: crepes, HowTo, laura, nutella, ptlug, ricetta
 Slug: crepes-howto-come-preparare-le-crepes-alla-nutella

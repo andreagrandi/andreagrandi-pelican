@@ -1,6 +1,6 @@
 Title: Ubuntu 9.04 (Jaunty) su Asus EeePC 901
 Date: 2009-04-26 15:20
-Author: admin
+Author: Andrea Grandi
 Category: EeePC, HowTo, Linux, Recensione, Ubuntu (IT)
 Tags: 9.04, 901, asus, EeePC, jaunty, Ubuntu (EN)
 Slug: ubuntu-904-jaunty-su-asus-eeepc-901

@@ -1,6 +1,6 @@
 Title: Come passare dalla modalità enduser alla modalità developer su Fonera 2
 Date: 2009-05-05 13:10
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Recensione
 Tags: fon, fonera, router, ssh
 Slug: come-passare-dalla-modalita-enduser-alla-modalita-developer-su-fonera-2

@@ -1,6 +1,6 @@
 Title: PyngFM: Python implementation of Ping.fm API
 Date: 2009-04-02 09:32
-Author: admin
+Author: Andrea Grandi
 Category: Python
 Slug: pyngfm-python-implementation-of-pingfm-api
 Status: published

@@ -1,6 +1,6 @@
 Title: UDS day-1
 Date: 2011-05-11 11:05
-Author: admin
+Author: Andrea Grandi
 Category: Ubuntu (EN), UDS
 Tags: Budapest, Canonical, conference, Ubuntu, UDS
 Slug: uds-day-1

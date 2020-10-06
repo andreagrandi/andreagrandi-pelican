@@ -1,6 +1,6 @@
 Title: Maemo Summit (Berlino) - giorno 1
 Date: 2008-09-20 01:25
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (IT)
 Tags: berlino, maemo, summit
 Slug: maemo-summit-berlino-giorno-1

@@ -1,6 +1,6 @@
 Title: How to install latest stable Node.js on Ubuntu
 Date: 2013-02-08 19:36
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Programmazione, Ubuntu (EN)
 Tags: Javascript, Node, Node.js, NodeJs
 Slug: how-to-install-latest-stable-node-js-on-ubuntu

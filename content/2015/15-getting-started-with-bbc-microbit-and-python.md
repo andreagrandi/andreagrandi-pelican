@@ -1,6 +1,6 @@
 Title: Getting started with BBC MicroBit and Python
 Date: 2015-12-10 23:48
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Microbit, Python
 Tags: microbit, psf
 Slug: getting-started-with-bbc-microbit-and-python

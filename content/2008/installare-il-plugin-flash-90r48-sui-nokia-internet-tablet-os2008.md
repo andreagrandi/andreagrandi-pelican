@@ -1,6 +1,6 @@
 Title: Installare il plugin Flash 9.0r48 sui Nokia Internet Tablet (OS2008)
 Date: 2008-08-18 21:22
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Maemo (IT)
 Tags: flash, maemo, patch, plugin
 Slug: installare-il-plugin-flash-90r48-sui-nokia-internet-tablet-os2008

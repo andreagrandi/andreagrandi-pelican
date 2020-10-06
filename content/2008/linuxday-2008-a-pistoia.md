@@ -1,6 +1,6 @@
 Title: LinuxDay 2008 a Pistoia
 Date: 2008-10-10 17:25
-Author: admin
+Author: Andrea Grandi
 Category: Linux
 Tags: eventi, Linux, linuxday
 Slug: linuxday-2008-a-pistoia

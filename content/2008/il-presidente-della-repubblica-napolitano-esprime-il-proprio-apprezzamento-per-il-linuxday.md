@@ -1,6 +1,6 @@
 Title: Il Presidente della Repubblica Napolitano esprime il proprio apprezzamento per il LinuxDay
 Date: 2008-10-19 16:34
-Author: admin
+Author: Andrea Grandi
 Category: Linux
 Tags: Linux, linuxday
 Slug: il-presidente-della-repubblica-napolitano-esprime-il-proprio-apprezzamento-per-il-linuxday

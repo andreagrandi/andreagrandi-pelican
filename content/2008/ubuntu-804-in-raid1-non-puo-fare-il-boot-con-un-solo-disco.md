@@ -1,6 +1,6 @@
 Title: Ubuntu 8.04 in RAID1 non può fare il boot con un solo disco
 Date: 2008-09-25 14:05
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Sicurezza, Ubuntu (IT)
 Tags: boot, mirror, RAID1
 Slug: ubuntu-804-in-raid1-non-puo-fare-il-boot-con-un-solo-disco

@@ -1,6 +1,6 @@
 Title: Inizia il PyCon: Richard Stallman oggi a Palazzo Vecchio (Firenze) ore 16:00
 Date: 2008-05-09 09:22
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Programmazione, Python
 Tags: conferenza, firenze, palazzo, pycon, richard, stallman, talk, vecchio
 Slug: inizia-il-pycon-richard-stallman-oggi-a-palazzo-vecchio-firenze-ore-1600

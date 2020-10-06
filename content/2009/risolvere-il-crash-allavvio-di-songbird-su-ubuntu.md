@@ -1,6 +1,6 @@
 Title: Risolvere il crash all'avvio di Songbird su Ubuntu
 Date: 2009-06-24 16:00
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Ubuntu (IT)
 Tags: crash, libvisual, nvidia, songbird, Ubuntu (EN)
 Slug: risolvere-il-crash-allavvio-di-songbird-su-ubuntu

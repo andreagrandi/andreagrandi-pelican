@@ -1,6 +1,6 @@
 Title: Utilizzare webcam V4L2 con Flash su Linux
 Date: 2008-11-25 10:44
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux
 Tags: flash, V4L1, V4L2, webcam
 Slug: utilizzare-webcam-v4l2-con-flash-su-linux

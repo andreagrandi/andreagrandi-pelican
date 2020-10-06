@@ -1,6 +1,6 @@
 Title: How to fix encfs installation on OSX 10.9 (Mavericks) and brew
 Date: 2013-11-08 21:17
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, OSX, Sicurezza
 Tags: cloud, encfs, encryption, fuse4x, OSX, security
 Slug: how-to-fix-encfs-installation-on-osx-10-9-mavericks-and-brew

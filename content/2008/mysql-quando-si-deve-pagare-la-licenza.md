@@ -1,6 +1,6 @@
 Title: MySQL: quando si deve pagare la licenza?
 Date: 2008-02-05 15:47
-Author: admin
+Author: Andrea Grandi
 Category: Linux, MySQL
 Tags: commerciale, licenza, MySQL, opensource, pagamento, programma, programmi, vendita
 Slug: mysql-quando-si-deve-pagare-la-licenza

@@ -1,6 +1,6 @@
 Title: Spim - MIPS Emulator for N770
 Date: 2007-10-25 18:35
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN), Programmazione
 Tags: 770, emulator, mips, nokia, spim
 Slug: spim-mips-emulator-for-n770

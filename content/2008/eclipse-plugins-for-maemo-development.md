@@ -1,6 +1,6 @@
 Title: Eclipse plugins for Maemo Development
 Date: 2008-02-26 14:47
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN), Programmazione, Python
 Tags: eclipse, maemo, nokia, programming
 Slug: eclipse-plugins-for-maemo-development

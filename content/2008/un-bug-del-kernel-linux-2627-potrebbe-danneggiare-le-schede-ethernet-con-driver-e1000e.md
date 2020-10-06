@@ -1,6 +1,6 @@
 Title: Un bug del Kernel Linux 2.6.27 potrebbe danneggiare le schede ethernet con driver e1000e
 Date: 2008-09-24 21:36
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Sicurezza
 Tags: bug, e1000e, kernel
 Slug: un-bug-del-kernel-linux-2627-potrebbe-danneggiare-le-schede-ethernet-con-driver-e1000e

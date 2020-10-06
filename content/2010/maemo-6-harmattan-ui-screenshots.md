@@ -1,6 +1,6 @@
 Title: Maemo 6 (Harmattan) UI Screenshots
 Date: 2010-02-16 02:41
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN), Qt, Recensione
 Tags: harmattan, maemo, nokia, preview, screenshot, UI
 Slug: maemo-6-harmattan-ui-screenshots

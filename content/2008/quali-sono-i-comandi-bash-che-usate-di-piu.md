@@ -1,6 +1,6 @@
 Title: Quali sono i comandi bash che usate di piu'?
 Date: 2008-08-05 00:19
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (IT)
 Tags: bash, Linux
 Slug: quali-sono-i-comandi-bash-che-usate-di-piu

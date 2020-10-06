@@ -1,6 +1,6 @@
 Title: Dropbox: 2Gb di disco online che si integrano con Windows, OSX e Linux
 Date: 2009-03-29 14:59
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Recensione, Windows
 Slug: dropbox-2gb-di-disco-online-che-si-integrano-con-windows-osx-e-linux
 Status: published

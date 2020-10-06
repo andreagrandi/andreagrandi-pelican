@@ -1,6 +1,6 @@
 Title: OLPC a Firenze il 7 marzo con Nicholas Negroponte
 Date: 2008-02-27 15:53
-Author: admin
+Author: Andrea Grandi
 Category: Linux, OLPC
 Tags: 100$, firenze, nicholas negroponte, OLPC, one laptop per child, portatile, presentazione, terzo mondo
 Slug: olpc-a-firenze-il-7-marzo-con-nicholas-negroponte

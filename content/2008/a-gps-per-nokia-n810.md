@@ -1,6 +1,6 @@
 Title: A-GPS per Nokia N810
 Date: 2008-06-27 14:55
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (IT)
 Tags: a-gps, gps, maemo, nokia
 Slug: a-gps-per-nokia-n810

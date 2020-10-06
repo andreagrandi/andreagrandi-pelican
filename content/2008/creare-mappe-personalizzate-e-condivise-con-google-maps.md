@@ -1,6 +1,6 @@
 Title: Creare mappe personalizzate e condivise con Google Maps
 Date: 2008-10-16 10:55
-Author: admin
+Author: Andrea Grandi
 Category: Google, HowTo
 Tags: Google, maps
 Slug: creare-mappe-personalizzate-e-condivise-con-google-maps

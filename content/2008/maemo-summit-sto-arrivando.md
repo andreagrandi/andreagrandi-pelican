@@ -1,6 +1,6 @@
 Title: Maemo Summit sto arrivando!
 Date: 2008-09-17 01:55
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (IT)
 Tags: berlino, maemo, meeting, nokia, summit
 Slug: maemo-summit-sto-arrivando

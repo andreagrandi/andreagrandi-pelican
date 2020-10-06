@@ -1,6 +1,6 @@
 Title: Nokia N900: some problems with latest PR 1.1.1 firmware
 Date: 2010-02-17 13:00
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN), Recensione
 Tags: bug, firmware, maemo, N900, nokia
 Slug: nokia-n900-some-problems-with-latest-pr-1-1-1-firmware

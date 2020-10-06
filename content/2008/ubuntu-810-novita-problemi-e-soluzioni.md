@@ -1,6 +1,6 @@
 Title: Ubuntu 8.10: novità, problemi e soluzioni
 Date: 2008-11-07 19:19
-Author: admin
+Author: Andrea Grandi
 Category: Recensione, Ubuntu (IT)
 Tags: Ubuntu (EN)
 Slug: ubuntu-810-novita-problemi-e-soluzioni

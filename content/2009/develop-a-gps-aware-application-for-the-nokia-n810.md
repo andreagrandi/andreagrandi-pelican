@@ -1,6 +1,6 @@
 Title: Develop a GPS-aware application for the Nokia N810
 Date: 2009-02-24 15:51
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Maemo (EN), Programmazione, Python
 Tags: eclipse, gps, Python, SDK
 Slug: develop-a-gps-aware-application-for-the-nokia-n810

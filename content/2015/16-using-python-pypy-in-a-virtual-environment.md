@@ -1,6 +1,6 @@
 Title: Using Python PyPy in a virtual environment
 Date: 2015-12-18 17:29
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Python
 Tags: pypy, Python
 Slug: using-python-pypy-in-a-virtual-environment

@@ -1,6 +1,6 @@
 Title: Fundraising for CuteSoma (Soma.fm mobile client) development
 Date: 2013-02-10 23:52
-Author: admin
+Author: Andrea Grandi
 Category: BlackBerry, Maemo (EN), MeeGo, Programmazione, Windows Phone
 Slug: fundraising-for-cutesoma-soma-fm-mobile-client-development
 Status: published

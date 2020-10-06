@@ -1,6 +1,6 @@
 Title: PGP Key
 Date: 2008-04-03 15:45
-Author: admin
+Author: Andrea Grandi
 Slug: pgp-key
 Status: published
 

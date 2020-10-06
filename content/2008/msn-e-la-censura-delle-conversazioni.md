@@ -1,6 +1,6 @@
 Title: MSN e la censura delle conversazioni
 Date: 2008-05-13 22:12
-Author: admin
+Author: Andrea Grandi
 Category: Censura, Sicurezza
 Tags: Censura, conversazioni, instant messaging, libertà, microsoft, msn
 Slug: msn-e-la-censura-delle-conversazioni

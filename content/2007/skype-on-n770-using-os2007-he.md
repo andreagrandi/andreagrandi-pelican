@@ -1,6 +1,6 @@
 Title: Skype on N770 (using Os2007 HE)
 Date: 2007-12-10 15:00
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Maemo (EN), Skype
 Tags: 770, maemo, nokia, Skype
 Slug: skype-on-n770-using-os2007-he

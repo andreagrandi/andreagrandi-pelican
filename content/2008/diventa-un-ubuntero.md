@@ -1,6 +1,6 @@
 Title: Diventa un Ubuntero!
 Date: 2008-04-22 19:49
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (IT)
 Tags: answers, blueprints, bugs, code, community, launchpad, translations, Ubuntu (EN)
 Slug: diventa-un-ubuntero

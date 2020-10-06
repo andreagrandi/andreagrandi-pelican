@@ -1,6 +1,6 @@
 Title: Getting a free SSL certificate from Letsencrypt and configuring it on Nginx with automatic renewal
 Date: 2015-12-06 14:15
-Author: admin
+Author: Andrea Grandi
 Category: DevOps, HowTo, Linux
 Tags: encryption, letsencrypt, security, ssl
 Slug: getting-a-free-ssl-certificate-from-letsencrypt-and-configuring-it-on-nginx-with-automatic-renewal

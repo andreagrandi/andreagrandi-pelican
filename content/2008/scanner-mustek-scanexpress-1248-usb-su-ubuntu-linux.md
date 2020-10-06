@@ -1,6 +1,6 @@
 Title: Scanner Mustek ScanExpress 1248 USB su Ubuntu Linux
 Date: 2008-12-17 19:40
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux
 Tags: mustek, scanner
 Slug: scanner-mustek-scanexpress-1248-usb-su-ubuntu-linux

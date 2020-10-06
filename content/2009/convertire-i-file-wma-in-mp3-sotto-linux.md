@@ -1,6 +1,6 @@
 Title: Convertire i file WMA in MP3 sotto Linux
 Date: 2009-02-22 22:43
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Programmazione
 Tags: conversione, mp3, wma
 Slug: convertire-i-file-wma-in-mp3-sotto-linux

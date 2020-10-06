@@ -1,6 +1,6 @@
 Title: UDS day-3
 Date: 2011-05-11 18:24
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (EN), UDS
 Tags: Budapest, Developer, Linux, summit, Ubuntu, UDS, UDS-O
 Slug: uds-day-3

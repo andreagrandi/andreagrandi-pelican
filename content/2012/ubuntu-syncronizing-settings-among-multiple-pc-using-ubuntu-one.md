@@ -1,6 +1,6 @@
 Title: Ubuntu: synchronizing settings among multiple computers using Ubuntu One
 Date: 2012-02-21 17:58
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (EN)
 Slug: ubuntu-syncronizing-settings-among-multiple-pc-using-ubuntu-one
 Status: published

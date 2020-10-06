@@ -1,6 +1,6 @@
 Title: Moving away from Google Talk to a real Jabber/XMPP service
 Date: 2015-02-20 21:15
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux
 Tags: chat, Google, gtalk, im, jabber, xmpp
 Slug: moving-away-from-google-talk-to-a-real-jabberxmpp-service

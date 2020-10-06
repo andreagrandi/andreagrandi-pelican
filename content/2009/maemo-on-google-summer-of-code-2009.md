@@ -1,6 +1,6 @@
 Title: Maemo on Google Summer of Code 2009
 Date: 2009-02-11 21:36
-Author: admin
+Author: Andrea Grandi
 Category: Google, Maemo (EN), Programmazione, Recensione
 Tags: code, Google, gsoc
 Slug: maemo-on-google-summer-of-code-2009

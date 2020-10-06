@@ -1,6 +1,6 @@
 Title: Backing up all your Flickr photos using Linux
 Date: 2012-01-05 11:31
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Python, Ubuntu (EN)
 Slug: backing-up-all-your-flickr-photos-using-linux
 Status: published

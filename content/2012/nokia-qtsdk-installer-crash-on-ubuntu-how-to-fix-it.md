@@ -1,6 +1,6 @@
 Title: Nokia QtSDK installer crash on Ubuntu: how to fix it
 Date: 2012-01-12 19:36
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Programmazione, Qt, Ubuntu (EN)
 Tags: 11.04, 11.10, installer, Natty, nokia, Oneiric, Qt, SDK, Ubuntu
 Slug: nokia-qtsdk-installer-crash-on-ubuntu-how-to-fix-it

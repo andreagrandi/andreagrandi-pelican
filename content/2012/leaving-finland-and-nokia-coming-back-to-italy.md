@@ -1,6 +1,6 @@
 Title: Leaving Finland (and Nokia), coming back to Italy!
 Date: 2012-09-13 16:46
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN), Ubuntu (EN)
 Slug: leaving-finland-and-nokia-coming-back-to-italy
 Status: published

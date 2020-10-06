@@ -1,6 +1,6 @@
 Title: Microsoft Office 2007 SP2 con supporto OpenOffice (ODF) e PDF
 Date: 2008-05-21 23:39
-Author: admin
+Author: Andrea Grandi
 Category: Linux, OpenOffice, Windows
 Tags: formato, microsoft, odf, office 2007, OpenOffice, pdf, sp2
 Slug: microsoft-office-2007-sp2-con-supporto-openoffice-odf-e-pdf

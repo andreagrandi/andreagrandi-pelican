@@ -1,6 +1,6 @@
 Title: MeeGo Conference 2010 in Dublin
 Date: 2010-11-25 23:56
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN), MeeGo
 Slug: meego-conference-2010-in-dublin
 Status: draft

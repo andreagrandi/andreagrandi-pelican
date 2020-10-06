@@ -1,6 +1,6 @@
 Title: What I expect in the future of Maemo Development
 Date: 2008-11-17 08:50
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN)
 Tags: development, maemo
 Slug: what-i-expect-in-the-future-of-maemo-development

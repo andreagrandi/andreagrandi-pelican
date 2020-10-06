@@ -1,6 +1,6 @@
 Title: Alternative way to generate .deb packages for Maemo
 Date: 2007-11-20 15:46
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Maemo (EN), Programmazione, Ubuntu (EN)
 Tags: debian, maemo, nokia, package
 Slug: alternative-way-to-generate-deb-packages-for-maemo

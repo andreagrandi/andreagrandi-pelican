@@ -1,6 +1,6 @@
 Title: Wordpress e le localizzazioni in altre lingue
 Date: 2008-01-30 17:08
-Author: admin
+Author: Andrea Grandi
 Category: WordPress
 Slug: wordpress-e-le-localizzazioni-in-altre-lingue
 Status: published

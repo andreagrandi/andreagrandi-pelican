@@ -1,6 +1,6 @@
 Title: Rimborso Windows: come ottenerlo e perche'
 Date: 2008-02-01 15:34
-Author: admin
+Author: Andrea Grandi
 Category: Linux
 Tags: associazione, consumatori, firenze, flug, licenza, Linux, rimborso, Windows
 Slug: rimborso-windows-come-ottenerlo-e-perche

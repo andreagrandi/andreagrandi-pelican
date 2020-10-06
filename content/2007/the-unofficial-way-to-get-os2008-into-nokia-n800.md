@@ -1,6 +1,6 @@
 Title: The UNOFFICIAL way to get Os2008 into Nokia N800
 Date: 2007-11-16 15:56
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Maemo (EN)
 Tags: maemo, nokia, os2008
 Slug: the-unofficial-way-to-get-os2008-into-nokia-n800

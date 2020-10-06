@@ -1,6 +1,6 @@
 Title: Installing qemu-arm-eabi patch into Scratchbox
 Date: 2007-11-16 15:49
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Maemo (EN), Programmazione
 Tags: maemo, qemu, scratchbox, SDK
 Slug: installing-qemu-arm-eabi-patch-into-scratchbox

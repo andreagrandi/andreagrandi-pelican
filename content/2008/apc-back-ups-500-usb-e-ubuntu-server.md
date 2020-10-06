@@ -1,6 +1,6 @@
 Title: APC Back-UPS 500 USB e Ubuntu Server
 Date: 2008-02-15 10:59
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (IT)
 Tags: alimentazione, apc, apcupsd, back-ups, energetico, risparmio, server, shutdown, Ubuntu (EN), usb
 Slug: apc-back-ups-500-usb-e-ubuntu-server

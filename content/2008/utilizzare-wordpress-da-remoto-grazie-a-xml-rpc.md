@@ -1,6 +1,6 @@
 Title: Utilizzare WordPress da remoto grazie a XML-RPC
 Date: 2008-02-01 23:47
-Author: admin
+Author: Andrea Grandi
 Category: Python, WordPress
 Slug: utilizzare-wordpress-da-remoto-grazie-a-xml-rpc
 Status: published

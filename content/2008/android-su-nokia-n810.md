@@ -1,6 +1,6 @@
 Title: Android su Nokia N810
 Date: 2008-07-02 21:27
-Author: admin
+Author: Andrea Grandi
 Category: Google, Linux, Maemo (IT)
 Tags: android, Google, n810, nokia, tablet
 Slug: android-su-nokia-n810

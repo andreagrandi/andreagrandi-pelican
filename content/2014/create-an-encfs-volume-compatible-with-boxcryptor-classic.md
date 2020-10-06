@@ -1,6 +1,6 @@
 Title: Create an EncFS volume compatible with BoxCryptor Classic
 Date: 2014-09-12 15:27
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Sicurezza
 Tags: boxcryptor, dropbox, encfs
 Slug: create-an-encfs-volume-compatible-with-boxcryptor-classic

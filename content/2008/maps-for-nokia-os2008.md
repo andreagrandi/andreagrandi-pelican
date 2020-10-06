@@ -1,6 +1,6 @@
 Title: Maps for Nokia OS2008
 Date: 2008-03-06 14:44
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Maemo (EN)
 Tags: maemo, maps, nokia, tablet
 Slug: maps-for-nokia-os2008

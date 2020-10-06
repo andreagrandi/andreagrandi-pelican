@@ -1,6 +1,6 @@
 Title: Making Maemo email client usable with GMail
 Date: 2009-08-08 13:34
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Igalia, Linux, Maemo (EN)
 Tags: client, email, gmail, maemo, modest, recent
 Slug: making-maemo-email-client-usable-with-gmail

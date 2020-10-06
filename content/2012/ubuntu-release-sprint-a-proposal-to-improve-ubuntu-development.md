@@ -1,6 +1,6 @@
 Title: Ubuntu Release Sprint: a proposal to improve Ubuntu development
 Date: 2012-05-12 22:47
-Author: admin
+Author: Andrea Grandi
 Category: Ubuntu (EN)
 Slug: ubuntu-release-sprint-a-proposal-to-improve-ubuntu-development
 Status: published

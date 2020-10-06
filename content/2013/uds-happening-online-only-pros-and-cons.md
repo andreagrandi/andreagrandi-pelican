@@ -1,6 +1,6 @@
 Title: UDS happening online only: pros and cons
 Date: 2013-03-05 01:09
-Author: admin
+Author: Andrea Grandi
 Category: Ubuntu (EN), UDS
 Tags: Canonical, community, Linux, meeting, Ubuntu, UDS
 Slug: uds-happening-online-only-pros-and-cons

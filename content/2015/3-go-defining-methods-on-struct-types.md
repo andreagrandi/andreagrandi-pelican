@@ -1,6 +1,6 @@
 Title: Go: defining methods on struct types
 Date: 2015-03-16 20:24
-Author: admin
+Author: Andrea Grandi
 Category: Go
 Tags: go, golang, programming, struct
 Slug: go-defining-methods-on-struct-types

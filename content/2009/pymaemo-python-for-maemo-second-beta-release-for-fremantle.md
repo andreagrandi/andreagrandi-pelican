@@ -1,6 +1,6 @@
 Title: PyMaemo (Python for Maemo) second beta release for Fremantle
 Date: 2009-08-10 09:20
-Author: admin
+Author: Andrea Grandi
 Category: Igalia, Linux, Maemo (EN), Programmazione, Python
 Tags: bindings, fremantle, maemo, nokia, pymaemo, Python, tablet
 Slug: pymaemo-python-for-maemo-second-beta-release-for-fremantle
