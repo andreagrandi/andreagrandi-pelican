@@ -33,7 +33,7 @@ why I rewrote the service in Python (that is my daily language). I want
 to thank [Brian Goff](https://github.com/cpuguy83) for the idea and all
 the people in **\#docker @ FreeNode** for the support.
 
-### How to use docker-puller
+## How to use docker-puller
 
 Setting up the service should be quite easy. After you clone the
 repository from https://github.com/glowdigitalmedia/docker-puller there

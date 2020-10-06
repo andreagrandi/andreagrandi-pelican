@@ -15,19 +15,22 @@ some specifig settings to use when you create the EncFS volume. Infact
 even if BoxCryptor claims to be "encfs compatible", it's not 100%.
 
 Suppose you want to create an encrypted volume located at
-**\$HOME/.TestTmpEncrypted** and mounted at **\$HOME/TestTmp** you need
+**`$HOME/.TestTmpEncrypted`** and mounted at **`$HOME/TestTmp`** you need
 the following command:
 
-    andrea-Inspiron-660:~ andrea $ encfs ~/.TestTmpEncrypted ~/TestTmp
+    :::shell
+    encfs ~/.TestTmpEncrypted ~/TestTmp
 
 answer "Y" when you are asked if you want to create the folders:
 
+    :::shell
     The directory "/home/andrea/.TestTmpEncrypted/" does not exist. Should it be created? (y,n) y
     The directory "/home/andrea/TestTmp" does not exist. Should it be created? (y,n) y
 
 At this point you will need to select between default paranoia mode or
 advanced mode. Please choose the **advanced** one (x):
 
+    :::shell
     Creating new encrypted volume.
     Please choose from one of the following options:
      enter "x" for expert configuration mode,
@@ -37,6 +40,7 @@ advanced mode. Please choose the **advanced** one (x):
 
 Manual configuration mode selected.
 
+    :::shell
     Select AES as cypher algorithm:
 
     The following cypher algorithms are available:
@@ -53,6 +57,7 @@ Manual configuration mode selected.
 
 Select **256** as key size:
 
+    :::shell
     Please select a key size in bits. The cypher you have chosen
     supports sizes from 128 to 256 bits in increments of 64 bits.
     For example:
@@ -63,6 +68,7 @@ Select **256** as key size:
 
 Choose **1024** as block size:
 
+    :::shell
     Select a block size in bytes. The cypher you have chosen
     supports sizes from 64 to 4096 bytes in increments of 16.
     Alternatively, just press enter for the default (1024 bytes)
@@ -73,6 +79,7 @@ Choose **1024** as block size:
 
 Select **Stream** as filename encoding:
 
+    :::shell
     The following filename encoding algorithms are available:
     1. Block : Block encoding, hides file name size somewhat
     2. Null : No encryption of filenames
@@ -84,6 +91,7 @@ Select **Stream** as filename encoding:
 
 Do **NOT** enable **filename initialization vector chaining**:
 
+    :::shell
     Enable filename initialization vector chaining?
     This makes filename encoding dependent on the complete path,
     rather then encoding each path element individually.
@@ -92,6 +100,7 @@ Do **NOT** enable **filename initialization vector chaining**:
 
 Do **NOT** enable **per-file initialization vectors**:
 
+    :::shell
     Enable per-file initialization vectors?
     This adds about 8 bytes per file to the storage requirements.
     It should not affect performance except possibly with applications
@@ -101,6 +110,7 @@ Do **NOT** enable **per-file initialization vectors**:
 
 Do **NOT** enable **external chained IV**:
 
+    :::shell
     External chained IV disabled, as both 'IV chaining'
     and 'unique IV' features are required for this option.
     Enable block authentication code headers
@@ -113,6 +123,7 @@ Do **NOT** enable **external chained IV**:
 
 Do **NOT** enable **random bytes to each block header**:
 
+    :::shell
     Add random bytes to each block header?
     This adds a performance penalty, but ensures that blocks
     have different authentication codes. Note that you can
@@ -123,6 +134,7 @@ Do **NOT** enable **random bytes to each block header**:
 
 Enable **file-hole pass-through**:
 
+    :::shell
     Enable file-hole pass-through?
     This avoids writing encrypted blocks when file holes are created.
     The default here is Yes.
@@ -130,6 +142,7 @@ Enable **file-hole pass-through**:
 
 Finally you will see:
 
+    :::shell
     Configuration finished. The filesystem to be created has
     the following properties:
     Filesystem cypher: "ssl/aes", version 3:0:2
@@ -140,6 +153,7 @@ Finally you will see:
 
 At this point set a passphrase for your new volume:
 
+    :::shell
     Now you will need to enter a password for your filesystem.
     You will need to remember this password, as there is absolutely
     no recovery mechanism. However, the password can be changed
