@@ -1,6 +1,6 @@
 Title: Vorreste che il vostro LUG fosse integrato nell'Help di Ubuntu?
 Date: 2008-09-08 17:45
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (IT)
 Tags: brainstorm, idea, Ubuntu (EN)
 Slug: vorreste-che-il-vostro-lug-fosse-integrato-nellhelp-di-ubuntu

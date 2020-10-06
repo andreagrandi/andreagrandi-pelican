@@ -1,6 +1,6 @@
 Title: Ubuntu Global Jam - March 3rd 2012: Pistoia (Tuscany), Italy.
 Date: 2012-02-19 17:05
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (EN)
 Slug: ubuntu-global-jam-march-3rd-2012-pistoia-tuscany-italy
 Status: published

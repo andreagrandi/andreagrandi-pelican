@@ -1,6 +1,6 @@
 Title: Apple vieta agli sviluppatori di lamentarsi pubblicamente per App Store
 Date: 2008-09-24 17:04
-Author: admin
+Author: Andrea Grandi
 Category: Censura, Programmazione
 Tags: app store, apple, iphone, nda
 Slug: apple-vieta-agli-sviluppatori-di-lamentarsi-pubblicamente-per-app-store

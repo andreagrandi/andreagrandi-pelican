@@ -1,6 +1,6 @@
 Title: Mini antenna parabolica per potenziare il segnale dei router wireless
 Date: 2008-10-29 17:37
-Author: admin
+Author: Andrea Grandi
 Category: HowTo
 Tags: antenna, wifi
 Slug: mini-antenna-parabolica-per-potenziare-il-segnale-dei-router-wireless

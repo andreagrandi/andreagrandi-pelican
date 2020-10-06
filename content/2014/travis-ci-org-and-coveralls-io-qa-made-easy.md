@@ -1,6 +1,6 @@
 Title: Travis-ci.org and Coveralls.io: Continuous Integration and QA made easy
 Date: 2014-03-02 13:44
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Programmazione, Python
 Slug: travis-ci-org-and-coveralls-io-qa-made-easy
 Status: published

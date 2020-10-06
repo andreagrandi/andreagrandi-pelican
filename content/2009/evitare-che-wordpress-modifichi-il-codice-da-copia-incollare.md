@@ -1,6 +1,6 @@
 Title: Evitare che Wordpress modifichi il codice da copia-incollare
 Date: 2009-02-14 23:51
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, WordPress
 Tags: WordPress
 Slug: evitare-che-wordpress-modifichi-il-codice-da-copia-incollare

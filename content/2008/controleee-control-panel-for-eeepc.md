@@ -1,6 +1,6 @@
 Title: ControlEee - Control panel for EeePC
 Date: 2008-10-01 16:18
-Author: admin
+Author: Andrea Grandi
 Category: EeePC, Linux, Python, Qt
 Tags: asus, EeePC, energetico, risparmio
 Slug: controleee-control-panel-for-eeepc

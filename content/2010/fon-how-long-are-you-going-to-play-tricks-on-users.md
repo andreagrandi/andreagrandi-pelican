@@ -1,6 +1,6 @@
 Title: Fon: how long are you going to play tricks on users?
 Date: 2010-02-13 16:27
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Recensione
 Tags: fon, fonera, foneros, Linux, router, wifi
 Slug: fon-how-long-are-you-going-to-play-tricks-on-users

@@ -1,6 +1,6 @@
 Title: Importare le chiavi pubbliche PGP in apt su Ubuntu
 Date: 2009-02-14 22:48
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Sicurezza, Ubuntu (IT)
 Tags: apt, pgp, Ubuntu (EN)
 Slug: importare-le-chiavi-pubbliche-pgp-in-apt-su-ubuntu

@@ -1,6 +1,6 @@
 Title: Install Fest Ubuntu Linux 8.10 a Pistoia
 Date: 2008-10-28 17:18
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (IT)
 Tags: fest, install, Ubuntu (EN)
 Slug: install-fest-ubuntu-linux-810-a-pistoia

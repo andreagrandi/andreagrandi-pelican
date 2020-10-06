@@ -1,6 +1,6 @@
 Title: How to fix pip under Debian 6.0 (squeeze): ImportError: cannot import name parser
 Date: 2013-05-02 16:09
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Programmazione, Python, Ubuntu (EN)
 Slug: how-to-fix-pip-under-debian-6-0-squeeze-importerror-cannot-import-name-parser
 Status: published

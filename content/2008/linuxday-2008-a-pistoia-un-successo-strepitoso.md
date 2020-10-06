@@ -1,6 +1,6 @@
 Title: LinuxDay 2008 a Pistoia: un successo strepitoso!
 Date: 2008-10-27 13:22
-Author: admin
+Author: Andrea Grandi
 Category: Linux
 Tags: 2008, Linux, linuxday, pistoia, ptlug
 Slug: linuxday-2008-a-pistoia-un-successo-strepitoso

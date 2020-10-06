@@ -1,6 +1,6 @@
 Title: Viaggiate negli USA? Possono sequestrarvi il PC, senza motivo
 Date: 2008-08-01 20:26
-Author: admin
+Author: Andrea Grandi
 Category: Censura, Sicurezza
 Tags: provacy usa viaggio america aeroporto controlli terrori
 Slug: viaggiate-negli-usa-possono-sequestrarvi-il-pc-senza-motivo

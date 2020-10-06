@@ -1,6 +1,6 @@
 Title: Why I completely switched this website to HTTPS (and why you should do the same)
 Date: 2015-08-22 14:59
-Author: admin
+Author: Andrea Grandi
 Category: Sicurezza
 Slug: why-i-completely-switched-this-website-to-https-and-why-you-should-do-the-same
 Status: published

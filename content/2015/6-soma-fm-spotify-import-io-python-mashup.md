@@ -1,6 +1,6 @@
 Title: Soma.fm + Spotify + import.io + Python mashup: automatically create a Spotify playlist with Soma.fm tracks
 Date: 2015-07-12 10:10
-Author: admin
+Author: Andrea Grandi
 Category: Python
 Tags: import.io, music, Python, soma.fm, spotify
 Slug: soma-fm-spotify-import-io-python-mashup

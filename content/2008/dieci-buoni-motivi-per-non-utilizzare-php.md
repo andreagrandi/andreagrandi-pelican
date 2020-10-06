@@ -1,6 +1,6 @@
 Title: Dieci buoni motivi per non utilizzare PHP
 Date: 2008-10-09 14:08
-Author: admin
+Author: Andrea Grandi
 Category: Programmazione
 Tags: difetti, linguaggi, php, Programmazione
 Slug: dieci-buoni-motivi-per-non-utilizzare-php

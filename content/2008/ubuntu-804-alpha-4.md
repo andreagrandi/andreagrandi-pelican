@@ -1,6 +1,6 @@
 Title: Ubuntu 8.04 Alpha 4
 Date: 2008-02-03 12:59
-Author: admin
+Author: Andrea Grandi
 Category: Linux
 Tags: 8.04, alpha, hardy, Linux, Ubuntu (EN)
 Slug: ubuntu-804-alpha-4

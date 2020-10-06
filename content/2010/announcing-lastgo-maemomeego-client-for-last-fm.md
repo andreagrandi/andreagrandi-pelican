@@ -1,6 +1,6 @@
 Title: Announcing LastGo: Maemo/MeeGo client for Last.fm
 Date: 2010-07-16 22:37
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN), MeeGo, Programmazione, Qt
 Tags: client, last.fm, music, N900, nokia
 Slug: announcing-lastgo-maemomeego-client-for-last-fm

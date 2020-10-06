@@ -1,6 +1,6 @@
 Title: Using virtualenv to manage multiple Python/Django environments in the same machine
 Date: 2013-04-25 22:58
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Programmazione, Python, Ubuntu (EN)
 Tags: Django, Python, virtualenv
 Slug: using-virtualenv-to-manage-multiple-pythondjango-environments-in-the-same-machine

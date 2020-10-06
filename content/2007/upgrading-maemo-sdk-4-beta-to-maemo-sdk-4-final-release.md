@@ -1,6 +1,6 @@
 Title: Upgrading Maemo SDK 4 Beta to Maemo SDK 4 final release
 Date: 2007-11-11 16:22
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Maemo (EN), Programmazione
 Tags: maemo, SDK
 Slug: upgrading-maemo-sdk-4-beta-to-maemo-sdk-4-final-release

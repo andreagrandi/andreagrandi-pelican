@@ -1,6 +1,6 @@
 Title: Maemo Summit (Berlino) - giorno 2
 Date: 2008-09-21 22:47
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (IT)
 Tags: maemo, nokia, summit
 Slug: maemo-summit-berlino-giorno-2

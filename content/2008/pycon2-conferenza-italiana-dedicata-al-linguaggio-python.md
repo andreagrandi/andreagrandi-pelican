@@ -1,6 +1,6 @@
 Title: PyCon2: conferenza italiana dedicata al linguaggio Python
 Date: 2008-04-06 14:53
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Programmazione, Python
 Tags: conferenza, firenze, italiana, linguaggio, Programmazione, pycon, pycon2, Python, sviluppatori
 Slug: pycon2-conferenza-italiana-dedicata-al-linguaggio-python

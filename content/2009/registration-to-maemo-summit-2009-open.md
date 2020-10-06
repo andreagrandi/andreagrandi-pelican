@@ -1,6 +1,6 @@
 Title: Registration to Maemo Summit 2009 open!
 Date: 2009-07-22 14:11
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN)
 Tags: 2009, amsterdam, maemo, nokia, summit
 Slug: registration-to-maemo-summit-2009-open

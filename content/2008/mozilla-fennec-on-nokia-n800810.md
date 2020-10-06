@@ -1,6 +1,6 @@
 Title: Mozilla Fennec on Nokia N800/810
 Date: 2008-08-31 22:38
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN)
 Tags: browser, fennec, maemo, mozilla, tablet
 Slug: mozilla-fennec-on-nokia-n800810

@@ -1,6 +1,6 @@
 Title: Fix encfs under OSX after upgrading to 10.11.2
 Date: 2015-12-09 22:47
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, OSX
 Tags: bug, encfs, security
 Slug: fix-encfs-under-osx-after-upgrading-to-10-11-2

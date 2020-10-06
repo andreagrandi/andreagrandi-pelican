@@ -1,6 +1,6 @@
 Title: Django Notes: tests, setUp method and db data
 Date: 2015-07-23 22:41
-Author: admin
+Author: Andrea Grandi
 Category: Django, Python
 Slug: django-notes-tests-setup-method-and-db-data
 Status: published

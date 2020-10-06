@@ -1,6 +1,6 @@
 Title: Applicazioni Ruby On Rails che non utilizzano database
 Date: 2008-05-26 17:38
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Programmazione, Ruby, Ruby on Rails
 Tags: activerecord, errore, MySQL, ror, Ruby, Ruby on Rails
 Slug: applicazioni-ruby-on-rails-che-non-utilizzano-database

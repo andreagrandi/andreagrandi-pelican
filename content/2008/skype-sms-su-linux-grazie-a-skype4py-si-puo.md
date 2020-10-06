@@ -1,6 +1,6 @@
 Title: Skype SMS su Linux: grazie a Skype4Py si puo'!
 Date: 2008-05-11 17:56
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Programmazione, Python, Skype
 Tags: API, Linux, Python, Skype, skype4py, sms
 Slug: skype-sms-su-linux-grazie-a-skype4py-si-puo

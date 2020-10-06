@@ -1,6 +1,6 @@
 Title: Trusted Computing: perchè fidarsi di chi non si fida di noi?
 Date: 2008-10-18 16:19
-Author: admin
+Author: Andrea Grandi
 Category: Censura, Google, Sicurezza
 Tags: apple, Google, gphone, iphone, privacy, Sicurezza, trusted computing
 Slug: trusted-computing-perche-fidarsi-di-chi-non-si-fida-di-noi

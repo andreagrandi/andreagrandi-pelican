@@ -1,6 +1,6 @@
 Title: Ubuntu Global Jam Italy (Pistoia): a quick review
 Date: 2012-03-04 14:24
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (EN)
 Tags: LoCo, pistoia, Ubuntu, UGJ
 Slug: ubuntu-global-jam-italy-pistoia-a-quick-review

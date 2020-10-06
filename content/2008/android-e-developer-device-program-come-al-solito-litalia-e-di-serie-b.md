@@ -1,6 +1,6 @@
 Title: Android e Developer Device Program: come al solito l'Italia è di serie B
 Date: 2008-12-06 13:20
-Author: admin
+Author: Andrea Grandi
 Category: Google, Programmazione
 Tags: android, Google
 Slug: android-e-developer-device-program-come-al-solito-litalia-e-di-serie-b

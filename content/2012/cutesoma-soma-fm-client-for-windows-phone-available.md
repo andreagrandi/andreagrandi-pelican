@@ -1,6 +1,6 @@
 Title: CuteSoma (Soma.fm client) for Windows Phone available
 Date: 2012-12-14 14:47
-Author: admin
+Author: Andrea Grandi
 Category: Windows Phone
 Slug: cutesoma-soma-fm-client-for-windows-phone-available
 Status: published

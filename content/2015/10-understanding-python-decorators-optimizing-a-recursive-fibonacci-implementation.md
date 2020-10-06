@@ -1,6 +1,6 @@
 Title: Understanding Python decorators optimizing a recursive Fibonacci implementation
 Date: 2015-08-31 19:32
-Author: admin
+Author: Andrea Grandi
 Category: Programmazione, Python
 Tags: decorators, fibonacci, memoization, memoize, optimization, Python
 Slug: understanding-python-decorators-optimizing-a-recursive-fibonacci-implementation

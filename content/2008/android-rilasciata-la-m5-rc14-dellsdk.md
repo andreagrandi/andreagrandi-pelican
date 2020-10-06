@@ -1,6 +1,6 @@
 Title: Android: rilasciata la m5-rc14 dell'SDK
 Date: 2008-02-14 00:42
-Author: admin
+Author: Andrea Grandi
 Category: Google, Linux, Programmazione
 Tags: android, cellulari, eclipse, Google, Java, Linux, Programmazione, SDK, telefonino
 Slug: android-rilasciata-la-m5-rc14-dellsdk

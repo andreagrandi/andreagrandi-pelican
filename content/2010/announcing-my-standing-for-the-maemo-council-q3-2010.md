@@ -1,6 +1,6 @@
 Title: Announcing my standing for the Maemo Council Q3-2010
 Date: 2010-08-27 01:36
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN), MeeGo
 Slug: announcing-my-standing-for-the-maemo-council-q3-2010
 Status: published

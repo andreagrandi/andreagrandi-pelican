@@ -1,6 +1,6 @@
 Title: Creative Live Cam Notebook su Ubuntu Linux
 Date: 2008-06-05 19:21
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (IT)
 Tags: cam, creative, Linux, live, Ubuntu (EN), webcam
 Slug: creative-live-cam-notebook-su-ubuntu-linux

@@ -1,6 +1,6 @@
 Title: UDS day-0
 Date: 2011-05-11 10:40
-Author: admin
+Author: Andrea Grandi
 Category: Ubuntu (EN), UDS
 Tags: Budapest, conference, summit, Ubuntu, UDS
 Slug: uds-day-0

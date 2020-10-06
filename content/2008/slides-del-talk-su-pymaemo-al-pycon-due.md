@@ -1,6 +1,6 @@
 Title: Slides del talk su PyMaemo al PyCon Due
 Date: 2008-05-10 21:42
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (IT), Programmazione, Python
 Slug: slides-del-talk-su-pymaemo-al-pycon-due
 Status: published

@@ -1,6 +1,6 @@
 Title: How to configure EncFS on OSX 10.10 (Yosemite)
 Date: 2015-10-11 19:44
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, OSX, Sicurezza
 Tags: cloud, encfs, encryption, OSX, security
 Slug: how-to-configure-encfs-on-osx-10-10-yosemite

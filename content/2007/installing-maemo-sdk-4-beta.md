@@ -1,6 +1,6 @@
 Title: Installing Maemo SDK 4 Beta
 Date: 2007-10-25 16:24
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Maemo (EN), Programmazione
 Tags: maemo, nokia, SDK, tablet
 Slug: installing-maemo-sdk-4-beta

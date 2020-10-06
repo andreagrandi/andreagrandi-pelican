@@ -1,6 +1,6 @@
 Title: Utilizzare le annotazioni standard in Java
 Date: 2008-07-10 00:26
-Author: admin
+Author: Andrea Grandi
 Category: Java, Programmazione
 Tags: annotazioni, compilatore, Java, jdk
 Slug: utilizzare-la-annotazioni-standard-in-java

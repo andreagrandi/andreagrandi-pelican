@@ -1,6 +1,6 @@
 Title: Scollegate i carica batterie quando non li usate!
 Date: 2008-09-23 11:41
-Author: admin
+Author: Andrea Grandi
 Category: Sicurezza
 Tags: batterie, carica, nokia
 Slug: scollegate-i-carica-batterie-quando-non-li-usate

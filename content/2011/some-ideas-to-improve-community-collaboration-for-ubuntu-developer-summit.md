@@ -1,6 +1,6 @@
 Title: Some ideas to improve Community collaboration for Ubuntu Developer Summit
 Date: 2011-04-09 19:33
-Author: admin
+Author: Andrea Grandi
 Category: Ubuntu (EN)
 Slug: some-ideas-to-improve-community-collaboration-for-ubuntu-developer-summit
 Status: published

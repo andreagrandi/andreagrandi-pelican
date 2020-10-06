@@ -1,6 +1,6 @@
 Title: Twitter client for Maemo in Qt + Python: call for developers and UI designers
 Date: 2010-02-22 17:16
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN), MeeGo, Programmazione, Python, Qt
 Tags: maemo, MeeGo, N900, nokia, Python, Qt, twitter
 Slug: twitter-client-for-maemo-in-qt-python-call-for-developers-and-ui-designers

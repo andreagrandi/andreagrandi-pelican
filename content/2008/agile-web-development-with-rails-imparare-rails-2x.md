@@ -1,6 +1,6 @@
 Title: Agile Web Development with Rails: imparare Rails 2.x
 Date: 2008-06-05 13:54
-Author: admin
+Author: Andrea Grandi
 Category: Programmazione, Ruby, Ruby on Rails
 Tags: agile, libro, manuale, Programmazione, rails, Ruby, Ruby on Rails, web development
 Slug: agile-web-development-with-rails-imparare-rails-2x

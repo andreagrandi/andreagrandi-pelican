@@ -1,6 +1,6 @@
 Title: MeeGo Events Meeting - April 4th 2011 - Notes
 Date: 2011-04-06 07:52
-Author: admin
+Author: Andrea Grandi
 Category: MeeGo
 Slug: meego-events-meeting-april-4th-2011-notes
 Status: published

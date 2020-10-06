@@ -1,6 +1,6 @@
 Title: Maemo Coding Competition: voting open!
 Date: 2010-07-26 13:06
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN), MeeGo, Programmazione, Qt
 Tags: contest, N900, nokia
 Slug: maemo-coding-competition-voting-open

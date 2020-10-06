@@ -1,6 +1,6 @@
 Title: Rilasciato WordPress 2.3.3: corretta una grave falla di sicurezza
 Date: 2008-02-06 02:44
-Author: admin
+Author: Andrea Grandi
 Category: Sicurezza, WordPress
 Tags: aggiornamento, bug, falla, grave, nuova, Sicurezza, upgrade, versione, WordPress, xmlrpc
 Slug: rilasciato-wordpress-233-corretta-una-grave-falla-di-sicurezza

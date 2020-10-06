@@ -1,6 +1,6 @@
 Title: Questions/Answers about Nokia N900 and Discounted Device Program
 Date: 2009-11-12 15:05
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN)
 Tags: DDP, discount, maemo, N900, nokia
 Slug: questionsanswers-about-nokia-n900-and-discounted-device-program

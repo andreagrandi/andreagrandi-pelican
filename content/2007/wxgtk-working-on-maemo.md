@@ -1,6 +1,6 @@
 Title: wxGTK working on Maemo
 Date: 2007-12-17 14:48
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Maemo (EN), Programmazione
 Tags: maemo, SDK, tablet, wx
 Slug: wxgtk-working-on-maemo

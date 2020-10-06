@@ -1,6 +1,6 @@
 Title: CuteSoma: Soma.Fm client for Nokia N9/N950 now available on OVI Store
 Date: 2011-09-30 11:53
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN), MeeGo
 Slug: cutesoma-soma-fm-client-for-nokia-n9n950-now-available-on-ovi-store
 Status: published

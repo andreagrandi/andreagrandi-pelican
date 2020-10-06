@@ -1,6 +1,6 @@
 Title: Using GtkIconView in Python: a small tutorial
 Date: 2008-04-15 15:24
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Programmazione, Python
 Tags: gtk, gtkiconview, gtkliststore, HowTo, programming, Python, tutorial
 Slug: using-gtkiconview-in-python-a-small-tutorial

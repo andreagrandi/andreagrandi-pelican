@@ -1,6 +1,6 @@
 Title: Installazione e configurazione di Ubuntu Eee 8.04.1 su Asus EeePC 901
 Date: 2008-10-05 14:44
-Author: admin
+Author: Andrea Grandi
 Category: EeePC, HowTo, Linux
 Tags: asus, EeePC, ubuntu-eee
 Slug: installazione-e-configurazione-di-ubuntu-eee-8041-su-asus-eeepc-901

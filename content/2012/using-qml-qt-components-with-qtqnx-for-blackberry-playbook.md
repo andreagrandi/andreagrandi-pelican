@@ -1,6 +1,6 @@
 Title: Using QML qt-components with QtQNX for BlackBerry PlayBook
 Date: 2012-03-30 01:40
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Programmazione, Qt
 Slug: using-qml-qt-components-with-qtqnx-for-blackberry-playbook
 Status: published

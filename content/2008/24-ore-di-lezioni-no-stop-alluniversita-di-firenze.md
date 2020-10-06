@@ -1,6 +1,6 @@
 Title: 24 ore di lezioni no-stop all'Università di Firenze
 Date: 2008-10-27 18:42
-Author: admin
+Author: Andrea Grandi
 Category: Unifi
 Tags: Unifi
 Slug: 24-ore-di-lezioni-no-stop-alluniversita-di-firenze

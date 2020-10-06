@@ -1,6 +1,6 @@
 Title: Installare le Qt 4.4.0 su Ubuntu Linux 8.04
 Date: 2008-05-08 11:46
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Programmazione, Qt, Ubuntu (IT)
 Tags: 4.4.0, hardy, installazione, librerie, multipiattaforma, Programmazione, Qt, sviluppo, Ubuntu (EN)
 Slug: installare-le-qt-440-su-ubuntu-linux-804

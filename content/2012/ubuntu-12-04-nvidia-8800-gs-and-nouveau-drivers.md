@@ -1,6 +1,6 @@
 Title: Ubuntu 12.04, Nvidia 8800 GS and Nouveau drivers
 Date: 2012-04-27 20:18
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Ubuntu (EN)
 Tags: drivers, graphic, Nouveau, nvidia, Pangolin, Ubuntu
 Slug: ubuntu-12-04-nvidia-8800-gs-and-nouveau-drivers

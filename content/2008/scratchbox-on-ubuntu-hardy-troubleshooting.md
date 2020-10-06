@@ -1,6 +1,6 @@
 Title: Scratchbox on Ubuntu Hardy troubleshooting
 Date: 2008-04-21 14:37
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN)
 Tags: maemo, nokia, scratchbox, SDK, tablet
 Slug: scratchbox-on-ubuntu-hardy-troubleshooting

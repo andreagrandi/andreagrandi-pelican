@@ -1,6 +1,6 @@
 Title: Installing Maemo SDK 4 HowTo Updated
 Date: 2008-04-17 14:41
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN)
 Tags: chinook, HowTo, maemo, nokia, SDK
 Slug: installing-maemo-sdk-4-howto-updated

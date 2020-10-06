@@ -1,6 +1,6 @@
 Title: Nuove versioni di Skype per Linux: qualcosa si muove
 Date: 2009-02-07 17:50
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Skype
 Tags: Linux, Skype, sviluppo
 Slug: nuove-versioni-di-skype-per-linux-qualcosa-si-muove

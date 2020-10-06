@@ -1,6 +1,6 @@
 Title: Last.fm: the money music revolution!
 Date: 2009-05-11 19:49
-Author: admin
+Author: Andrea Grandi
 Category: Recensione
 Tags: community, last.fm, music, radio, streaming
 Slug: lastfm-the-money-music-revolution

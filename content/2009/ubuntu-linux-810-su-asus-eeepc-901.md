@@ -1,6 +1,6 @@
 Title: Ubuntu Linux 8.10 su Asus EeePC 901
 Date: 2009-02-02 12:21
-Author: admin
+Author: Andrea Grandi
 Category: EeePC, HowTo, Linux, Recensione
 Tags: 901, asus, EeePC, Linux, Ubuntu (EN)
 Slug: ubuntu-linux-810-su-asus-eeepc-901

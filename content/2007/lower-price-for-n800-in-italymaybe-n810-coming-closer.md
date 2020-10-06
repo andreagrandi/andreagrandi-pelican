@@ -1,6 +1,6 @@
 Title: Lower price for N800 in Italy...maybe N810 coming closer?!
 Date: 2007-12-13 14:56
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Maemo (EN)
 Tags: n800, nokia, tablet
 Slug: lower-price-for-n800-in-italymaybe-n810-coming-closer

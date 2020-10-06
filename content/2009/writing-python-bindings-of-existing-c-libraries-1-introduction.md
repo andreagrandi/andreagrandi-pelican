@@ -1,6 +1,6 @@
 Title: Writing Python bindings of existing C libraries - (1) - Introduction
 Date: 2009-08-03 10:04
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Igalia, Linux, Maemo (EN), Programmazione, Python
 Tags: bindings, C, Igalia, libraries, library, maemo, pymaemo, Python
 Slug: writing-python-bindings-of-existing-c-libraries-1-introduction

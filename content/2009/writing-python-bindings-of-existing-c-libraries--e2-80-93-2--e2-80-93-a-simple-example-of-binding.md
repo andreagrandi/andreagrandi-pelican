@@ -1,6 +1,6 @@
 Title: Writing Python bindings of existing C libraries – (2) – A simple example of binding
 Date: 2009-08-06 15:44
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Igalia, Linux, Maemo (EN), Programmazione, Python
 Tags: binding, Igalia, maemo, Python
 Slug: writing-python-bindings-of-existing-c-libraries-%e2%80%93-2-%e2%80%93-a-simple-example-of-binding

@@ -1,6 +1,6 @@
 Title: Writing Python bindings of existing C libraries – (3) – Building and Installing with distutils
 Date: 2009-08-13 10:39
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Igalia, Linux, Maemo (EN), Programmazione, Python
 Tags: binding, distutils, library, maemo, Python, setup
 Slug: writing-python-bindings-of-existing-c-libraries-%e2%80%93-3-%e2%80%93-building-and-installing-with-distutils

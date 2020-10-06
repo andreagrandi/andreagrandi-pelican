@@ -1,6 +1,6 @@
 Title: First post from MaemoWordpy using N810
 Date: 2008-02-01 00:56
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN)
 Slug: first-post-from-maemowordpy-using-n810
 Status: published

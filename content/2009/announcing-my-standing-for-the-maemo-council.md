@@ -1,6 +1,6 @@
 Title: Announcing my standing for the Maemo Council
 Date: 2009-02-28 14:17
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN)
 Slug: announcing-my-standing-for-the-maemo-council
 Status: published

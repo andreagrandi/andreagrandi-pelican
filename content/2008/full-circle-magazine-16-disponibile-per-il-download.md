@@ -1,6 +1,6 @@
 Title: Full Circle Magazine #16 disponibile per il download
 Date: 2008-08-30 12:04
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (IT)
 Tags: full circle magazine, Linux, magazine, rivista, Ubuntu (EN)
 Slug: full-circle-magazine-16-disponibile-per-il-download

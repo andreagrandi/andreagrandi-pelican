@@ -1,6 +1,6 @@
 Title: Conferenza OLPC a Firenze con Nicholas Negroponte: la recensione
 Date: 2008-03-08 18:12
-Author: admin
+Author: Andrea Grandi
 Category: Linux, OLPC
 Tags: conferenza, firenze, iniziativa, nicholas negroponte, OLPC, olpc italia, one laptop per child, palazzo vecchio, terzo mondo
 Slug: conferenza-olpc-a-firenze-con-nicholas-negroponte-la-recensione

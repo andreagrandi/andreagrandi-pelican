@@ -1,6 +1,6 @@
 Title: CuteSoma - worldwide downloads statistic for Nokia N9
 Date: 2012-02-03 18:11
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN), MeeGo, Qt
 Slug: cutesoma-worldwide-downloads-statistic-for-nokia-n9
 Status: published

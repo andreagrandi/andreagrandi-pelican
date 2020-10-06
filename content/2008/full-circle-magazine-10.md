@@ -1,6 +1,6 @@
 Title: Full Circle Magazine #10
 Date: 2008-02-29 10:20
-Author: admin
+Author: Andrea Grandi
 Category: Linux, Ubuntu (IT)
 Tags: full circle magazine, gratuito, Linux, rivista, Ubuntu (EN)
 Slug: full-circle-magazine-10

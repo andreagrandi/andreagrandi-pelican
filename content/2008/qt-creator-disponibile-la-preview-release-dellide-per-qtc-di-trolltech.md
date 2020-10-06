@@ -1,6 +1,6 @@
 Title: Qt Creator: disponibile la preview release dell'IDE per Qt/C++ di Trolltech
 Date: 2008-10-31 19:37
-Author: admin
+Author: Andrea Grandi
 Category: Programmazione, Qt
 Tags: IDE, Qt, Trolltech
 Slug: qt-creator-disponibile-la-preview-release-dellide-per-qtc-di-trolltech

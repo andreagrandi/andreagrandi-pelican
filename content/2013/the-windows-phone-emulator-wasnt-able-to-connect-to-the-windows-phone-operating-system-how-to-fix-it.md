@@ -1,6 +1,6 @@
 Title: The Windows Phone Emulator wasn’t able to connect to the Windows Phone operating system: how to fix it
 Date: 2013-02-03 13:57
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Programmazione, Windows, Windows Phone
 Slug: the-windows-phone-emulator-wasnt-able-to-connect-to-the-windows-phone-operating-system-how-to-fix-it
 Status: published

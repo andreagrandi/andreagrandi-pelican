@@ -1,6 +1,6 @@
 Title: OS 2008 update for Nokia N810: 5.2008.43 released
 Date: 2008-12-17 19:15
-Author: admin
+Author: Andrea Grandi
 Category: Maemo (EN)
 Tags: maemo, n810
 Slug: os-2008-update-for-nokia-n810-5200843-released

@@ -1,6 +1,6 @@
 Title: Factoryboy: Creating data for unit tests in an easy way
 Date: 2014-01-30 12:53
-Author: admin
+Author: Andrea Grandi
 Category: Programmazione, Python
 Slug: factoryboy-creating-data-for-unit-tests-in-an-easy-way
 Status: published

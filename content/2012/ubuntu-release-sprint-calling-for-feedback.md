@@ -1,6 +1,6 @@
 Title: Ubuntu Release Sprint: calling for feedback!
 Date: 2012-08-17 12:28
-Author: admin
+Author: Andrea Grandi
 Category: Ubuntu (EN)
 Tags: development, meeting, sprint, Ubuntu, UDS
 Slug: ubuntu-release-sprint-calling-for-feedback

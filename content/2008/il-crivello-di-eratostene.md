@@ -1,6 +1,6 @@
 Title: Il crivello di Eratostene
 Date: 2008-01-30 17:56
-Author: admin
+Author: Andrea Grandi
 Category: Python
 Tags: crivello, eratostene, numeri primi, Python
 Slug: il-crivello-di-eratostene

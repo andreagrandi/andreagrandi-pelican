@@ -1,6 +1,6 @@
 Title: Sharing your PC monitor with your Xbox using a VGA Switcher
 Date: 2012-02-26 14:41
-Author: admin
+Author: Andrea Grandi
 Category: HowTo, Linux, Ubuntu (EN)
 Slug: sharing-your-pc-monitor-with-your-xbox-using-a-vga-switcher
 Status: published

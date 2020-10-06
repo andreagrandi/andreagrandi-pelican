@@ -1,6 +1,6 @@
 Title: Giving Lightning Talks
 Date: 2009-09-03 17:21
-Author: admin
+Author: Andrea Grandi
 Category: Igalia, Maemo (EN)
 Tags: amsterdam, conference, lightning, maemo, nokia, summit, talk
 Slug: giving-lightning-talks

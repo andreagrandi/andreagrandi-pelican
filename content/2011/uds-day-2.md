@@ -1,6 +1,6 @@
 Title: UDS day-2
 Date: 2011-05-11 11:20
-Author: admin
+Author: Andrea Grandi
 Category: Ubuntu (EN), UDS
 Tags: Budapest, summit, Ubuntu, UDS, UDS-O
 Slug: uds-day-2

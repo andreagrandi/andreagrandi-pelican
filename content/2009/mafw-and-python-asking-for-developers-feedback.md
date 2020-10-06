@@ -1,6 +1,6 @@
 Title: MAFW and Python: asking for developers feedback
 Date: 2009-08-05 10:16
-Author: admin
+Author: Andrea Grandi
 Category: Igalia, Linux, Maemo (EN), Programmazione, Python
 Tags: bindings, fremantle, maemo, mafw, Python
 Slug: mafw-and-python-asking-for-developers-feedback
