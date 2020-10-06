@@ -19,37 +19,21 @@ channels available and a full version with all Soma.fm channels for just
 I've spent coding it and if you like the trial version, please support
 the development of this application and purchase the full one.
 
-<p>
-<center>
-[![CuteSomaWP\_main\_WXGA](http://www.andreagrandi.it/wp-content/uploads/2012/12/CuteSomaWP_main_WXGA-614x1024.png){.wp-image-718
-.alignnone width="221" height="368"}
-![CuteSomaWP\_playing\_WXGA](http://www.andreagrandi.it/wp-content/uploads/2012/12/CuteSomaWP_playing_WXGA-614x1024.png){.wp-image-719
-.alignnone width="221"
-height="368"}](http://www.andreagrandi.it/wp-content/uploads/2012/12/CuteSomaWP_main_WXGA.png)
+[![CuteSomaWP]({static}/images/2012/12/CuteSomaWP_main_WXGA-614x1024.png){ width=30% }]({static}/images/2012/12/CuteSomaWP_main_WXGA-614x1024.png)
+[![CuteSomaWP]({static}/images/2012/12/CuteSomaWP_playing_WXGA-614x1024.png){ width=30% }]({static}/images/2012/12/CuteSomaWP_main_WXGA.png)
 
-</center>
-<center>
-</center>
-</p>
-Install CuteSoma {#install-cutesoma style="text-align: left;"}
-----------------
+## Install CuteSoma
 
-1\) Press **Search** button on your Nokia Lumia (or any other Windows
+1. Press **Search** button on your Nokia Lumia (or any other Windows
 Phone) and tap **vision** button
 
-2\) Scan the following QrCode
+2. Scan the following QrCode
 
-[![CuteSomaWP\_QrCode](http://www.andreagrandi.it/wp-content/uploads/2012/12/CuteSomaWP_QrCode-300x300.png){.aligncenter
-.wp-image-720 width="210"
-height="210"}](http://www.andreagrandi.it/wp-content/uploads/2012/12/CuteSomaWP_QrCode.png)
+[![CuteSomaWP\_QrCode]({static}/images/2012/12/CuteSomaWP_QrCode-300x300.png){ width=30% }]({static}/images/2012/12/CuteSomaWP_QrCode.png)
 
- 
-
-3) Tap on the link when it appears on the screen
-
-4) Install the application from the Windows Phone Store
-
-5\) Enjoy!
+3. Tap on the link when it appears on the screen
+4. Install the application from the Windows Phone Store
+5. Enjoy!
 
 Please consider also [**donating**](http://somafm.com/support/)to
 Soma.fm if you like their music: Soma.fm is donation supported and they

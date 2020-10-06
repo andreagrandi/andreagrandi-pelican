@@ -10,17 +10,14 @@ If you try to install **Nokia QtSDK** on Ubuntu using the Nokia
 installer (that provides a newer version than the one distributed in
 Ubuntu Software Center) you could get an error like this:
 
-\[sourcecode lang="text"\]  
-(Qt\_SDK\_Lin32\_offline\_v1\_1\_3\_en.run:3126): Gtk-CRITICAL \*\*:
-IA\_\_gtk\_widget\_style\_get: assertion \`GTK\_IS\_WIDGET (widget)'
-failed  
-\[/sourcecode\]
+    :::shell
+    (Qt_SDK_Lin32_offline_v1_1_3_en.run:3126): Gtk-CRITICAL **:
+    IA__gtk_widget_style_get: assertion `GTK_IS_WIDGET (widget)`
+    failed  
 
 to fix it, you need to run the installer with a specific parameter:
 
-\[sourcecode lang="text"\]  
-andrea@centurion:\~/Downloads/Qt\$
-./Qt\_SDK\_Lin32\_offline\_v1\_1\_4\_en.run -style cleanlooks  
-\[/sourcecode\]
+    :::shell
+    ./Qt_SDK_Lin32_offline_v1_1_4_en.run -style cleanlooks  
 
 and everything should work!
