@@ -22,23 +22,17 @@ If you need more detailed informations about Symbian Qt Components, you
 can also read this nice blog post from Cornelius
 Hald <http://kodira.de/2012/12/qt-components-on-blackberry-10/>
 
+## How does it look
+
 So, what's the result of my porting? Well, first of all a couple of
 screenshots
 
-<p>
-<center>
-[![IMG\_00000004](http://www.andreagrandi.it/wp-content/uploads/2013/01/IMG_00000004-180x300.png){.size-medium
-.wp-image-727 .alignnone width="180"
-height="300"}](http://www.andreagrandi.it/wp-content/uploads/2013/01/IMG_00000004.png) 
+[![IMG\_00000004]({static}/images/2013/01/IMG_00000004-180x300.png){ width="180" height="300" }]({static}/images/2013/01/IMG_00000004.png) 
  
-  [![IMG\_00000005](http://www.andreagrandi.it/wp-content/uploads/2013/01/IMG_00000005-180x300.png){.size-medium
-.wp-image-728 .alignnone width="180"
-height="300"}](http://www.andreagrandi.it/wp-content/uploads/2013/01/IMG_00000005.png)
+[![IMG\_00000005]({static}/images/2013/01/IMG_00000005-180x300.png){ width="180" height="300" }]({static}/images/2013/01/IMG_00000005.png)
 
-</center>
- 
+## Source Code
 
-</p>
 And finally the source
 code: [https://github.com/andreagrandi/CuteSoma/tree/bb10  
 ](https://github.com/andreagrandi/CuteSoma/tree/bb10)The application

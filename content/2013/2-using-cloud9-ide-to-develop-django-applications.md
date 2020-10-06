@@ -22,18 +22,15 @@ They also offer access to a Linux terminal (so you can install
 applications, like Django) and your websites are istantly available
 online for remote testing.
 
-[![c9ide\_django](http://www.andreagrandi.it/wp-content/uploads/2013/01/c9ide_django.png){.aligncenter
-.wp-image-734 width="469"
-height="345"}](http://www.andreagrandi.it/wp-content/uploads/2013/01/c9ide_django.png)
+[![c9ide\_django]({static}/images/2013/01/c9ide_django.png){ width=100% }]({static}/images/2013/01/c9ide_django.png)
 
 Installing and using Django on C9 is very easy. You just need to open a
 new terminal tab (ALT+T) in C9 and execute these commands
 
-\[sourcecode lang="text"\]  
-easy\_install django  
-python ./../bin/django-admin.py startproject myproject  
-python ./myproject/manage.py runserver \$OPENSHIFT\_INTERNAL\_IP:\$PORT  
-\[/sourcecode\]
+    :::shell
+    easy_install django  
+    python ./../bin/django-admin.py startproject myproject  
+    python ./myproject/manage.py runserver $OPENSHIFT_INTERNAL_IP:$PORT  
 
 After these commands, your Django website will be live and accessible
 using **http://projectname.username.c9.io** (where *projectname* is the

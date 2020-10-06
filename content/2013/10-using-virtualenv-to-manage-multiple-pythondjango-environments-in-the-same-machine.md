@@ -15,10 +15,9 @@ environment is not what you need in some cases. Thanks to
 create a self contained Python environment with all the specific
 libraries you may need. Using virtualenv is very easy:
 
--   Creating the virtual environment: **virtualenv
-    myenv --no-site-packages**
--   Entering the virtual environment: **source myenv/bin/activate**
--   Deactivating the virtual environment: **deactivate**
+- Creating the virtual environment: **`virtualenvmyenv --no-site-packages`**
+- Entering the virtual environment: **`source myenv/bin/activate`**
+- Deactivating the virtual environment: **`deactivate`**
 
 That's it! Once you're inside the virtual environment you will be using
 the Python libraries inside it. I suggest you to install all the Python

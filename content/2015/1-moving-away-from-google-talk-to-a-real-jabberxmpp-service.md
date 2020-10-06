@@ -15,12 +15,9 @@ is just a [closed and
 proprietary](https://www.eff.org/deeplinks/2013/05/google-abandons-open-standards-instant-messaging)
 service. The main problem with these changes are:
 
--   Jabber/XMPP users of other services won't be able to talk anymore to
-    Google Talk users
--   Google is killing some of their native clients (like the Windows
-    one) and forcing users to Chrome or Android/iOS versions
--   Google has disabled the possibility to turn off chat recording (you
-    can still do it individually, for each contact)
+- Jabber/XMPP users of other services won't be able to talk anymore to Google Talk users
+- Google is killing some of their native clients (like the Windows one) and forcing users to Chrome or Android/iOS versions
+- Google has disabled the possibility to turn off chat recording (you can still do it individually, for each contact)
 
 So, what are the alternatives to Google Talk? Luckly you have at least
 three options.
@@ -63,9 +60,9 @@ If you have a VPS and some syasdmin skills, why not hosting your own
 XMPP server? There are different options available, but I can suggest
 you three in particular:
 
--   [OpenFire](http://www.igniterealtime.org/projects/openfire/)
--   [ejabberd](https://www.ejabberd.im/)
--   [Prosody](http://prosody.im/)
+- [OpenFire](http://www.igniterealtime.org/projects/openfire/)
+- [ejabberd](https://www.ejabberd.im/)
+- [Prosody](http://prosody.im/)
 
 I haven't tried any of these personally, because for the moment I'm
 using the service offered by hosted.im. I'm curious anyway to configure

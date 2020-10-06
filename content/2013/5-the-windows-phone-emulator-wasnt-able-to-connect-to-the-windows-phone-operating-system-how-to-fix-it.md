@@ -21,6 +21,4 @@ All you have to do is going to "**Network and Internet --&gt; Network
 Connections**", right click on "**vEthernet (Internal Ethernet Port)
 Windows Phone Emulator**" and **Enable** it.
 
-[![network\_interface\_wp8](http://www.andreagrandi.it/wp-content/uploads/2013/02/network_interface_wp8.png){.aligncenter
-.wp-image-765 width="488"
-height="160"}](http://www.andreagrandi.it/wp-content/uploads/2013/02/network_interface_wp8.png)
+[![network\_interface\_wp8]({static}/images/2013/02/network_interface_wp8.png){ width=100% }]({static}/images/2013/02/network_interface_wp8.png)
