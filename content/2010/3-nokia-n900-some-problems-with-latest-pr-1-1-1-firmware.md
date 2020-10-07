@@ -11,8 +11,7 @@ problems, but I'll report them anyway, maybe somebody had my same
 problem and we could try to prepare a proper bug report to make the
 Maemo team fix them.
 
-Infinite boot loop after upgrade
---------------------------------
+## Infinite boot loop after upgrade
 
 First of all I have to say that before upgrading to PR 1.1.1 I checked
 if I had enough space on the rootfs. I only had 27 Mb and so I decided
@@ -29,8 +28,7 @@ the battery to stop it.
 Conclusion: I had to re-flash the device with the latest image to make
 it work again.
 
-mafw-dbus-wrapper taking all the CPU
-------------------------------------
+## mafw-dbus-wrapper taking all the CPU
 
 I was watching a video (using subtitles) and after some minutes the
 whole UI became unresponsive. Strange because I already did this before
@@ -41,9 +39,7 @@ normally there are at least 3-4 , mafw-dbus-wrapper processes and I
 didn't check which one was causing the problem. Anyway I made a
 screenshot, just in case it can help.
 
-[![](http://www.andreagrandi.it/wp-content/uploads/2010/02/Screenshot-20100217-034958-300x180.png "Screenshot-20100217-034958"){.size-medium
-.wp-image-362 .aligncenter width="300"
-height="180"}](http://www.andreagrandi.it/wp-content/uploads/2010/02/Screenshot-20100217-034958.png)
+[![]({static}/images/2010/02/Screenshot-20100217-034958-300x180.png "Screenshot-20100217-034958")]({static}/images/2010/02/Screenshot-20100217-034958.png)
 
 I hope this short report can be useful to help Maemo team to fix or at
 least investigate what happened. Just leave a comment or contact me if

@@ -16,7 +16,9 @@ Name: **Andrea Grandi**
 maemo.org profile: **Andy80** - <http://maemo.org/profile/view/andy80/>  
 Corporate affiliation: none
 
-**Introduction:** My name is Andrea Grandi, I live in Italy and I'm a
+## Introduction
+
+My name is Andrea Grandi, I live in Italy and I'm a
 Computer Science student. I've worked for some years as a software
 developer, then I started university. I'm part of the Maemo Community
 since 2007. Since then I like to help new users, organizing events,
@@ -25,11 +27,10 @@ developing applications using Qt/C++ for N900, to be ready when MeeGo
 for handled devices will be out. I really like to collaborate with other
 community members to build together the best product ever.
 
-**My life in the Community:**
+## My life in the Community
 
 - **May 2008:** PyMaemo: Python for Nokia Internet Tablet @ PyCon Italia
-2 -
-<http://www.pycon.it/conference/talks/pymaemo-python-i-nokia-internet-tablet>
+2 - <http://www.pycon.it/conference/talks/pymaemo-python-i-nokia-internet-tablet>
 
 - **September 2008:** ESBox and Pluthon Eclipse plugins: how to use
 Eclipse to develop Maemo applications @ Maemo Summit 2008 -
@@ -42,21 +43,22 @@ Eclipse to develop Maemo applications @ Maemo Summit 2008 -
 Maemo Summit 2009 - <http://wiki.maemo.org/Maemo_Summit_2009>
 
 - **May 2010:** PySide: Python Bindings for the Qt Framework @ PyCon
-Italia 4 -
-<http://www.pycon.it/conference/talks/qt-mobile-pyside-bindings>
+Italia 4 - <http://www.pycon.it/conference/talks/qt-mobile-pyside-bindings>
 
-**Current Activities:** I'm currently working to two Maemo/MeeGo
+## Current Activities 
+
+I'm currently working to two Maemo/MeeGo
 projects. The first one is **mSoma**, a Soma.Fm client that I'm
 developing with Lorenzo Bettini. The other one is **LastGo**, a Last.fm
 client. Both applications are written in Qt/C++ and are using QtMobility
 as multimedia libraries.
 
-**mSoma**: <http://gitorious.org/msoma> -
-<http://maemo.org/packages/view/msoma>  
-**LastGo**: <http://gitorious.org/lastgo> -
-<http://maemo.org/packages/view/lastgo>
+- **mSoma**: <http://gitorious.org/msoma> - <http://maemo.org/packages/view/msoma>  
+- **LastGo**: <http://gitorious.org/lastgo> - <http://maemo.org/packages/view/lastgo>
 
-**Motivations:** I really would like to be able to do more for the
+## Motivations 
+
+I really would like to be able to do more for the
 community and one of the best way could be to be part of the council, to
 help both users/developers to explain their requests to Nokia and Nokia
 to understand the requests from the community. There are a lot of

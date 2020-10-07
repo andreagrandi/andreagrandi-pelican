@@ -23,7 +23,7 @@ pronto soccorso, risultati delle analisi ecc...
 Per accedere all'area riservata non viene utilizzato il classico metodo
 di username/password, ma bensì l'autenticazione tramite smartcard.
 
-### Installazione del lettore di smartcard
+## Installazione del lettore di smartcard
 
 [![miniLectorBox]({static}/images/2010/11/miniLectorBox.jpg){ width=60% }]({static}/images/2010/11/miniLectorBox.jpg)
 
@@ -59,7 +59,7 @@ in una cartella a piacimento):
     sudo dpkg -i libminilector38u-bit4id.deb
 
 Se tutto è stato eseguito correttamente, utilizzando il programma
-**pcsc\_scan** da terminale, dovreste ottenere un output simile a
+**`pcsc_scan`** da terminale, dovreste ottenere un output simile a
 questo:
 
     :::shell
@@ -76,7 +76,7 @@ questo:
     Card state: Card inserted,  
     ATR: 3B DF 18 00 81 31 FE 7D 00 6B 15 0C 01 81 01 11 01 43 4E 53 10 31 80 E8
 
-### Configurazione di Firefox
+## Configurazione di Firefox
 
 Prima di poter configurare Firefox è necessario installare un'ultima
 libreria che permetterà al browser di poter interagire con il lettore di

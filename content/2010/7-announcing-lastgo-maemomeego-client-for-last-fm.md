@@ -7,7 +7,7 @@ Slug: announcing-lastgo-maemomeego-client-for-last-fm
 Status: published
 
 While I'm still working to
-[mSoma](http://www.andreagrandi.it/2010/07/03/announcing-msoma-maemomeego-client-for-somafm/)
+[mSoma]({filename}/2010/6-announcing-msoma-maemomeego-client-for-somafm.md)
 with Lorenzo Bettini, I decided to start writing another application. I
 needed to write something from scratch to learn better how to use
 **C++** and **Qt** libraries, so I decided to write a client for
@@ -17,9 +17,7 @@ full development, but you can already taste it if you have
 only supports basic radio features: tuning user's radio, playing a song,
 skipping a song and displaying song informations.
 
-[![](http://www.andreagrandi.it/wp-content/uploads/2010/07/Screenshot-20100716-222755.png "LastGo"){.aligncenter
-.size-full .wp-image-386 width="460"
-height="276"}](http://www.andreagrandi.it/wp-content/uploads/2010/07/Screenshot-20100716-222755.png)
+[![]({static}/images/2010/07/Screenshot-20100716-222755.png "LastGo")]({static}/images/2010/07/Screenshot-20100716-222755.png)
 
 Other basic Last.fm features like scrobbling, marking a song as loved or
 banned ecc.. are not supported yet, but of course they're planned for
