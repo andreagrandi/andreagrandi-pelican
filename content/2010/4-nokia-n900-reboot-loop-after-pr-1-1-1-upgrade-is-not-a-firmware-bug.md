@@ -6,8 +6,7 @@ Tags: firmware, maemo, MeeGo, N900, nokia
 Slug: nokia-n900-reboot-loop-after-pr-1-1-1-upgrade-is-not-a-firmware-bug
 Status: published
 
-Few days ago I published [some
-notes](http://www.andreagrandi.it/2010/02/17/nokia-n900-some-problems-with-latest-pr-1-1-1-firmware/)
+Few days ago I published [some notes]({filename}/2010/3-nokia-n900-some-problems-with-latest-pr-1-1-1-firmware.md)
 about my personal experience with **PR 1.1.1** firmware upgrade in Nokia
 **N900**. In particular my device got an infinite reboot loop after
 upgrading the firmware and I had to flash the firmware image from

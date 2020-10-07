@@ -13,8 +13,7 @@ Even this time I has the possibility to meet old friends and people I
 usually talk to using mailing list or IRC. We had 2 days organized by
 the community and 3 days organized by Nokia and Intel.
 
-Early Bird Events
------------------
+## Early Bird Events
 
 After I attended the Barcelona UX Weekend last year, I tried to propose
 something similar for this year and I started organizing the Early Bird
@@ -44,8 +43,7 @@ Francisco). If you have any idea about how we could improve early bird
 events, please contact me, Thomas or write in the **meego-community**
 mailing list.
 
-The Conference
---------------
+## The Conference
 
 I didn't follow many talks this year, for many reasons. Since you could
 follow them later watching the recorded video I did prefer to talk with

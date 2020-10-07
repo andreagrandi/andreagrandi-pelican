@@ -6,12 +6,11 @@ Tags: fon, fonera, foneros, Linux, router, wifi
 Slug: fon-how-long-are-you-going-to-play-tricks-on-users
 Status: published
 
-Introduction
-------------
+## Introduction
 
-![](http://www.andreagrandi.it/wp-content/uploads/2010/02/fon-300x294.jpg "fon"){.alignright
-.size-medium .wp-image-336 width="168" height="164"}As many of you
-already know, **Fon** is a spanish company that some years ago had the
+[![]({static}/images/2010/02/fon-300x294.jpg "fon")]()
+
+As many of you already know, **Fon** is a spanish company that some years ago had the
 interesting idea of creating a **wifi community** to share the Internet
 connection. The idea is quite simple: each "fonero" buy a Fonera (the
 router sold by Fon), register it on the Fon system and get a
@@ -25,8 +24,7 @@ bought each of them (the WRT54 router, Fonera, Fonera+, Fonera 2.0g,
 Fonera 2.0n ecc....). Since first year, the Fon community has grown a
 lot and now there are a lot of foneros around the world.
 
-Actual situation
-----------------
+## Actual situation
 
 Few months ago Fon launched a very interesting product: **Fonera 2.0g**.
 Thats's not only a router. Fonera 2 is capable of managing torrents,
@@ -41,16 +39,13 @@ Simple! They were working to Fonera 2.0n! Wow! Faster router, more RAM,
 with unstable I mean: it **disconnects/reboots often**, connection is
 unstable, applications don't work ecc.... I'm talking about a 79€
 router, not about something that users had as preview product. Me and
-other users were still waiting for an uograde when... Fon [announced a
-new
-product](http://english.martinvarsavsky.net/general/fon-to-unveil-new-fonera-at-mobile-world-congress.html)!
+other users were still waiting for an uograde when... Fon [announced a new product](http://english.martinvarsavsky.net/general/fon-to-unveil-new-fonera-at-mobile-world-congress.html)!
 Yes, another one!
 
 Fon priority is not to fix a product that thousand of users have already
 bought. Fon priority is to produce and sell a new product!
 
-Conclusion
-----------
+## Conclusion
 
 It could be only my opinion, but I don't trust you anymore Fon! I'm
 really disappointed about your behaviour you had with your customers.
