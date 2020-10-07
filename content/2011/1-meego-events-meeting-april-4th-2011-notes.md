@@ -5,10 +5,9 @@ Category: MeeGo
 Slug: meego-events-meeting-april-4th-2011-notes
 Status: published
 
-MeeGo Conference Updates
-------------------------
+## MeeGo Conference Updates
 
-﻿We have **315** registrants as of today for the conference, so numbers
+We have **315** registrants as of today for the conference, so numbers
 are looking good without having any agenda published yet! A good portion
 of sessions should be approved by April 8th, this Friday and you will
 receive an email when/if your session has been approved yet. Not all the
@@ -19,14 +18,12 @@ of the Agenda up by April 15th. **Sponsored Travel attendees** should
 start receiving approvals during next week and approvals will continue
 through April 25th.
 
-Warm-up
--------
+## Warm-up
 
 You can follow the updates and planning on the Warm-up at
 <http://wiki.meego.com/MeeGo_Conference_Spring_2011#MeeGo_Conference_Warm-Up>
 
-T-shirt design contest
-----------------------
+## T-shirt design contest
 
 For anyone who didn't see it on the mailing list this morning from Brian
 the winner of the [T-shirt
@@ -34,8 +31,7 @@ contest](http://sf2011.meego.com/logistics/t-shirt-designs) will receive
 sponsored airfare and hotel for the event in San Francisco. The contest
 closes next Friday, so get drawing!
 
-MeeGo Summit FI update
-----------------------
+## MeeGo Summit FI update
 
 MeeGo Summit FI (15-16th Apr). Summit will be 2-day developer oriented
 event as planned. Program contains keynotes, three tracks, meegathon
@@ -46,8 +42,7 @@ fully booked after one week. We have \~350 participants (limited by
 facilities and other details), over 140 are (still) in queue for
 cancellation seat.
 
-MeeGo Corporate Guidelines and Regional and Local Assets and Guidelines
------------------------------------------------------------------------
+## MeeGo Corporate Guidelines and Regional and Local Assets and Guidelines
 
 We in conjunction with Jarkko and the Finland team, the many
 contributors from the community, the Linux foundation, the events team,

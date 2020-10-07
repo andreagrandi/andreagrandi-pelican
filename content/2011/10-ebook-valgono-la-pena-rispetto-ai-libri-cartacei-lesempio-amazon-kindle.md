@@ -57,17 +57,12 @@ quindi, all'autore rimangono 7€.
 
 **Riassumiamo i vantaggi degli ebook**
 
--   economici (costano 3-4€ in meno, molti sono persino gratuiti)
--   ecologici (non c'è bisogno di stampare migliaia di copie)
--   maggiori introiti per chi scrive i libri
--   un e-reader è leggero, può contenere oltre 1000 libri, ottima
-    autonomia con batterie che durano 1 mese
--   comodità di poter acquistare un libro direttamente da casa ed averlo
-    in pochi minuti
--   nessun pericolo di acquistare un libro che non ci piace: con Kindle
-    è possibile avere una copia dei primi capitoli del libro, senza
-    spendere niente, in modo da valutare se il libro valga veramente la
-    pena di essere letto
+- economici (costano 3-4€ in meno, molti sono persino gratuiti)
+- ecologici (non c'è bisogno di stampare migliaia di copie)
+- maggiori introiti per chi scrive i libri
+- un e-reader è leggero, può contenere oltre 1000 libri, ottima autonomia con batterie che durano 1 mese
+- comodità di poter acquistare un libro direttamente da casa ed averlo in pochi minuti
+- nessun pericolo di acquistare un libro che non ci piace: con Kindle è possibile avere una copia dei primi capitoli del libro, senza spendere niente, in modo da valutare se il libro valga veramente la pena di essere letto
 
 Se posso aggiungere un vantaggio, del tutto soggettivo, ma che
 personalmente è il piu' importante: gli ebook mi hanno fatto tornare
