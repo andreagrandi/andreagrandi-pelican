@@ -6,10 +6,9 @@ Tags: Budapest, conference, summit, Ubuntu, UDS
 Slug: uds-day-0
 Status: published
 
-[![](http://www.andreagrandi.it/wp-content/uploads/2011/05/IMG_0254-300x200.jpg "IMG_0254"){.alignright
-.size-medium .wp-image-523 width="210"
-height="140"}](http://www.andreagrandi.it/wp-content/uploads/2011/05/IMG_0254.jpg)I
-left from **Firenze** with my friend **Marco Trevisan**, to go to
+[![]({static}/images/2011/05/IMG_0254-300x200.jpg)]()
+
+I left from **Firenze** with my friend **Marco Trevisan**, to go to
 **[Ubuntu Developer Summit](http://uds.ubuntu.com)** in **Budapest**. We
 changed flight in **Rome** where we met also **Andrea Azzarone**.
 Unluckly **Alitalia losts Marco's baggage**, so he's still waiting for

@@ -6,10 +6,9 @@ Tags: Budapest, summit, Ubuntu, UDS, UDS-O
 Slug: uds-day-2
 Status: published
 
-[![](http://www.andreagrandi.it/wp-content/uploads/2011/05/IMG_0323-300x200.jpg "IMG_0323"){.alignright
-.size-medium .wp-image-531 width="240"
-height="160"}](http://www.andreagrandi.it/wp-content/uploads/2011/05/IMG_0323.jpg)This
-day at UDS started a bit late for me, since i woke up pretty sick (damn
+[![]({static}/images/2011/05/IMG_0323-300x200.jpg "IMG_0323")]()
+
+This day at UDS started a bit late for me, since i woke up pretty sick (damn
 air conditioned!!!). I did not follow any conferences in the morning. I
 relly wanted to follow the **Wayland** one, but when I arrived the room
 was already full and it was almost impossible to enter, so I decided not

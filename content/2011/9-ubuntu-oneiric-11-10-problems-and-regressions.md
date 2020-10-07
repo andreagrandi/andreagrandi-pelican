@@ -6,12 +6,7 @@ Tags: ubuntu oneiric ocelot
 Slug: ubuntu-oneiric-11-10-problems-and-regressions
 Status: published
 
-<div>
-
-![](http://www.andreagrandi.it/wp-content/uploads/2011/10/software-bug-300x199.jpg "software-bug-300x199"){.alignright
-.size-full .wp-image-566 width="168" height="111"}
-
-</div>
+[![]({static}/images/2011/10/software-bug-300x199.jpg "software-bug-300x199")]()
 
 Tomorrow **Ubuntu 11.10** (Oneiric Ocelot) will be released officially
 and I decided to test the RC (release candidate) version on my desktop
@@ -26,8 +21,7 @@ use and as soon as possible I'll also submit proper **bug report on
 Launchpad** for each of them. In the mean time you can give a look to
 the following list.
 
-Bugs and regressions
---------------------
+## Bugs and regressions
 
 **Notifications broken:** on Ubuntu Natty when an application wants to
 notify of a new message it popups an icon from the Launcher, then
@@ -82,14 +76,9 @@ You drag a window around the screen then suddenly the window stop moving
 and the mouse icon starts vibrating. You have to release and click again
 to move the window and stop mouse icon vibrating.
 
-[Conclusion]{.Apple-style-span style="font-size: 20px; font-weight: bold;"}
----------------------------------------------------------------------------
-
-<div>
+## Conclusion
 
 In the next days I'll work on checking for these bugs on Launchpad to
 see if they're already submitted and if not I'll submit them, hoping
 they will be fixed as soon as possible before end users start bothering
 about them.
-
-</div>

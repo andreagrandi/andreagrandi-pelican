@@ -6,10 +6,9 @@ Tags: Budapest, Canonical, conference, Ubuntu, UDS
 Slug: uds-day-1
 Status: published
 
-[![](http://www.andreagrandi.it/wp-content/uploads/2011/05/IMG_0286-300x200.jpg "IMG_0286"){.alignright
-.size-medium .wp-image-528 width="240"
-height="160"}](http://www.andreagrandi.it/wp-content/uploads/2011/05/IMG_0286.jpg)My
-day started at 7:30 with a **very nice breakfast!** I was alone with
+[![]({static}/images/2011/05/IMG_0286-300x200.jpg)]()
+
+My day started at 7:30 with a **very nice breakfast!** I was alone with
 just another guy this morning, in a very big breakbast room.
 
 After it I grabbed my badge to avoid queue later and went back to my
@@ -26,8 +25,7 @@ interesting because there were some **Nokia/Qt** guys and they looked
 very interested in helping the Unity 2D team and collaborating with
 them.
 
-Now following "**[Shaping a strategy for Ubuntu user
-assistance](https://wiki.ubuntu.com/DocumentationTeam/SystemDocumentation/Tasks/Oneiric)**",
+Now following "**[Shaping a strategy for Ubuntu user assistance](https://wiki.ubuntu.com/DocumentationTeam/SystemDocumentation/Tasks/Oneiric)**",
 I just had the possibility my involvement into helping people that
 require Ubuntu assistance.
 
