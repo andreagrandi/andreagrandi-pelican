@@ -70,7 +70,7 @@ MARKUP = ('md', 'ipynb')
 MAIN_MENU = True
 SITETITLE = "Andrea Grandi"
 SITESUBTITLE = "Software Developer"
-SITELOGO = "/images/me_pycon_2019_2.jpg"
+SITELOGO = "/images/me_pycon_2019_2_300x300.jpg"
 MENUITEMS = (
     ("Archives", "/archives.html"),
     ("Categories", "/categories.html"),
