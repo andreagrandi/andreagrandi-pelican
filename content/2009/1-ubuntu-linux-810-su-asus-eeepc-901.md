@@ -6,9 +6,9 @@ Tags: 901, asus, EeePC, Linux, Ubuntu (EN)
 Slug: ubuntu-linux-810-su-asus-eeepc-901
 Status: published
 
-![](http://www.andreagrandi.it/wp-content/uploads/2008/10/eee-pc-901.jpg "eee-pc-901"){.alignright
-.size-full .wp-image-126 width="275" height="209"}Dal momento in cui ho
-acquistato l'**Asus EeePC 901**, ho rimosso la versione personalizzata
+[![]({static}/images/2008/10/eee-pc-901.jpg "eee-pc-901")]()
+
+Dal momento in cui ho acquistato l'**Asus EeePC 901**, ho rimosso la versione personalizzata
 di **Xandros Linux** che viene installata su questi modelli, ed ho
 installato una versione personalizzata di Ubuntu: [**Ubuntu-eee
 8.04.1**](http://www.ubuntu-eee.com).
@@ -17,8 +17,7 @@ Questa versione, pensata appositamente per i netbook della Asus, è
 davvero molto comoda perchè integra di default un kernel con tutte le
 patch ed i driver per far funzionare l'EeePC, che invece non sono
 contenuti nel kernel distribuito dalla Ubuntu 8.04 standard. Ubuntu-eee
-installa anche l'interfaccia [Netbook
-Remix](https://launchpad.net/netbook-remix) che è una particolare
+installa anche l'interfaccia [Netbook Remix](https://launchpad.net/netbook-remix) che è una particolare
 interfaccia grafica adatta per i netbook con schermi di ridotte
 dimensioni.
 
@@ -28,8 +27,7 @@ idea, tanto che ho anche pensato di inviare un piccolo contributo in
 denaro durante la campagna di raccolta fondi per finanziarne lo
 sviluppo.
 
-I problemi di Easy Peasy
-------------------------
+## I problemi di Easy Peasy
 
 Dalla versione successiva alla 8.04.1, Ubuntu-eee ha dovuto cambiare
 nome (per non violare le regole del marchio "Ubuntu" di proprietà di
@@ -58,14 +56,13 @@ Non mi pare accettabile che possano esserci **così tanti problemi** su
 una distribuzione che dovrebbe essere fatta appositamente per un certo
 modello di netbook.
 
-Ubuntu 8.10
------------
+## Ubuntu 8.10
 
 Deluso dalla versione personalizzata, ho deciso di provare ad installare
 la versione standardi di Ubuntu, sistemando a mano le cose che non
 andavano.
 
-### Installazione di base
+## Installazione di base
 
 L'installazione di **Ubuntu 8.10** è identica a quella di
 Ubuntu-eee/EasyPeasy. E' sufficiente creare una versione di Ubuntu che
@@ -81,7 +78,7 @@ riconosciuta e configurata perfettamente da Ubuntu 8.10, quindi è
 possibile utilizzare provvisoriamente il cavo per connettersi e
 completare l'installazione delle componenti mancanti.
 
-### Il kernel ottimizzato per EeePC
+## Il kernel ottimizzato per EeePC
 
 La prima cosa da installare è il [kernel personalizzato di
 Adam](http://array.org/ubuntu/). Questo kernel integra tutte le patch
@@ -90,7 +87,7 @@ dilungherò in questo post nella spiegazione di come si installa,
 rimandandovi invece all'howto originale, presente sul sito dell'autore:
 <http://array.org/ubuntu/setup-intrepid.html>
 
-### eee-control
+## eee-control
 
 Questa utility ci permette di far funzionare tutti i **tasti funzione**
 del nostro EeePC (Fn+F\*) e di tenere sotto controllo alcuni parametri
@@ -104,30 +101,30 @@ sito](http://greg.geekmind.org/eee-control/) dell'autore oppure
 scaricarla direttamente da questo indirizzo:
 <http://greg.geekmind.org/eee-control/deb/eee-control_0.8.3_all.deb>
 
-### Altre ottimizzazioni
+## Altre ottimizzazioni
 
 Per ottenere il massimo dal proprio EeePC è necessario effettuare ancora
 qualche piccolo aggiustamento. I consigli che seguono potrebbero
 applicarsi anche ad altri modelli di EeePC anche se personalmente ho
 avuto modo di testarli solo con l'EeePC 901.
 
-#### laptop-mode
+### laptop-mode
 
 Per abilitare alcune ottimizzazioni per i notebook, dobbiamo abilitare
 il laptop-mode all'interno del file **/etc/default/acpi-support**  
-`ENABLE_LAPTOP_MODE=true`  
+`ENABLE_LAPTOP_MODE=true`
+
 infine dobbiamo modificare il file
 **/etc/laptop-mode/laptop-mode.conf**  
 `ENABLE_LAPTOP_MODE_ON_BATTERY=1`
 
-#### noatime
+### noatime
 
 E' consigliabile utilizzare l'opzione **noatime** al posto di
 **relatime** per fare il mount delle partizioni ext3. In questo modo si
 evita che vengano scritte su disco le informazioni relative all'ultimo
 accesso (anche in lettura) di un file. Dobbiamo modificare /etc/fstab in
-questo modo:  
-`UUID=dce586c1-db13-43c3-8e12-9e1aec67afce / ext3 noatime,errors=remount-ro 0 1`
+questo modo: `UUID=dce586c1-db13-43c3-8e12-9e1aec67afce / ext3 noatime,errors=remount-ro 0 1`
 
 **N.B:** questa riga non va copiata così com'è, va soltanto sostituito
 **relatime** con **noatime** in quella del proprio file.
@@ -135,8 +132,7 @@ questo modo:
 Altre ottimizzazioni possono essere trovate sul **wiki** di Ubuntu-eee:
 <http://www.ubuntu-eee.com/wiki/index.php5?title=User_Guides>
 
-Conclusioni
------------
+## Conclusioni
 
 Ammetto che avere una distribuzione che integri di suo tutte queste
 modifiche potrebbe far risparmiare del tempo. Se questa distribuzione

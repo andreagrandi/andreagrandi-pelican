@@ -18,13 +18,13 @@ all implemented methods) it's a good way to improve my knowledges in
 both languages and since I wasn't able to find much documentation about
 these kind of things, I'm going to share my own experiences.
 
-**What is a Binding?**
+## What is a Binding?
 
 A binding is a Python module, written in C language, that allows Python
 developers to call functions from existing C libraries from their python
 applications. It's just like a "*bridge*" from C world to Python one.
 
-**Why writing bindings?**
+## Why writing bindings?
 
 There are a couple of reasons to write python bindings instead of
 writing a library in python language from scratch.
@@ -39,23 +39,22 @@ is the fact that python code is slower than C code for some tasks (for
 example multimedia codecs). In these cases is good to implement the core
 library in C language and then create a python binding for it.
 
-**Coming next**
+## Coming next
 
 As the title of this post says, this is only an introduction to the
 subjects I'm going to write about. If you have any particular request
 about any argument you would like to read, please feel free to leave me
 a comment. Next posts will talk about these things:
 
--   **A simple example of binding:** I'll write a simple library in C
+- **A simple example of binding:** I'll write a simple library in C
     language and I'll show how to create the relative python binding,
     providing complete source code and an example for python developers.
--   **Building and installing python bindings with distutils:** I'll
+- **Building and installing python bindings with distutils:** I'll
     explain how to use **distutils** to build and install the binding
     (using the well know method "python setup.py install").
--   **Defining new types:** this post will be about how to write new
+- **Defining new types:** this post will be about how to write new
     types in C language and being able to use them from python code.
--   **Using codegen to write bindings:** I'll explain how to use
+- **Using codegen to write bindings:** I'll explain how to use
     **codegen** utils to automate lot of tasks, to generate the most
     part of binding code and how to customize the generated code using
     overrides.
-

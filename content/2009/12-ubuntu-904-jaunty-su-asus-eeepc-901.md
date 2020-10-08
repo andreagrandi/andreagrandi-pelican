@@ -6,9 +6,9 @@ Tags: 9.04, 901, asus, EeePC, jaunty, Ubuntu (EN)
 Slug: ubuntu-904-jaunty-su-asus-eeepc-901
 Status: published
 
-![eee-pc-901](http://www.andreagrandi.it/wp-content/uploads/2008/10/eee-pc-901.jpg "eee-pc-901"){.alignright
-.size-full .wp-image-126 width="202" height="154"}Con l'uscita della
-versione **9.04** di [Ubuntu Linux](http://www.ubuntu.com), questa
+![eee-pc-901]({static}/images/2008/10/eee-pc-901.jpg "eee-pc-901")
+
+Con l'uscita della versione **9.04** di [Ubuntu Linux](http://www.ubuntu.com), questa
 distribuzione ha veramente fatto passi da gigante per quanto riguarda il
 supporto ai **netbook**. Oltre a rilasciare una versione
 specificatamente pensata per i piccoli device (che integra di default
@@ -51,7 +51,13 @@ tasti funzione (Fn+Fx). Perchè possano funzionare dovrete anche
 installare sia un pacchetto presente nella Ubuntu, sia uno incluso nel
 tar.gz, seguendo le seguenti istruzioni:
 
-`sudo apt-get install dkms sudo apt-get remove --purge nvidia-common tar xzvf Jaunty_Eeeasy-Scripts.tar.gz cd Jaunty_Eeeasy-Scripts sudo dpkg --install asus-eee-dkms_3.0_all.deb sudo ./eeeasy-scripts.sh`
+    :::shell
+    sudo apt-get install dkms
+    sudo apt-get remove --purge nvidia-common
+    tar xzvf Jaunty_Eeeasy-Scripts.tar.gz
+    cd Jaunty_Eeeasy-Scripts
+    sudo dpkg --install asus-eee-dkms_3.0_all.deb
+    sudo ./eeeasy-scripts.sh`
 
 A questo punto non vi resta che riavviare il vostro EeePC e
 l'installazione sarà completata. Se vogliamo essere precisi, ci sono
@@ -61,15 +67,17 @@ correttamente. Si tratta di un bug del kernel **2.6.28** che viene
 fortunatamente risolto con la versione **2.6.29** di cui **elmurato**
 fornisce i pacchetti .deb già compilati:
 <http://www.informatik.uni-bremen.de/~elmurato/EeePC/> (dovrete
-installare **linux-headers-\*** e **linux-image-\*** ).
+installare **`linux-headers-*`** e **`linux-image-*`** ).
 
 La versione 2.6.29 del kernel include anche una versione aggiornata del
 modulo che fa funzionare la scheda **wireless**, permettendoci di avere
 un **segnale piu' stabile**.
 
 Consiglio infine di aggiungere la seguente stringa in fondo al file
-**/etc/modprobe.d/options** (createlo se non esistesse): **options
-psmouse proto=imps  
-**questa opzione fa in modo che il touchpad funzioni meglio rispetto a
-come viene configurato di default.**  
-**
+**`/etc/modprobe.d/options`** (createlo se non esistesse):
+
+    :::bash
+    options psmouse proto=imps  
+
+questa opzione fa in modo che il touchpad funzioni meglio rispetto a
+come viene configurato di default.

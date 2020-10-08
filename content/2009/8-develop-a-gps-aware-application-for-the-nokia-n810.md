@@ -12,21 +12,14 @@ and PluThon plugin.
 
 Here is the complete serie:
 
--   [Develop a GPS-aware application for the Nokia N810, Part 1:
-    Development
-    environment:](http://www.ibm.com/developerworks/linux/library/l-gps-nokia1/index.html?S_TACT=105AGX03&S_CMP=EDU)
+- [Develop a GPS-aware application for the Nokia N810, Part 1: Development environment:](http://www.ibm.com/developerworks/linux/library/l-gps-nokia1/index.html?S_TACT=105AGX03&S_CMP=EDU)
     Learn how to configure a development environment targeted at the
     Nokia N810 Internet Tablet, including setting up Eclipse on a target
     development machine for the Python language.
--   [Develop a GPS-aware application for the Nokia N810, Part 2:
-    Consider your
-    options:](http://www.ibm.com/developerworks/linux/library/l-gps-nokia2/index.html?S_TACT=105AGX03&S_CMP=EDU)
+- [Develop a GPS-aware application for the Nokia N810, Part 2: Consider your options:](http://www.ibm.com/developerworks/linux/library/l-gps-nokia2/index.html?S_TACT=105AGX03&S_CMP=EDU)
     Discover the details of code design, library selection, unit
     testing, and user interface choices that make the most sense for
     you.[](http://www.ibm.com/developerworks/linux/library/l-gps-nokia2/index.html?S_TACT=105AGX03&S_CMP=EDU)
--   [Develop a GPS-aware application for the Nokia N810, Part 3: Finish
-    the
-    job](http://www.ibm.com/developerworks/linux/library/l-gps-nokia3/index.html?S_TACT=105AGX03&S_CMP=EDU):
+- [Develop a GPS-aware application for the Nokia N810, Part 3: Finish the job](http://www.ibm.com/developerworks/linux/library/l-gps-nokia3/index.html?S_TACT=105AGX03&S_CMP=EDU):
     In this last of three installments, you'll put the final touches to
     the GPS trip tracker and get it ready for release.
-

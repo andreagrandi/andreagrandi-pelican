@@ -6,9 +6,9 @@ Tags: community, last.fm, music, radio, streaming
 Slug: lastfm-the-money-music-revolution
 Status: published
 
-![lastfm](http://www.andreagrandi.it/wp-content/uploads/2009/04/lastfm.jpg "lastfm"){.alignright
-.size-full .wp-image-267 width="166" height="140"}Non c'è alcun errore
-nel titolo di questo post. Sebbene lo slogan originale di
+![lastfm]({static}/images/2009/04/lastfm.jpg "lastfm")
+
+Non c'è alcun errore nel titolo di questo post. Sebbene lo slogan originale di
 [**Last.fm**](http://www.lastfm.it) fosse "**The Social Music
 Revolution**", ho voluto modificarlo in questo modo, per sottolineare il
 recente cambiamento di rotta di un servizio che fino a pochi giorni fa
@@ -53,8 +53,7 @@ prendere la decisione di disiscrivermi, è il fatto che **USA**,
 **Inghilterra** e **Germania** potranno continuare ad usufruire
 **gratuitamente** del servizio. Questa divisione in paesi di serie A e
 paesi di serie B non è piaciuta proprio a nessuno, basta guardare le
-[centinaia di
-commenti](http://blog.last.fm/2009/04/22/radio-subscriptions) che sono
+[centinaia di commenti](http://blog.last.fm/2009/04/22/radio-subscriptions) che sono
 arrivati sul blog ufficiale di Last.fm.
 
 Io mi associo al pensiero comune: se anche USA, Inghilterra e Germania

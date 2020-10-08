@@ -6,9 +6,9 @@ Tags: code, Google, gsoc
 Slug: maemo-on-google-summer-of-code-2009
 Status: published
 
-![](http://www.andreagrandi.it/wp-content/uploads/2009/02/soc08300x300_white.jpg "GSoC Logo"){.alignright
-.size-full .wp-image-207 width="191" height="191"}This year the
-[**Maemo**](http://www.maemo.org) community will try to join the
+[![]({static}/images/2009/02/soc08300x300_white.jpg "GSoC Logo")]()
+
+This year the [**Maemo**](http://www.maemo.org) community will try to join the
 **[Google Summer of code](http://code.google.com/soc)** program again.
 Google Summer of code can be a very good opportunity for the Maemo
 Community, and can also give a lots of good things, like new

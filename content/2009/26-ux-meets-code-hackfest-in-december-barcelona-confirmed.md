@@ -9,18 +9,18 @@ Status: published
 **Quim Gil** just confirmed the **UX hackfest** in **Barcelona** for
 **4, 5, 6 december**: <http://talk.maemo.org/showthread.php?t=33719>
 
-**What is UX hackfest?**  
+## What is UX hackfest?
 It's a three days meeting for Maemo developers, UX experts and people
 who want to learn about designing good user interfaces.
 
-**When?**  
+## When?**  
 On 4, 5, 6 december 2009
 
-**Where?**  
+## Where?
 Barcelona, Spain. The exact location has still to be confirmed, but it
 should be <http://citilab.eu>
 
-**How many people invited?**  
+## How many people invited?**  
 About 50 people invited (Maemo developers, UX experts, ecc....)
 
 If you are a Maemo developer and you have good user interface designer

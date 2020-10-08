@@ -5,9 +5,9 @@ Category: HowTo, Linux, Recensione, Windows
 Slug: dropbox-2gb-di-disco-online-che-si-integrano-con-windows-osx-e-linux
 Status: published
 
-![dropbox\_logo](http://www.andreagrandi.it/wp-content/uploads/2009/03/dropbox_logo.png "dropbox_logo"){.alignright
-.size-full .wp-image-254 width="65" height="54"}Da tempo stavo cercando
-un servizio che mi offrisse un piccolo spazio online, sempre accessibile
+![dropbox\_logo]({static}/images/2009/03/dropbox_logo.png "dropbox_logo")
+
+Da tempo stavo cercando un servizio che mi offrisse un piccolo spazio online, sempre accessibile
 ed utilizzabile come una chiavetta USB, per poterci mettere i miei dati
 ed averli sempre disponibili ovunque andassi. In questi giorni, dopo
 aver sentito parlare molto bene di
@@ -42,8 +42,7 @@ nostro PC allo spazio online inoltre avviene in modo cifrato. Nessuno
 però ci garantisce che i nostri documenti, uan volta sui server di
 Dropbox, non vengano sbirciati da qualcuno... il mio consiglio quindi è
 quello di crearsi una ulteriore sotto cartella, magari chiamandola
-Secure, e metterci dentro un file di
-[**Truecrypt**](http://www.truecrypt.org/) sul quale andremo a montare
+Secure, e metterci dentro un file di [**Truecrypt**](http://www.truecrypt.org/) sul quale andremo a montare
 la nostra cartella cifrata. In questo modo il file di Truecrypt sara'
 sincronizzato online, ma il suo contenuto sara' inaccessibile a
 chiunque, eccetto noi.
