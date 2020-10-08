@@ -24,6 +24,5 @@ before the username. For example: if your username is
 Important: this mode only works with POP3, not with IMAP.
 
 To conclude, let me say **thank you** to the kind guy who let me
-discover this mode. Thank you
-[**Sergio**](http://blogs.igalia.com/svillar/)! Now there is another
-thing I can do with my tablet!
+discover this mode. Thank you [**Sergio**](http://blogs.igalia.com/svillar/)!
+Now there is another thing I can do with my tablet!

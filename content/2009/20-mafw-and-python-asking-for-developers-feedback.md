@@ -24,11 +24,11 @@ We would like to get feedback from python application developers and
 also from C application developers that are currently using MAFW so we  
 can work on a "roadmap" that reflects what developers want:
 
--   What are the functionalities you're using in your application that
+- What are the functionalities you're using in your application that
     you think they cannot miss in the Python binding?
--   Have you already started using MAFW or even better python-mafw to
+- Have you already started using MAFW or even better python-mafw to
     develop something?
--   What is the currently missing method/methods you would like to be
+- What is the currently missing method/methods you would like to be
     implemented first?
 
 Come on developers! We're waiting for your feedback :)

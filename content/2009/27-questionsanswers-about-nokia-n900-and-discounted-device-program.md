@@ -34,16 +34,14 @@ I guess this should not be a problem.
 *This part is not confirmed yet, since Quim told us to hurry up to buy
 it.*
 
-<strong>3) How many devices can I buy at that price? Here you say I can
-buy two:  
-<https://pro.forum.nokia.com/site/global/tech_resources/discounted_devices/l_ddp.jsp>  
-but here you say I can buy one:
-<https://pro.forum.nokia.com/showProduct.do?product_id=5096>
+**3) How many devices can I buy at that price?** 
+Here you say I can buy two: <https://pro.forum.nokia.com/site/global/tech_resources/discounted_devices/l_ddp.jsp>  
+but here you say I can buy one: <https://pro.forum.nokia.com/showProduct.do?product_id=5096>
 
 I don't want two devices, but another friend of mine, who help me in a
 project for the Maemo Community, would like to be able to buy one for
 the same price (he wasn't able to get the discount because his karma is
-still low).</strong>
+still low).
 
 As far as I know, you can only purchase 1x device per person, regarding
 MAEMO N900.
@@ -61,5 +59,4 @@ All N900 will have EURO variant, Italian language is one option.
 
 **Note:** even these replies come from the official customer care, I
 don't assume any responsability if they shouldn't be all exact. If you
-have any doubt, please contact them directly at
-**[DDP.program@nokia.com]{}**
+have any doubt, please contact them directly at **`DDP.program@nokia.com`**

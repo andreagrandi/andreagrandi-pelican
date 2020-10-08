@@ -20,14 +20,16 @@ Per prima cosa è necessario installare il tool sulla propria
 distribuzione. Su **Ubuntu** (o in qualsiasi altra distribuzione basata
 su Debian) procedere nella seguente maniera:
 
-`sudo apt-get install imagemagick`
+    :::shell
+    sudo apt-get install imagemagick
 
 A questo punto basta posizionarsi nella cartella dove si trovano le
 immagini (vi consiglio di crearvi una copia a parte delle immagini da
 modificare, visto che lo script andra' a lavorare direttamente su quelle
 originali) ed eseguire un comando come questo:
 
-`find ./ -iname '*.JPG' -exec convert '{}' -resize '1024' '{}' \;`
+    :::shell
+    find ./ -iname '*.JPG' -exec convert '{}' -resize '1024' '{}' \;
 
 Questo comando convertirà tutte le immagini .JPG che trova in un formato
 di 1024 pixel di larghezza, mantenendo ovviamente le proporzioni

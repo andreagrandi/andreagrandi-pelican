@@ -6,9 +6,9 @@ Tags: crash, libvisual, nvidia, songbird, Ubuntu (EN)
 Slug: risolvere-il-crash-allavvio-di-songbird-su-ubuntu
 Status: published
 
-****![songbird\_screenshot\_0](http://www.andreagrandi.it/wp-content/uploads/2009/06/songbird_screenshot_0.jpg "songbird_screenshot_0"){.alignright
-.size-full .wp-image-283 width="197" height="136"}****Se si prova a far
-girare la versione di **Songbird** scaricabile [dal sito
+[![songbird\_screenshot\_0]({static}/images/2009/06/songbird_screenshot_0.jpg "songbird_screenshot_0")]()
+
+Se si prova a far girare la versione di **Songbird** scaricabile [dal sito
 ufficiale](http://getsongbird.com) su **Ubuntu** (ma il problema sembra
 riguardare anche altre distribuzioni visto che si tratta di un bug del
 driver Nvidia) si otterrà quasi sicuramente un crash dell'applicazione

@@ -6,9 +6,9 @@ Tags: WordPress
 Slug: evitare-che-wordpress-modifichi-il-codice-da-copia-incollare
 Status: published
 
-![](http://www.andreagrandi.it/wp-content/uploads/2008/02/wordpress-logo.jpg "wordpress_logo"){.alignright
-.size-full .wp-image-19 width="134" height="134"}Il precedente post che
-ho fatto mi aveva fatto veramente disperare. Come potete leggere dai
+[![]({static}/images/2008/02/wordpress-logo.jpg "wordpress_logo")]()
+
+Il precedente post che ho fatto mi aveva fatto veramente disperare. Come potete leggere dai
 comandi, è necessario passare alcuni parametri utilizzando il doppio
 trattino.
 
@@ -25,6 +25,5 @@ all'interno dei blocchi di codice.
 E' sufficiente modificare il file **functions.php** del tema Wordpress
 che stiamo utilizzando ed aggiungere questa riga in fondo al file:
 
-\[sourcecode language='php'\]  
-<?php remove_filter('the_content', "wptexturize" ); ?>  
-\[/sourcecode\]
+    :::php
+    <?php remove_filter('the_content', "wptexturize" ); ?>  
