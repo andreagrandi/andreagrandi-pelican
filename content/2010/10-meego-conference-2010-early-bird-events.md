@@ -5,7 +5,7 @@ Category: Linux, Maemo (EN), MeeGo, Programmazione
 Slug: meego-conference-2010-early-bird-events
 Status: published
 
-[![]({static}/images/2010/09/aviva_stadium.jpg "aviva_stadium")]({static}/images/2010/09/aviva_stadium.jpg)
+[![aviva stadium]({static}/images/2010/09/aviva_stadium.jpg)]({static}/images/2010/09/aviva_stadium.jpg)
 
 ## Introduction
 

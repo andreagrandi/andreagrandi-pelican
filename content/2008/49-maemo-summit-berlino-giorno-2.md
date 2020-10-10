@@ -6,7 +6,7 @@ Tags: maemo, nokia, summit
 Slug: maemo-summit-berlino-giorno-2
 Status: published
 
-[![](http://wiki.maemo.org/images/9/9c/MaemoSummit091908.jpg)]()
+[![Maemo Summit](http://wiki.maemo.org/images/9/9c/MaemoSummit091908.jpg)]()
 
 Con circa 30 minuti di ritardo (maledetto stinco di maiale della sera
 prima!) arriviamo al [**C-base**](http://www.c-base.org/). La sede del
@@ -42,7 +42,7 @@ avuto con me anche 5 o 6 slide che sintetizzavano quello che avrei
 dovuto dire, sarebbe stato tutto molto piu' facile. Oltretutto il talk
 doveva essere in inglese.
 
-[![](http://wiki.maemo.org/images/7/7d/MaemoSummit_catering.jpg)]()
+[![Maemo Summit - catering](http://wiki.maemo.org/images/7/7d/MaemoSummit_catering.jpg)]()
 
 Finalmente arriva l'ora di pranzo. Veniamo tutti dirottati in una sala al piano
 terra dove gli organizzatori hanno fatto arrivare vassoi di crostini,

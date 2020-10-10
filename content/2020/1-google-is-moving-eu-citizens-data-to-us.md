@@ -15,7 +15,7 @@ Leaving the EU, UK citizens are not protected anymore by GDPR, and while this ma
 
 Even if I'm an Italian citizen and I live in Italy, a few days ago I received this email from them:
 
-[![]({static}/images/2020/02/google-data-controller-email.png){ width=90% }]({static}/images/2020/02/google-data-controller-email.png)
+[![google data controller]({static}/images/2020/02/google-data-controller-email.png){ width=90% }]({static}/images/2020/02/google-data-controller-email.png)
 
 ## What's wrong with it?
 

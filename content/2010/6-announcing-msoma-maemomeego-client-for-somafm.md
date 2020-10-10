@@ -17,7 +17,7 @@ updated with latest version we're working on. If someone want to test
 the application, it's available in **extras-devel** repository  ("msoma"
 under Multimedia section) of N900.
 
-[![]({static}/images/2010/07/msoma_0.1.2.png "msoma_0.1.2")]({static}/images/2010/07/msoma_0.1.2.png)
+[![msoma]({static}/images/2010/07/msoma_0.1.2.png)]({static}/images/2010/07/msoma_0.1.2.png)
 
 The UI is still in development as you can see. The application is
 already usable, but of course we have to work hard on the user

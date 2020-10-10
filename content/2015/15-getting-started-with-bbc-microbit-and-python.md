@@ -22,11 +22,11 @@ for the **BBC micro:bit**. Nicholas made it very clear that there is an
 **NDA** in place until the device is delivered to the kids and explained
 what we could or couldn't do.
 
-[![]({static}/images/2015/12/computing_at_school_microbit_reduced.jpg){width=100%}]({static}/images/2015/12/computing_at_school_microbit_reduced.jpg)
+[![microbit]({static}/images/2015/12/computing_at_school_microbit_reduced.jpg){width=100%}]({static}/images/2015/12/computing_at_school_microbit_reduced.jpg)
 
 ## The Board
 
-[![]({static}/images/2015/12/bbcfullbleed.jpg){width=100%}]({static}/images/2015/12/bbcfullbleed.jpg)
+[![board]({static}/images/2015/12/bbcfullbleed.jpg){width=100%}]({static}/images/2015/12/bbcfullbleed.jpg)
 
 The board is a 4 x 5 cm device with an **ARM Cortex-M0** processor,
 **accelerometer** and magnetometer sensors, **Bluetooth** and **USB

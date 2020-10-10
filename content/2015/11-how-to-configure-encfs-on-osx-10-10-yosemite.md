@@ -87,7 +87,7 @@ Make it **executable**:
 Open **AppleScript** editor and paste this text inside and save as an
 app in the \$HOME folder:
 
-[![]({static}/images/2015/10/Screenshot-2015-10-11-19.27.14.png){ width=60% }]({static}/images/2015/10/Screenshot-2015-10-11-19.27.14.png)
+[![apple script]({static}/images/2015/10/Screenshot-2015-10-11-19.27.14.png){ width=60% }]({static}/images/2015/10/Screenshot-2015-10-11-19.27.14.png)
 
     :::shell
     do shell script "$HOME/encfs_mount.sh"
@@ -95,7 +95,7 @@ app in the \$HOME folder:
 Finally, open "**System Preferences**" -&gt; "**Users & Groups**" and
 add the previously saved application.
 
-[![]({static}/images/2015/10/Screenshot-2015-10-11-19.27.44.png){ width=60% }]({static}/images/2015/10/Screenshot-2015-10-11-19.27.44.png)
+[![system preferences]({static}/images/2015/10/Screenshot-2015-10-11-19.27.44.png){ width=60% }]({static}/images/2015/10/Screenshot-2015-10-11-19.27.44.png)
 
 ## Final notes
 

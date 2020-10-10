@@ -6,7 +6,7 @@ Tags: Ubuntu (EN)
 Slug: ubuntu-810-novita-problemi-e-soluzioni
 Status: published
 
-[![]({static}/images/2008/11/countdown_8_10_a_00_days_a_here.png "countdown_8_10_a_00_days_a_here")]()
+[![countdown]({static}/images/2008/11/countdown_8_10_a_00_days_a_here.png)]()
 
 Il **30 ottobre 2008** è stata rilasciata la versione **8.10** di
 [**Ubuntu**](http://www.ubuntu.com). Questa release presenta come al

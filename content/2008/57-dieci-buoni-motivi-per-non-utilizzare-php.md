@@ -6,7 +6,7 @@ Tags: difetti, linguaggi, php, Programmazione
 Slug: dieci-buoni-motivi-per-non-utilizzare-php
 Status: published
 
-[![]({static}/images/2008/10/php-logo.jpg "php-logo")]()
+[![php logo]({static}/images/2008/10/php-logo.jpg)]()
 
 Quando in questi giorni ho appreso la triste notizia che il **progetto** da consegnare
 per l'**esame** di **Laboratorio di Reti** avrebbe dovuto essere

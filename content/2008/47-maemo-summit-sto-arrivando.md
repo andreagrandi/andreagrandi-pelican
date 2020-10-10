@@ -6,7 +6,7 @@ Tags: berlino, maemo, meeting, nokia, summit
 Slug: maemo-summit-sto-arrivando
 Status: published
 
-[![]({static}/images/2008/09/c-logo_claim_blue.jpg)]()
+[![c-base]({static}/images/2008/09/c-logo_claim_blue.jpg)]()
 
 Grazie a **Nokia**, avrò l'occasione fra pochi giorni di partecipare al
 [**Maemo Summit**](http://wiki.maemo.org/Maemo_Summit_2008) che si terrà

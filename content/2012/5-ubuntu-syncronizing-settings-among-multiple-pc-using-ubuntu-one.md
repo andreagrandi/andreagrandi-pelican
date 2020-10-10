@@ -25,7 +25,7 @@ How do I choose which settings to synchronize? First of all you have to
 then you just have to choose the settings you want using this tool
 available in **Ubuntu System Settings**
 
-[![]({static}/images/2012/02/UbuntuSettingsSync_mockup.png "UbuntuSettingsSync_mockup")]({static}/images/2012/02/UbuntuSettingsSync_mockup.png)
+[![ubuntu settings sync]({static}/images/2012/02/UbuntuSettingsSync_mockup.png)]({static}/images/2012/02/UbuntuSettingsSync_mockup.png)
 
 What? A mockup?! Isn't this tool available yet??!! Exactly :) This tool
 is not available **yet**, but I think **it would be an interesting

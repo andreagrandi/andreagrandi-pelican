@@ -6,7 +6,7 @@ Tags: boot, mirror, RAID1
 Slug: ubuntu-804-in-raid1-non-puo-fare-il-boot-con-un-solo-disco
 Status: published
 
-[![]({static}/images/2008/09/raid1.jpg "raid1")]()
+[![raid1]({static}/images/2008/09/raid1.jpg)]()
 
 La modalità **RAID1** (detta anche modalità **mirror**) è una particolare configurazione nella
 quale vengono utilizzati due hard disk al posto di uno, per

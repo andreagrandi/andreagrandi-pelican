@@ -6,7 +6,7 @@ Tags: asus, EeePC, energetico, risparmio
 Slug: controleee-control-panel-for-eeepc
 Status: published
 
-[![]({static}/images/2008/10/controleee.jpg "controleee")]()
+[![controlee]({static}/images/2008/10/controleee.jpg)]()
 
 **ControlEee** è una piccola applicazione che ho scritto utilizzando **Python/Qt4** e che
 permette di **abilitare/disabilitare** i dispositivi del **bluetooth**,

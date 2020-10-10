@@ -6,7 +6,7 @@ Tags: Linux, Skype, sviluppo
 Slug: nuove-versioni-di-skype-per-linux-qualcosa-si-muove
 Status: published
 
-[![]({static}/images/2008/05/skype_logo.jpg "Skype Logo")]({static}/images/2008/05/skype_logo.jpg)
+[![skype logo]({static}/images/2008/05/skype_logo.jpg)]({static}/images/2008/05/skype_logo.jpg)
 
 Gli utenti **Linux** che utilizzano **Skype** lo sanno: la versione
 disponibile per il pinguino non è mai stata aggiornata come quella per

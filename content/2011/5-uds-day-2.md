@@ -6,7 +6,7 @@ Tags: Budapest, summit, Ubuntu, UDS, UDS-O
 Slug: uds-day-2
 Status: published
 
-[![]({static}/images/2011/05/IMG_0323-300x200.jpg "IMG_0323")]()
+[![uds]({static}/images/2011/05/IMG_0323-300x200.jpg "IMG_0323")]()
 
 This day at UDS started a bit late for me, since i woke up pretty sick (damn
 air conditioned!!!). I did not follow any conferences in the morning. I

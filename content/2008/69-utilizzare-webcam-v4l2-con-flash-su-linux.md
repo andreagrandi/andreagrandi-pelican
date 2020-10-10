@@ -6,7 +6,7 @@ Tags: flash, V4L1, V4L2, webcam
 Slug: utilizzare-webcam-v4l2-con-flash-su-linux
 Status: published
 
-[![]({static}/images/2008/11/flash.png "flash")]()
+[![flash]({static}/images/2008/11/flash.png)]()
 
 ## Introduzione
 

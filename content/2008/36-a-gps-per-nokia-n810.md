@@ -6,7 +6,7 @@ Tags: a-gps, gps, maemo, nokia
 Slug: a-gps-per-nokia-n810
 Status: published
 
-[![]({static}/images/2008/06/agps1.jpg)]()
+[![agps]({static}/images/2008/06/agps1.jpg)]()
 
 Insieme alla [nuova versione del firmware](http://maemo.org/news/announcements/view/os2008_feature_upgrade-reflash_your_tablet-for_the_last_time.html)
 per Nokia N800/N810, Nokia ha rilasciato anche una utility che promette

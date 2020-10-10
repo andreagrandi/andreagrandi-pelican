@@ -6,7 +6,7 @@ Tags: n800, nokia, tablet
 Slug: lower-price-for-n800-in-italymaybe-n810-coming-closer
 Status: published
 
-[![]({static}/images/2008/08/n800.jpg "n800")]()
+[![n800]({static}/images/2008/08/n800.jpg)]()
 
 I was looking in the Italian Nokia official shop, and I noticed that the
 **N800** price was decreased to **259€** instead of **289€**

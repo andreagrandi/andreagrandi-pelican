@@ -6,7 +6,7 @@ Tags: drivers, graphic, Nouveau, nvidia, Pangolin, Ubuntu
 Slug: ubuntu-12-04-nvidia-8800-gs-and-nouveau-drivers
 Status: published
 
-[![]({static}/images/2012/04/logo_nvidia_linux.jpg "logo_nvidia_linux")]({static}/images/2012/04/logo_nvidia_linux.jpg)
+[![logo nvidia linux]({static}/images/2012/04/logo_nvidia_linux.jpg)]({static}/images/2012/04/logo_nvidia_linux.jpg)
 
 After upgrading my desktop PC to **Ubuntu 12.04** (actually my main
 machine) I started experimenting many **Xorg crashes** and instability

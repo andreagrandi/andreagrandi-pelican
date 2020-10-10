@@ -11,27 +11,27 @@ Nokia has published a demo application for **N900**, available in
 (Harmattan) user interface. Here there are some screenshots of the
 demo:  
 
-[![]({static}/images/2010/02/Screenshot-20100216-021420-300x180.png "Screenshot-20100216-021420")]({static}/images/2010/02/Screenshot-20100216-021420.png)
+[![screenshot main window]({static}/images/2010/02/Screenshot-20100216-021420-300x180.png)]({static}/images/2010/02/Screenshot-20100216-021420.png)
 
 Demo application main window
 
-[![]({static}/images/2010/02/Screenshot-20100216-021507-300x180.png "Screenshot-20100216-021507")]({static}/images/2010/02/Screenshot-20100216-021507.png)
+[![screenshot question dialog]({static}/images/2010/02/Screenshot-20100216-021507-300x180.png)]({static}/images/2010/02/Screenshot-20100216-021507.png)
 
 Question dialog
 
-[![]({static}/images/2010/02/Screenshot-20100216-021527-300x180.png "Screenshot-20100216-021527")]({static}/images/2010/02/Screenshot-20100216-021527.png)
+[![screenshot text entry]({static}/images/2010/02/Screenshot-20100216-021527-300x180.png)]({static}/images/2010/02/Screenshot-20100216-021527.png)
 
 Text entry dialog
 
-[![]({static}/images/2010/02/Screenshot-20100216-021540-300x180.png "Screenshot-20100216-021540")]({static}/images/2010/02/Screenshot-20100216-021540.png)
+[![screenshot progress indicator]({static}/images/2010/02/Screenshot-20100216-021540-300x180.png)]({static}/images/2010/02/Screenshot-20100216-021540.png)
 
 Progress indicator
 
-[![]({static}/images/2010/02/Screenshot-20100216-021551-300x180.png "Screenshot-20100216-021551")]({static}/images/2010/02/Screenshot-20100216-021551.png)
+[![screenshot information banner]({static}/images/2010/02/Screenshot-20100216-021551-300x180.png)]({static}/images/2010/02/Screenshot-20100216-021551.png)
 
 Information banner
 
-[![]({static}/images/2010/02/Screenshot-20100216-021559-300x180.png "Screenshot-20100216-021559")]({static}/images/2010/02/Screenshot-20100216-021559.png)
+[![screenshot event banner]({static}/images/2010/02/Screenshot-20100216-021559-300x180.png)]({static}/images/2010/02/Screenshot-20100216-021559.png)
 
 Event banner
 

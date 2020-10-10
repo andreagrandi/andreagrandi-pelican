@@ -6,7 +6,7 @@ Tags: code, Google, gsoc
 Slug: maemo-on-google-summer-of-code-2009
 Status: published
 
-[![]({static}/images/2009/02/soc08300x300_white.jpg "GSoC Logo")]()
+[![gsoc logo]({static}/images/2009/02/soc08300x300_white.jpg)]()
 
 This year the [**Maemo**](http://www.maemo.org) community will try to join the
 **[Google Summer of code](http://code.google.com/soc)** program again.

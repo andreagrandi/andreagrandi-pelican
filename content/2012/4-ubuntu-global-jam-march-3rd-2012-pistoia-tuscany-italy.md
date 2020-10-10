@@ -5,7 +5,7 @@ Category: Linux, Ubuntu (EN)
 Slug: ubuntu-global-jam-march-3rd-2012-pistoia-tuscany-italy
 Status: published
 
-![]({static}/images/2012/02/piazzaduomorid1.jpg "piazzaduomorid1")
+[![piazza duomo]({static}/images/2012/02/piazzaduomorid1.jpg "piazzaduomorid1")]()
 
 Even this time **[Pistoia Linux User Group](http://www.ptlug.org)**
 decided to join the international event **["Ubuntu Global

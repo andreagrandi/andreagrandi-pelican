@@ -6,7 +6,7 @@ Tags: IDE, Qt, Trolltech
 Slug: qt-creator-disponibile-la-preview-release-dellide-per-qtc-di-trolltech
 Status: published
 
-[![]({static}/images/2008/10/qtcreator.png "qtcreator")]()
+[![qt creator]({static}/images/2008/10/qtcreator.png)]()
 
 **Trolltech** ha appena rilasciato la preview release di **[Qt Creator](http://trolltech.com/developer/qt-creator/qt-creator)**. 
 Si tratta di un'**IDE** pensato appositamente per lo sviluppo di

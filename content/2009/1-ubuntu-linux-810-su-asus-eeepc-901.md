@@ -6,7 +6,7 @@ Tags: 901, asus, EeePC, Linux, Ubuntu (EN)
 Slug: ubuntu-linux-810-su-asus-eeepc-901
 Status: published
 
-[![]({static}/images/2008/10/eee-pc-901.jpg "eee-pc-901")]()
+[![eee pc 901]({static}/images/2008/10/eee-pc-901.jpg)]()
 
 Dal momento in cui ho acquistato l'**Asus EeePC 901**, ho rimosso la versione personalizzata
 di **Xandros Linux** che viene installata su questi modelli, ed ho

@@ -6,7 +6,7 @@ Tags: mustek, scanner
 Slug: scanner-mustek-scanexpress-1248-usb-su-ubuntu-linux
 Status: published
 
-[![]({static}/images/2008/12/se1248ub.jpg "se1248ub")](http://www.mustek.de/eng_/html/produkte/se1248ub.htm)
+[![scanner mustek]({static}/images/2008/12/se1248ub.jpg)](http://www.mustek.de/eng_/html/produkte/se1248ub.htm)
 
 Lo scanner [**Mustek ScanExpress 1248 USB**](http://www.mustek.de/eng_/html/produkte/se1248ub.htm) è
 pienamente compatibile con Linux, però purtroppo non basta connetterlo

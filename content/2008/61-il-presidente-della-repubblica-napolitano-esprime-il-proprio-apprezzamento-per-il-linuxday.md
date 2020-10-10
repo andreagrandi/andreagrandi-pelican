@@ -6,7 +6,7 @@ Tags: Linux, linuxday
 Slug: il-presidente-della-repubblica-napolitano-esprime-il-proprio-apprezzamento-per-il-linuxday
 Status: published
 
-[![]({static}/images/2008/10/linuxday_fullcolor_small.png "linuxday_fullcolor_small")]()
+[![linux day]({static}/images/2008/10/linuxday_fullcolor_small.png)]()
 
 Grazie ad un'iniziativa di **Davide Dozza** (Presidente dell'Associazione PLIO)
 e **Michele Dalla Silvestra** (Presidente di Italian Linux Society), il

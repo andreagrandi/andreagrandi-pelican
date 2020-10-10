@@ -25,7 +25,7 @@ it to a file, so during the next boot even if Ubuntu won't be able to
 detect the proper resolution for your monitor, it will simply apply the
 configuration found in **xorg.conf**
 
-[![]({static}/images/2012/02/nvidia-settings.png "nvidia-settings")]({static}/images/2012/02/nvidia-settings.png)
+[![nvidia settings]({static}/images/2012/02/nvidia-settings.png)]({static}/images/2012/02/nvidia-settings.png)
 
 Please remember to also set the refresh rate of the monitor (I was
 having a very bad resolution until I didn't choose 60 Hz in the settings

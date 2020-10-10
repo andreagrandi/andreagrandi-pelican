@@ -6,7 +6,7 @@ Tags: android, Google, n810, nokia, tablet
 Slug: android-su-nokia-n810
 Status: published
 
-[![]({static}/images/2008/02/android_robot.gif)]()
+[![android robot]({static}/images/2008/02/android_robot.gif)]()
 
 Il tanto atteso sistema operativo basato su Linux e Java, che Google sta sviluppando in
 questi mesi, è stato portato sul dispositivo **Nokia N810**.
@@ -53,6 +53,6 @@ di benvenuto.
 
 Di seguito alcune immagini del risultato finale:
 
-[![]({static}/images/2008/07/02072008561-300x225.jpg "android_n810_1")]()
+[![android n810 1]({static}/images/2008/07/02072008561-300x225.jpg "android_n810_1")]()
 
-[![]({static}/images/2008/07/02072008563-300x225.jpg "android_n810_2")]()
+[![android n810 2]({static}/images/2008/07/02072008563-300x225.jpg "android_n810_2")]()

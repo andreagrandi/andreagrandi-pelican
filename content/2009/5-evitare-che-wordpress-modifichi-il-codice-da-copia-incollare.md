@@ -6,7 +6,7 @@ Tags: WordPress
 Slug: evitare-che-wordpress-modifichi-il-codice-da-copia-incollare
 Status: published
 
-[![]({static}/images/2008/02/wordpress-logo.jpg "wordpress_logo")]()
+[![wordpress logo]({static}/images/2008/02/wordpress-logo.jpg)]()
 
 Il precedente post che ho fatto mi aveva fatto veramente disperare. Come potete leggere dai
 comandi, è necessario passare alcuni parametri utilizzando il doppio

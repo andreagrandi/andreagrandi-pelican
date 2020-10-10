@@ -8,7 +8,7 @@ Status: published
 
 ## Introduction
 
-[![]({static}/images/2010/02/fon-300x294.jpg "fon")]()
+[![fon]({static}/images/2010/02/fon-300x294.jpg)]()
 
 As many of you already know, **Fon** is a spanish company that some years ago had the
 interesting idea of creating a **wifi community** to share the Internet
