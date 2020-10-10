@@ -13,7 +13,7 @@ It's only a 0.1 version and even if it's quite stable it may contains
 some bugs: please report me any bug so I can try to fix them as soon as
 possible.
 
-[![]({static}/images/2011/09/CuteSoma_ss01-168x300.png "CuteSoma_ss01")]()
+[![cutesoma]({static}/images/2011/09/CuteSoma_ss01-168x300.png)]()
 
 CuteSoma is opensource and released under the GPL v.3 license. You can find the
 complete source code here: <https://github.com/andreagrandi/CuteSoma>

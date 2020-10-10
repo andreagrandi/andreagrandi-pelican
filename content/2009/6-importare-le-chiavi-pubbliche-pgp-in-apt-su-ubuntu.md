@@ -6,7 +6,7 @@ Tags: apt, pgp, Ubuntu (EN)
 Slug: importare-le-chiavi-pubbliche-pgp-in-apt-su-ubuntu
 Status: published
 
-![]({static}/images/2009/02/pg2logo.png "pg2logo")
+[![pgp logo]({static}/images/2009/02/pg2logo.png)]()
 
 Utilizzando i repository esterni su **Ubuntu**, capita spesso di non avere una
 procedura automatica per importare anche le relative **chiavi pubbliche

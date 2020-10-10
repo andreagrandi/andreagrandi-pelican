@@ -6,7 +6,7 @@ Tags: Google, maps
 Slug: creare-mappe-personalizzate-e-condivise-con-google-maps
 Status: published
 
-[![]({static}/images/2008/10/google_maps.png "google_maps")]()
+[![google maps]({static}/images/2008/10/google_maps.png)]()
 
 Il [servizio](http://maps.google.com) che Google offre per consultare le
 mappe di quasi tutto il mondo, non ha certo bisogno di presentazioni.

@@ -6,7 +6,7 @@ Tags: annotazioni, compilatore, Java, jdk
 Slug: utilizzare-la-annotazioni-standard-in-java
 Status: published
 
-[![]({static}/images/2008/07/java_logo.jpg)]()
+[![java logo]({static}/images/2008/07/java_logo.jpg)]()
 
 Premetto di non aver certo scoperto l'acqua calda, visto che si tratta di una feature di
 **Java 5**. Pochi giorni fa mi sono imbattuto in una funzionalità di

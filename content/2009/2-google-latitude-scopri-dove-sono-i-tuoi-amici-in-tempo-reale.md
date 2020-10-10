@@ -6,7 +6,7 @@ Tags: Google, gps, latitude, maps, position, sharing
 Slug: google-latitude-scopri-dove-sono-i-tuoi-amici-in-tempo-reale
 Status: published
 
-[![]({static}/images/2009/02/google_latitude.jpg "google_latitude")]({static}/images/2009/02/google_latitude.jpg)
+[![google latitude]({static}/images/2009/02/google_latitude.jpg)]({static}/images/2009/02/google_latitude.jpg)
 
 Google ha appena lanciato il servizio [**Latitude**](http://www.google.com/latitude) che si integra con la
 nuova versione di **Google Maps** per cellulari, la **3.0** che è appena

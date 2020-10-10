@@ -6,7 +6,7 @@ Tags: firmware, Linux, maemo, nokia, tablet
 Slug: os-2008-4200830-available-ota
 Status: published
 
-[![]({static}/images/2008/08/maemoupdate.jpg)]()
+[![maemo update]({static}/images/2008/08/maemoupdate.jpg)]()
 
 A new update for **Nokia Os 2008** is available for **Nokia N810** (and I suppose N800
 too).

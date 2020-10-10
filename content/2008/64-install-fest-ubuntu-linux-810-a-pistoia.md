@@ -6,7 +6,7 @@ Tags: fest, install, Ubuntu (EN)
 Slug: install-fest-ubuntu-linux-810-a-pistoia
 Status: published
 
-![]({static}/images/2008/10/ubuntu-logo.png "ubuntu-logo")
+[![ubuntu logo]({static}/images/2008/10/ubuntu-logo.png)]()
 
 Il **Pistoia Linux User Group** organizza un "**install fest**" **sabato 22 novembre** a
 partire dalle ore **15:00** fino alle ore **19:00**, presso la propria

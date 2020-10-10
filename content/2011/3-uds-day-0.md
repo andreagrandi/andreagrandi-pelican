@@ -6,7 +6,7 @@ Tags: Budapest, conference, summit, Ubuntu, UDS
 Slug: uds-day-0
 Status: published
 
-[![]({static}/images/2011/05/IMG_0254-300x200.jpg)]()
+[![uds]({static}/images/2011/05/IMG_0254-300x200.jpg)]()
 
 I left from **Firenze** with my friend **Marco Trevisan**, to go to
 **[Ubuntu Developer Summit](http://uds.ubuntu.com)** in **Budapest**. We

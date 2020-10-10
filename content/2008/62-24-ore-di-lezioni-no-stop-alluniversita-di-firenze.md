@@ -6,7 +6,7 @@ Tags: Unifi
 Slug: 24-ore-di-lezioni-no-stop-alluniversita-di-firenze
 Status: published
 
-[![]({static}/images/2008/10/screenshot-vlc-media-player.png "screenshot-vlc-media-player")]()
+[![vlc media player]({static}/images/2008/10/screenshot-vlc-media-player.png)]()
 
 Il **Collettivo di Matematica** degli **Studenti di Scienze**
 dell’[Università di Firenze](http://www.unifi.it) ha organizzato una

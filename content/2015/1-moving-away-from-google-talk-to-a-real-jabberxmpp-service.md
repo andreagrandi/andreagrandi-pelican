@@ -34,7 +34,7 @@ an account with
 [DukGo](https://duck.co/blog/using-pidgin-with-xmpp-jabber) service, you
 can configure it in this way:
 
-[![]({static}/images/2015/02/2_addaccount.png){ width=60% }]({static}/images/2015/02/2_addaccount.png)
+[![add account]({static}/images/2015/02/2_addaccount.png)]({static}/images/2015/02/2_addaccount.png)
 
 ## Using an hosted Jabber/XMPP service with your domain
 

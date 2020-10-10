@@ -17,7 +17,7 @@ full development, but you can already taste it if you have
 only supports basic radio features: tuning user's radio, playing a song,
 skipping a song and displaying song informations.
 
-[![]({static}/images/2010/07/Screenshot-20100716-222755.png "LastGo")]({static}/images/2010/07/Screenshot-20100716-222755.png)
+[![lastgo]({static}/images/2010/07/Screenshot-20100716-222755.png)]({static}/images/2010/07/Screenshot-20100716-222755.png)
 
 Other basic Last.fm features like scrobbling, marking a song as loved or
 banned ecc.. are not supported yet, but of course they're planned for

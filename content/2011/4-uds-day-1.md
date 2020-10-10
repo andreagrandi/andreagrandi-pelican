@@ -6,7 +6,7 @@ Tags: Budapest, Canonical, conference, Ubuntu, UDS
 Slug: uds-day-1
 Status: published
 
-[![]({static}/images/2011/05/IMG_0286-300x200.jpg)]()
+[![uds]({static}/images/2011/05/IMG_0286-300x200.jpg)]()
 
 My day started at 7:30 with a **very nice breakfast!** I was alone with
 just another guy this morning, in a very big breakbast room.

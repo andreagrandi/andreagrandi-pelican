@@ -6,7 +6,7 @@ Tags: aggiornamento, blog, WordPress
 Slug: aggiornamento-del-sito-a-wordpress-251
 Status: published
 
-[![]({static}/images/2008/02/wordpress-logo.jpg "wordpress_logo")]()
+[![wordpress_logo]({static}/images/2008/02/wordpress-logo.jpg)]()
 
 Il sito web è stato aggiornato alla versione **2.5.1** di
 [WordPress](http://www.wordpress.org).

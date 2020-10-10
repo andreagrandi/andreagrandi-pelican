@@ -6,7 +6,7 @@ Tags: bug, e1000e, kernel
 Slug: un-bug-del-kernel-linux-2627-potrebbe-danneggiare-le-schede-ethernet-con-driver-e1000e
 Status: published
 
-[![]({static}/images/2008/09/ethernet.jpg "ethernet")]()
+[![ethernet]({static}/images/2008/09/ethernet.jpg)]()
 
 Secondo quanto [riportato sulla mailing list](https://lists.ubuntu.com/archives/ubuntu-devel-announce/2008-September/000488.html)
 di sviluppo di Ubuntu, un **bug** presente nella versione **2.6.27** del

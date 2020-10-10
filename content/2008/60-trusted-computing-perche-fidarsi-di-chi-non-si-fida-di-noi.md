@@ -6,7 +6,7 @@ Tags: apple, Google, gphone, iphone, privacy, Sicurezza, trusted computing
 Slug: trusted-computing-perche-fidarsi-di-chi-non-si-fida-di-noi
 Status: published
 
-![]({static}/images/2008/10/trusted.jpg "trusted")
+[![trusted]({static}/images/2008/10/trusted.jpg)]()
 
 E' [notizia di questi giorni](http://punto-informatico.it/2442404/Telefonia/News/google-cancella-remoto-applicativi-android.aspx)
 il fatto che Google abbia previsto un meccanismo di "sicurezza" che

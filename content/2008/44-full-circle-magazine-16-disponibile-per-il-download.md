@@ -6,7 +6,7 @@ Tags: full circle magazine, Linux, magazine, rivista, Ubuntu (EN)
 Slug: full-circle-magazine-16-disponibile-per-il-download
 Status: published
 
-[![](http://fullcirclemagazine.org/wp-content/uploads/2008/08/issue16_en.png)]()
+[![full circle magazine 16](http://fullcirclemagazine.org/wp-content/uploads/2008/08/issue16_en.png)]()
 
 E' uscito il numero **16** di [**Full Circle Magazine**](http://fullcirclemagazine.org/), la rivista gratuita
 dedicata ad **Ubuntu Linux**.

@@ -6,7 +6,7 @@ Tags: Budapest, Developer, Linux, summit, Ubuntu, UDS, UDS-O
 Slug: uds-day-3
 Status: published
 
-[![]({static}/images/2011/05/IMG_0260-300x200.jpg)]()
+[![uds]({static}/images/2011/05/IMG_0260-300x200.jpg)]()
 
 Even this morning I didn't wake up early because I still felt sick (I already
 know this sore throath won't abandon me untile I go back home).

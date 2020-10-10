@@ -6,7 +6,7 @@ Tags: app store, apple, iphone, nda
 Slug: apple-vieta-agli-sviluppatori-di-lamentarsi-pubblicamente-per-app-store
 Status: published
 
-[![]({static}/images/2008/09/iphoneappstore.jpg "iphoneappstore")]()
+[![iphone app store]({static}/images/2008/09/iphoneappstore.jpg)]()
 
 Siete **sviluppatori** di applicazioni per iPhone e la Apple ha appena rifiutato di includere
 la vostra applicazione all'interno del proprio **App Store**? Da oggi

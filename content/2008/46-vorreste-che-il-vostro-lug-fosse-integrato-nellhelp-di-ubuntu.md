@@ -6,7 +6,7 @@ Tags: brainstorm, idea, Ubuntu (EN)
 Slug: vorreste-che-il-vostro-lug-fosse-integrato-nellhelp-di-ubuntu
 Status: published
 
-[![]({static}/images/2008/09/ubuntu_brainstorm.jpg "ubuntu_brainstorm")]()
+[![ubuntu brainstorm]({static}/images/2008/09/ubuntu_brainstorm.jpg)]()
 
 Per coloro che utilizzano **Linux**, spiegare cosa si un **LUG** mi pare una cosa quasi
 superflua, in ogni caso vi rimando all'apposita [pagina di
@@ -35,4 +35,4 @@ Le **idee piu' votate** verranno prese in considerazione dal team di
 sviluppo di Ubuntu e probabilmente implementate ed inserite nella
 prossima versione.
 
-[![](http://brainstorm.ubuntu.com/idea/12932/image/1/)](http://brainstorm.ubuntu.com/idea/12932/)
+[![brainstorm](http://brainstorm.ubuntu.com/idea/12932/image/1/)](http://brainstorm.ubuntu.com/idea/12932/)

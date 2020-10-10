@@ -6,7 +6,7 @@ Tags: ubuntu oneiric ocelot
 Slug: ubuntu-oneiric-11-10-problems-and-regressions
 Status: published
 
-[![]({static}/images/2011/10/software-bug-300x199.jpg "software-bug-300x199")]()
+[![software bug]({static}/images/2011/10/software-bug-300x199.jpg)]()
 
 Tomorrow **Ubuntu 11.10** (Oneiric Ocelot) will be released officially
 and I decided to test the RC (release candidate) version on my desktop

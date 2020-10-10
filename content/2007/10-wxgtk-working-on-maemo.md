@@ -35,7 +35,7 @@ then I ran it in the usual way:
 
 The result? I think that a screenshoot is better than thousand words :)
 
-[![](http://bp0.blogger.com/_eBt7-uNFVjs/R2QhZl8EwLI/AAAAAAAAAJ0/rdNTRYsp_n8/s400/wxWindowsHildon.jpg)](http://bp0.blogger.com/_eBt7-uNFVjs/R2QhZl8EwLI/AAAAAAAAAJ0/rdNTRYsp_n8/s1600-h/wxWindowsHildon.jpg)
+[![wxWindowsHildon](http://bp0.blogger.com/_eBt7-uNFVjs/R2QhZl8EwLI/AAAAAAAAAJ0/rdNTRYsp_n8/s400/wxWindowsHildon.jpg)](http://bp0.blogger.com/_eBt7-uNFVjs/R2QhZl8EwLI/AAAAAAAAAJ0/rdNTRYsp_n8/s1600-h/wxWindowsHildon.jpg)
 
 **Note:** I tested this inside Scratchbox,
 using **CHINOOK_x86** target, so I think it will work fine on Os2008. This could be a good thing to help other

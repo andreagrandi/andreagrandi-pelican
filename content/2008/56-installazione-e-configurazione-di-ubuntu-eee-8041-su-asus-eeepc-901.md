@@ -6,7 +6,7 @@ Tags: asus, EeePC, ubuntu-eee
 Slug: installazione-e-configurazione-di-ubuntu-eee-8041-su-asus-eeepc-901
 Status: published
 
-[![]({static}/images/2008/10/asus_ubuntueee.jpg "asus_ubuntueee")]()
+[![asus ubuntu eee]({static}/images/2008/10/asus_ubuntueee.jpg)]()
 
 La versione di Linux che viene installata sugli EeePC (**Xandros** Linux) da Asus, sebbene
 sia l'ideale per chi non ha mai utilizzato Linux e desidera un netbook

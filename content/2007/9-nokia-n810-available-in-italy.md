@@ -6,7 +6,7 @@ Tags: n810, nokia, tablet
 Slug: nokia-n810-available-in-italy
 Status: published
 
-[![]({static}/images/2008/08/n810_01_low.jpg "n810_01_low")]()
+[![n810]({static}/images/2008/08/n810_01_low.jpg)]()
 
 For the joy of all italian people, the internet tablet Nokia N810 is available in the
 italian Nokia shop.

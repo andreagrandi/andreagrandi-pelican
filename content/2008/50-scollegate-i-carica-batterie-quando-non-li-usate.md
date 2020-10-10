@@ -6,7 +6,7 @@ Tags: batterie, carica, nokia
 Slug: scollegate-i-carica-batterie-quando-non-li-usate
 Status: published
 
-[![]({static}/images/2008/09/nokia_charger.jpg "nokia_charger")]()
+[![nokia charger]({static}/images/2008/09/nokia_charger.jpg)]()
 
 Secondo quanto dichiarato da **Nokia** (che negli ultimi device usciti
 addirittura visualizza un messaggio di avviso sul display quando il

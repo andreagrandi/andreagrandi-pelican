@@ -6,7 +6,7 @@ Tags: eventi, Linux, linuxday
 Slug: linuxday-2008-a-pistoia
 Status: published
 
-[![]({static}/images/2008/10/linuxday_fullcolor_small.png "linuxday_fullcolor_small")]()
+[![linux day]({static}/images/2008/10/linuxday_fullcolor_small.png)]()
 
 Per l'ottavo anno consecutivo il [**Pistoia Linux User Group**](http://www.ptlug.org), di
 cui faccio parte, organizza l'edizione di **Pistoia** del

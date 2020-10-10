@@ -6,7 +6,7 @@ Tags: browser, fennec, maemo, mozilla, tablet
 Slug: mozilla-fennec-on-nokia-n800810
 Status: published
 
-[![]({static}/images/2008/08/fennec_n810.png "fennec_n810")]()
+[![fennec n810]({static}/images/2008/08/fennec_n810.png)]()
 
 [**Fennec**](https://wiki.mozilla.org/Mobile/Fennec/Releases)
 is a particular version of Mozilla, designed for handled devices and

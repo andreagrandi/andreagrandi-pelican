@@ -39,7 +39,7 @@ normally there are at least 3-4 , mafw-dbus-wrapper processes and I
 didn't check which one was causing the problem. Anyway I made a
 screenshot, just in case it can help.
 
-[![]({static}/images/2010/02/Screenshot-20100217-034958-300x180.png "Screenshot-20100217-034958")]({static}/images/2010/02/Screenshot-20100217-034958.png)
+[![mafw dbus]({static}/images/2010/02/Screenshot-20100217-034958-300x180.png)]({static}/images/2010/02/Screenshot-20100217-034958.png)
 
 I hope this short report can be useful to help Maemo team to fix or at
 least investigate what happened. Just leave a comment or contact me if

@@ -5,7 +5,7 @@ Category: Ubuntu (EN)
 Slug: some-ideas-to-improve-community-collaboration-for-ubuntu-developer-summit
 Status: published
 
-[![]({static}/images/2011/04/Ubuntu-Developer-Summit-300x229.png "Ubuntu Developer Summit")]({static}/images/2011/04/Ubuntu-Developer-Summit.png)
+[![ubuntu developer summit]({static}/images/2011/04/Ubuntu-Developer-Summit-300x229.png)]({static}/images/2011/04/Ubuntu-Developer-Summit.png)
 
 A few days ago I received an email from **Jorge O. Castro** of the Ubuntu
 Community, announcing me that my request of sponsorization for **[Ubuntu

@@ -12,7 +12,7 @@ connect to services like **Facebook** and **Twitter**. Recently I had
 the opportunity to work on this library improving it and adding support
 for **Instagram** (work is still in progress but it's almost finished).
 
-[![]({static}/images/2012/08/SocialConnect.png "SocialConnect")]({static}/images/2012/08/SocialConnect.png)
+[![social connect]({static}/images/2012/08/SocialConnect.png)]({static}/images/2012/08/SocialConnect.png)
 
 The **main features** of this library are:
 
