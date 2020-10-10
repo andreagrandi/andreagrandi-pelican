@@ -19,7 +19,7 @@ il proprio appoggio all'iniziativa ed ha inviato un cordiale saluto a
 tutti quelli che parteciperanno al LinuxDay 2008 in tutta Italia.
 
 Di seguito un estratto della lettera, di cui potete trovare la scansione
-a [questo indirizzo](http://www.andreagrandi.it/wp-content/uploads/2008/10/lettera_napolitano_noindirizzi.jpg).
+a [questo indirizzo]({static}/images/2008/10/lettera_napolitano_noindirizzi.jpg).
 
 > *Il Presidente Napolitano esprime apprezzamento per l'iniziativa che,
 > nel diffondere l'iniziativa del software libero, concorre a far

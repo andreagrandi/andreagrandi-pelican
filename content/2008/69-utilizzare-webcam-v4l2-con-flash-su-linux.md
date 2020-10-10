@@ -51,8 +51,7 @@ l'output della webcam V4L2**.
 
 Il [codice originale](http://code.google.com/p/gstfakevideo/) purtroppo
 aveva bisogno di alcuni aggiustamenti, mi sono permesso quindi di
-modificarlo e di applicarli. Potete trovare la nuova versione a questo
-indirizzo: <http://www.andreagrandi.it/download/gstfakevideo/gstfakevideo.tar.gz>
+modificarlo e di applicarli.
 
 La compilazione non dovrebbe comportare particolari problemi: è
 sufficiente eseguire **make** all'interno della cartella dei sorgenti.

@@ -6,7 +6,7 @@ Tags: Censura, conversazioni, instant messaging, libertà, microsoft, msn
 Slug: msn-e-la-censura-delle-conversazioni
 Status: published
 
-[![Censurato](http://www.andreagrandi.it/wp-content/uploads/2008/05/censura.thumbnail.jpg)]()
+[![Censurato]({static}/images/2008/05/censura.thumbnail.jpg)]()
 
 Lo sapevate che **i server di MSN censurano le vostre conversazioni**,
 filtrando i messaggi che, secondo loro, sono ritenuti "potenzialmente
