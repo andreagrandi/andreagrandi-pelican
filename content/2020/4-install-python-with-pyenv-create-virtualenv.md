@@ -1,11 +1,11 @@
-Title: Install Python with pyenv and create a virtual environment with a specific Python version
+Title: Using pyenv to install Python and create a virtual environment
 Date: 2020-10-10 19:00
 Author: Andrea Grandi
 Category: Development
-Tags: python, development, pyenv, virtualenv, mkvirtualenv, environment, python39
+Tags: python, development, pyenv, virtualenv, mkvirtualenv, environment, python39, programming, python3, pip, macos, install, version
 Slug: install-python-with-pyenv-create-virtual-environment-with-specific-python-version
 Status: published
-Summary: How to install a specific Python version using pyenv and create a virtual environment using the version just installed
+Summary: How to use pyenv to install a specific version of Python and create a virtual environment with that version
 
 A few days ago [Python 3.9.0](https://docs.python.org/3/whatsnew/3.9.html) has been released and I really wanted to test ist latest features (maybe I will do a 
 separate post to talk about them) without messing my system with another Python version.
