@@ -85,3 +85,4 @@ CC_LICENSE = {
     "version": "4.0",
     "slug": "by-sa",
 }
+DISABLE_URL_HASH = True
