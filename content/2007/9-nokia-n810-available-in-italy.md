@@ -6,9 +6,9 @@ Tags: n810, nokia, tablet
 Slug: nokia-n810-available-in-italy
 Status: published
 
-![](http://www.andreagrandi.it/wp-content/uploads/2008/08/n810_01_low.jpg "n810_01_low"){.alignright
-.size-full .wp-image-96 width="250" height="156"}For the joy of all
-italian people, the internet tablet Nokia N810 is available in the
+[![]({static}/images/2008/08/n810_01_low.jpg "n810_01_low")]()
+
+For the joy of all italian people, the internet tablet Nokia N810 is available in the
 italian Nokia shop.
 
 You can find it here. The price is **459 €**.
