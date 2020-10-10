@@ -13,5 +13,4 @@ Il sito web è stato aggiornato alla versione **2.5.1** di
 
 Dovrei aver seguito correttamente le istruzioni su [questa pagina](http://codex.wordpress.org/Upgrading_WordPress_Extended), però
 ho avuto pochissimo tempo per testare se tutto funziona correttamete
-come prima. Qualora ci fossero problemi o malfunzionamenti, siete
-pregati di segnalarmeli tramite l'[apposito modulo](http://www.andreagrandi.it/contact-me/).
+come prima.
