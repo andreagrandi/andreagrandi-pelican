@@ -2,7 +2,7 @@ Title: Using pyenv to install Python and create a virtual environment
 Date: 2020-10-10 19:00
 Author: Andrea Grandi
 Category: Development
-Tags: python, development, pyenv, virtualenv, mkvirtualenv, environment, python39, programming, python3, pip, macos, install, version
+Tags: python, development, pyenv, virtualenv, mkvirtualenv, environment, python39, programming, pip, macos, install, version
 Slug: install-python-with-pyenv-create-virtual-environment-with-specific-python-version
 Status: published
 Summary: How to use pyenv to install a specific version of Python and create a virtual environment with that version
