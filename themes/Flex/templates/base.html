@@ -127,6 +127,10 @@
   {% if GOOGLE_TAG_MANAGER %}
   {% include "partial/gtm.html" %}
   {% endif %}
+
+  {% if article %}
+  <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}" />
+  {% endif%}
 </head>
 
 <body {% if not THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE %}class="{{ THEME_COLOR|default('light') }}-theme"
