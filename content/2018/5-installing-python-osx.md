@@ -1,18 +1,19 @@
-Title: Installing Python and virtualenv on OSX
+Title: Installing Python and virtualenv on MacOS
 Date: 2018-12-19 15:00
 Author: Andrea Grandi
 Category: Python
-Tags: python, osx, programming, software, development
+Tags: python, osx, programming, software, development, macos, virtualenv, venv, version, installing, installation, brew, mkvirtualenv, virtualenvwrapper
 Slug: installing-python-and-virtualenv-on-osx
 Status: published
+Summary: How to install Python and virtualenv on MacOS
 
-Every time I need to install Python on OSX or whenever a colleague asks for help, I have to search fo the most updated instructions on Google, and every time I find different ways of doing the exact same thing.
+Every time I need to install Python on MacOS or whenever a colleague asks for help, I have to search fo the most updated instructions on Google, and every time I find different ways of doing the exact same thing.
 
-Tired of this, I decided to write down my own notes. Please note that I don't claim this to be the best way of installing Python on OSX. It works fine for me so use it at your own risk.
+Tired of this, I decided to write down my own notes. Please note that I don't claim this to be the best way of installing Python on MacOS. It works fine for me so use it at your own risk.
 
 ## Requirements
 
-To follow these instructions you need to at least have installed **brew** on OSX. Please follow the instructions on the official website: [https://brew.sh](https://brew.sh)
+To follow these instructions you need to at least have installed **brew** on MacOS. Please follow the instructions on the official website: [https://brew.sh](https://brew.sh)
 
 ## Installing Python 3.7.x and Python 2.7.x
 
@@ -115,4 +116,4 @@ which should output this:
 
 ## Conclusion
 
-That's all you have to do to install and configure Python and virtualenv on OSX. If you have problems, comments or questions, feel free to leave a comment on this post.
+That's all you have to do to install and configure Python and virtualenv on MacOS. If you have problems, comments or questions, feel free to leave a comment on this post.
