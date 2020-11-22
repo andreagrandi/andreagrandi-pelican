@@ -1,0 +1,12 @@
+tasks:
+  - init: >
+      pip install -r ./requirements.txt && 
+      pip install -r ./requirements-dev.txt &&
+      pelican content
+    command: export SITEURL=`gp url 8000`
+  - openMode: split-right
+    command: pelican --listen
+
+ports:
+  - port: 8000
+    onOpen: open-browser

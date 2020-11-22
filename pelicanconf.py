@@ -2,11 +2,12 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 from datetime import datetime
+import os
 
 
 AUTHOR = u'Andrea Grandi'
 SITENAME = u'Andrea Grandi'
-SITEURL = 'http://localhost:8000'
+SITEURL = os.environ.get('SITEURL', 'http://localhost:8000')
 
 PATH = 'content'
 
