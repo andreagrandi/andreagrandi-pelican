@@ -5,7 +5,7 @@ Category: Development
 Tags: arduino, secrets, secret, security, password, passwords, storage, howto, safe, hide, secure
 Slug: how-to-safely-store-arduino-secrets
 Status: published
-Summary: Best practices to store Arduno secrets safely
+Summary: Best practices to store Arduino secrets safely
 
 You just got a new Arduino board (maybe a wifi enabled one), you wrote a useful application and you are about to share it on GitHub.
 
