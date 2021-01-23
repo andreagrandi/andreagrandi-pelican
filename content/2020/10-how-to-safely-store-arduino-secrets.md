@@ -49,8 +49,8 @@ Moving secrets to `arduino_secrets.h` would be pointless if we pushed this file 
 If you simply hide the original `arduino_secrets.h`, other users who would like to reuse your code may not know what to put inside. Create an example file named `arduino_secrets.h.example` with dummy values:
 
     :::arduino
-    #define SECRET_SSID = "foo"
-    #define SECRET_PASS = "foo"
+    #define SECRET_SSID "foo"
+    #define SECRET_PASS "foo"
 
 and document that this needs to be renamed to `arduino_secrets.h`
 
