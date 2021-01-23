@@ -25,8 +25,8 @@ do **not** share it! You would leak your ESSID, password and maybe othere secret
 Create a separate file named `arduino_secrets.h`:
 
     :::arduino
-    #define SECRET_SSID = "myessid"
-    #define SECRET_PASS = "mypassword"
+    #define SECRET_SSID "myessid"
+    #define SECRET_PASS "mypassword"
 
 and change the main file in this way:
 
