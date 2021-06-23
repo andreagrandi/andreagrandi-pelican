@@ -3,5 +3,5 @@ pelican==4.5.0
 beautifulsoup4==4.6.0
 ipython==7.23.0
 jupyter==1.0.0
-nbconvert==5.4.1
+nbconvert==6.1.0
 pelican-jupyter==0.10.0
