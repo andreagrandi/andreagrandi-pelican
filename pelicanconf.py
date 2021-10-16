@@ -87,3 +87,4 @@ CC_LICENSE = {
     "slug": "by-sa",
 }
 DISABLE_URL_HASH = True
+IPYNB_SKIP_CSS = True
