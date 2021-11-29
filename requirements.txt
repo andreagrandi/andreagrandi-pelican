@@ -1,7 +1,7 @@
 Markdown==3.3.4
 pelican==4.7.1
 beautifulsoup4==4.10.0
-ipython==7.28.0
+ipython==7.30.0
 jupyter==1.0.0
 nbconvert==5.4.1
 pelican-jupyter==0.10.1
