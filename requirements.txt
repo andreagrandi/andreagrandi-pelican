@@ -5,4 +5,4 @@ ipython==8.0.1
 jupyter==1.0.0
 nbconvert==7.2.3
 pelican-jupyter==0.10.1
-mistune=2.0.4
+mistune==2.0.4
