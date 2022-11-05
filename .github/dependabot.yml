@@ -7,14 +7,5 @@ updates:
     time: "04:00"
   open-pull-requests-limit: 10
   ignore:
-  - dependency-name: ipython
-    versions:
-    - 7.19.0
-    - 7.20.0
-    - 7.21.0
-  - dependency-name: pelican
-    versions:
-    - 4.5.4
-  - dependency-name: markdown
-    versions:
-    - 3.3.3
+    - dependency-name: nbconvert
+      versions: [">=6.0"]
