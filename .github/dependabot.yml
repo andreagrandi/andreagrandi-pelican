@@ -9,3 +9,5 @@ updates:
   ignore:
     - dependency-name: nbconvert
       versions: [">=6.0"]
+    - dependency-name: mistune
+      versions: [">=1.0"]
