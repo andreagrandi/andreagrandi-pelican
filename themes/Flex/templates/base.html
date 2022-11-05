@@ -129,6 +129,8 @@
   {% if article %}
   <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}" />
   {% endif%}
+
+  <link rel="me" href="https://mastodon.social/@andreagrandi" />
 </head>
 
 <body {% if not THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE %}class="{{ THEME_COLOR|default('light') }}-theme"
