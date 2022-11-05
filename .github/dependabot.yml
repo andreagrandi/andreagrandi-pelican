@@ -11,3 +11,5 @@ updates:
       versions: [">=6.0"]
     - dependency-name: mistune
       versions: [">=1.0"]
+    - dependency-name: jinja
+      versions: [">3.0.3"]
