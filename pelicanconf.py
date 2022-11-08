@@ -31,6 +31,7 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (
     ('twitter', 'https://twitter.com/andreagrandi'),
+    ('mastodon', 'https://mastodon.social/@andreagrandi'),
     ('github', 'https://github.com/andreagrandi'),
     ('linkedin', 'https://www.linkedin.com/in/andreagrandi/'),
 )
