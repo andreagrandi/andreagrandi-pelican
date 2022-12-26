@@ -131,6 +131,7 @@
   {% endif%}
 
   <link rel="me" href="https://mastodon.social/@andreagrandi" />
+  <script src="https://widgets.tree-nation.com/js/widgets.min.js?v=1.1"></script>
 </head>
 
 <body {% if not THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE %}class="{{ THEME_COLOR|default('light') }}-theme"
@@ -217,6 +218,9 @@
       (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
     {% endif %}
+
+    <div id="tree-nation-tree-counter"></div>
+    <script>TreeNationTreeCounter({lang: 'en', id: 544480, slug: 'andrea-grandi'}).render('#tree-nation-tree-counter');</script>
 
     <a href="https://tree-nation.com/profile/impact/andrea-grandi#co2" target="_blank" style="position:relative;cursor:pointer;display:block;z-index:999;">
     <img src="https://tree-nation.com/images/tracking/label-co2-website-white-en.png" style="width:157px;height:auto;">
