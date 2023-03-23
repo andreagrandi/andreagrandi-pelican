@@ -1,4 +1,4 @@
-Markdown==3.4.1
+Markdown==3.4.2
 pelican==4.8.0
 beautifulsoup4==4.11.1
 ipython==8.8.0
