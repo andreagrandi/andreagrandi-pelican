@@ -20,4 +20,3 @@ DELETE_OUTPUT_DIRECTORY = True
 DISQUS_SITENAME = 'andrea-grandi-it'
 TAG_FEED_RSS = 'feeds/{slug}.rss.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
-GOOGLE_ANALYTICS = 'UA-2140684-3'
