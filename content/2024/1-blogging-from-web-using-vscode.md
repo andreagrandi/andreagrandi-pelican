@@ -7,4 +7,5 @@ Slug: blogging-from-web-using-vscode
 Status: draft
 Summary: How to write a blog post for a static generated blog (Pelican) using VSCode.
 
-This is just a dtaft
+This is just a draft
+
