@@ -14,3 +14,7 @@ This setup, believe me or not, is cool. I’ve all my blog posts written in Mark
 So, what’s the problem? Well, as you can imagine, to do all of this, you need a GitHub client, a MarkDown editor and you need to be able to commit, push and do pull requests.
 
 Is this  possible from an iPad? I believed it wasn’t (since the official GitHub client is very limited on what you can do, and online IDEs like VsCode.dev requires an internet connection, and I would like to be able to write also when I’m offline), but thanks to a [blog post](https://www.marcogomiero.com/posts/2021/running-blog-ipad/), I recently found out it’s possible!
+
+## Working Copy: git client for iOS
+
+The most important part of my workflow would not be possible without this amazing git client.
