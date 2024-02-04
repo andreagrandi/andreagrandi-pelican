@@ -4,7 +4,7 @@ Author: Andrea Grandi
 Category: Writing
 Tags: development, tutorial, howto, writing, iOS, shortcuts, MWeb, git
 Slug: blogging-from-an-ipad
-Status: draft
+Status: published
 Summary: In this post I share my findings and my current setup which allows me to write and publish blog posts from my iPad, for my static generated blog, powered by Pelican and GitHub Pages.
 
 A few years ago, I [migrated](https://www.andreagrandi.it/2017/07/02/migrating-from-wordpress-to-static-generated-website/) from my Wordpress based blog (which I self hosted… yeah… I know… no comment!) to a static generated (using [Pelican](https://getpelican.com/)) one which is hosted (for free!) on GitHub Pages.
