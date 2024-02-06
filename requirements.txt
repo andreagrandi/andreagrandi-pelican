@@ -1,5 +1,6 @@
 Markdown==3.5.2
 pelican==4.9.1
+pelican-seo==1.2.2
 beautifulsoup4==4.12.3
 ipython==8.21.0
 mistune==0.8.4
