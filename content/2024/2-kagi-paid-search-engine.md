@@ -6,7 +6,7 @@ Tags: kagi, search, engine, paid, google, ads, tracking, privacy
 Slug: kagi-paid-search-engine
 Status: published
 Summary: Kagi is a paid search engine which gives you search results you are actually looking for. It doesn’t track you and doesn’t have any ads.
-Image: /images/2024/02/kagi-landing-page.jpeg
+Cover: images/2024/02/kagi-landing-page.jpeg
 
 It’s a not a [news](https://mashable.com/article/google-search-low-quality-research) anymore that Google, the search engine which once was the best available, doesn’t work anymore for a lot of users.
 
