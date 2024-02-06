@@ -1,2 +1,2 @@
 lxml==4.9.2
-feedparser==6.0.10
+feedparser==6.0.11
