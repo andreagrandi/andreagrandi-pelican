@@ -60,7 +60,10 @@ EXTRA_PATH_METADATA = {
 THEME = 'themes/Flex'
 PLUGIN_PATHS = ['plugins']
 
-PLUGINS = ['tipue_search']
+PLUGINS = [
+    'tipue_search',
+    'seo',
+]
 IGNORE_FILES = [".ipynb_checkpoints"]
 
 DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'search']
@@ -88,3 +91,8 @@ CC_LICENSE = {
 }
 DISABLE_URL_HASH = True
 IPYNB_SKIP_CSS = True
+
+# SEO
+SEO_REPORT = False  # SEO report is enabled by default
+SEO_ENHANCER = True  # SEO enhancer is disabled by default
+SEO_ENHANCER_OPEN_GRAPH = True # Subfeature of SEO enhancer
