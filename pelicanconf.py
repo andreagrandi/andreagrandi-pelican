@@ -48,19 +48,19 @@ PAGE_SAVE_AS = '{slug}/index.html'
 DISPLAY_CATEGORIES_ON_MENU = False
 STATIC_PATHS = [
     'images', 'extra/CNAME', 'extra/favicon.ico', 'extra/keybase.txt',
-    'extra/2240402E.asc']
+    'extra/2240402E.asc', 'extra/robots.txt']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/keybase.txt': {'path': 'keybase.txt'},
     'extra/2240402E.asc': {'path': '2240402E.asc'},
+    'extra/robots.txt': {'path': 'robots.txt'},
 }
 
 THEME = 'themes/Flex'
 PLUGIN_PATHS = ['plugins']
 
-from pelican_jupyter import markup as nb_markup
-PLUGINS = ['tipue_search', nb_markup]
+PLUGINS = ['tipue_search']
 IGNORE_FILES = [".ipynb_checkpoints"]
 
 DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'search']
