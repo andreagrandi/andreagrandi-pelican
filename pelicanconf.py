@@ -63,6 +63,7 @@ PLUGIN_PATHS = ['plugins']
 PLUGINS = [
     'tipue_search',
     'seo',
+    'featured_image',
 ]
 IGNORE_FILES = [".ipynb_checkpoints"]
 
