@@ -60,7 +60,6 @@ EXTRA_PATH_METADATA = {
 THEME = 'themes/Flex'
 PLUGIN_PATHS = ['plugins']
 
-# from pelican_jupyter import markup as nb_markup
 PLUGINS = ['tipue_search']
 IGNORE_FILES = [".ipynb_checkpoints"]
 
