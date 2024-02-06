@@ -21,15 +21,12 @@ jobs:
       - run:
           name: install dependencies
           command: |
-            # python3 -m venv venv
-            # . venv/bin/activate
             pip install --upgrade pip
             pip install -r requirements.txt
 
       - run:
           name: build static pages with Pelican
           command: |
-            # . venv/bin/activate
             pelican content -o output -s publishconf.py
 
       - save_cache:
@@ -52,9 +49,6 @@ jobs:
               git config --global user.name "CircleCI"
               #using token clone gh-pages branch
               git clone --quiet --branch=$CIRCLE_BRANCH https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
-              # Installing rsync
-              # echo "Installing rsync"
-              # sudo apt-get -y install rsync
               #go into directory and copy data we're interested in to that directory
               cd built_website
               echo "rsync built code with checked out code..."
