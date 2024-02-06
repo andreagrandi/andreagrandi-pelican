@@ -7,7 +7,7 @@ import os
 
 AUTHOR = u'Andrea Grandi'
 SITENAME = u'Andrea Grandi'
-SITEURL = os.environ.get('SITEURL', 'http://localhost:8000')
+SITEURL = os.environ.get('SITEURL', 'http://localhost:5555')
 
 PATH = 'content'
 
