@@ -20,3 +20,8 @@ DELETE_OUTPUT_DIRECTORY = True
 DISQUS_SITENAME = 'andrea-grandi-it'
 TAG_FEED_RSS = 'feeds/{slug}.rss.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
+
+# SEO
+SEO_REPORT = False  # SEO report is enabled by default
+SEO_ENHANCER = True  # SEO enhancer is disabled by default
+SEO_ENHANCER_OPEN_GRAPH = True # Subfeature of SEO enhancer
