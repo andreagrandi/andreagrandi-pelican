@@ -7,9 +7,5 @@ updates:
     time: "04:00"
   open-pull-requests-limit: 10
   ignore:
-    - dependency-name: nbconvert
-      versions: [">=6.0"]
     - dependency-name: mistune
       versions: [">=1.0"]
-    - dependency-name: jinja
-      versions: [">3.0.3"]
