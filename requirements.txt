@@ -1,4 +1,4 @@
-Markdown==3.5.2
+Markdown==3.6
 pelican==4.9.1
 pelican-seo==1.2.2
 beautifulsoup4==4.12.3
